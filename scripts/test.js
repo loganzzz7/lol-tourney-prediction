@@ -11,7 +11,7 @@ async function main() {
     "98767991325878492"
   );
 
-  console.log("✅ Raw MSI result:");
+  console.log("Raw MSI result:");
   console.dir(leagueTournaments, { depth: null });
 }
 
