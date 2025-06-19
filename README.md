@@ -1,6 +1,6 @@
 # 🏆 League of Legends Tournament Winner Prediction (MSI)
 
-This project is a machine learning pipeline built to **predict the winner of the Mid-Season Invitational (MSI)** — one of the premier global League of Legends tournaments. The goal is to extract competitive match data using Riot's public esports APIs and train predictive models based on early-game stats such as **gold @ 15 mins**, **KDA**, and **objective control**.
+This project is a machine learning pipeline built to **predict the winner of the Mid-Season Invitational (MSI)** — one of the global League of Legends tournaments. The goal is to extract competitive match data using the LoL esport API and train predictive models based on game stats such as **gold @ 15 mins**, **KDA**, and **objective control**.
 
 ---
 
