@@ -7,10 +7,12 @@ const client = new APIClient({
 });
 
 async function main() {
-  const leagues = await client.leagues.get();
+  const leagueTournaments = await client.leagues.getTournaments(
+    "98767991325878492"
+  );
 
-  console.log("✅ Raw leagues result:");
-  console.dir(leagues, { depth: null });
+  console.log("✅ Raw MSI result:");
+  console.dir(leagueTournaments, { depth: null });
 }
 
 main().catch(console.error);
