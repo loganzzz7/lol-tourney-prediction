@@ -1,0 +1,7155 @@
+{
+  "data": {
+    "schedule": {
+      "events": [
+        {
+          "startTime": "2025-04-02T08:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285187397",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285187398",
+              "vods": [
+                {
+                  "parameter": "JRIQfSRJDQ4"
+                },
+                {
+                  "parameter": "SMqBlj4ACPI"
+                },
+                {
+                  "parameter": "156008719"
+                },
+                {
+                  "parameter": "H_vdfkMr46Q"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187399",
+              "vods": [
+                {
+                  "parameter": "JRIQfSRJDQ4"
+                },
+                {
+                  "parameter": "SMqBlj4ACPI"
+                },
+                {
+                  "parameter": "156008719"
+                },
+                {
+                  "parameter": "H_vdfkMr46Q"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187400",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-02T10:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285253033",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DRX",
+                "code": "DRX",
+                "image": "http://static.lolesports.com/teams/1672910733664_01.Basic_W.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DN FREECS",
+                "code": "DNF",
+                "image": "http://static.lolesports.com/teams/1735904500256_DN_Freecslogo_profile.webp",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285253034",
+              "vods": [
+                {
+                  "parameter": "JRIQfSRJDQ4"
+                },
+                {
+                  "parameter": "Av0dHzxqrZ4"
+                },
+                {
+                  "parameter": "156023611"
+                },
+                {
+                  "parameter": "H_vdfkMr46Q"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253035",
+              "vods": [
+                {
+                  "parameter": "JRIQfSRJDQ4"
+                },
+                {
+                  "parameter": "Av0dHzxqrZ4"
+                },
+                {
+                  "parameter": "156023611"
+                },
+                {
+                  "parameter": "H_vdfkMr46Q"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253036",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-03T08:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285253049",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "OKSavingsBank BRION",
+                "code": "BRO",
+                "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285253050",
+              "vods": [
+                {
+                  "parameter": "Kpb9JqaGgWw"
+                },
+                {
+                  "parameter": "lGSKg5aJvm4"
+                },
+                {
+                  "parameter": "156110109"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253051",
+              "vods": [
+                {
+                  "parameter": "Kpb9JqaGgWw"
+                },
+                {
+                  "parameter": "lGSKg5aJvm4"
+                },
+                {
+                  "parameter": "156110109"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253052",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-03T10:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285252997",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "BNK FEARX",
+                "code": "BFX",
+                "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285252998",
+              "vods": [
+                {
+                  "parameter": "Kpb9JqaGgWw"
+                },
+                {
+                  "parameter": "VahAwBYx0KU"
+                },
+                {
+                  "parameter": "156128957"
+                }
+              ]
+            },
+            {
+              "id": "113503303285252999",
+              "vods": [
+                {
+                  "parameter": "Kpb9JqaGgWw"
+                },
+                {
+                  "parameter": "VahAwBYx0KU"
+                },
+                {
+                  "parameter": "156128957"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253000",
+              "vods": [
+                {
+                  "parameter": "Kpb9JqaGgWw"
+                },
+                {
+                  "parameter": "VahAwBYx0KU"
+                },
+                {
+                  "parameter": "156128957"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-04T08:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285187405",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285187406",
+              "vods": [
+                {
+                  "parameter": "71VW4iiW84E"
+                },
+                {
+                  "parameter": "FLfB2uzZ4UU"
+                },
+                {
+                  "parameter": "156212841"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187407",
+              "vods": [
+                {
+                  "parameter": "71VW4iiW84E"
+                },
+                {
+                  "parameter": "FLfB2uzZ4UU"
+                },
+                {
+                  "parameter": "156212841"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187408",
+              "vods": [
+                {
+                  "parameter": "71VW4iiW84E"
+                },
+                {
+                  "parameter": "FLfB2uzZ4UU"
+                },
+                {
+                  "parameter": "156212841"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-04T10:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285252981",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DRX",
+                "code": "DRX",
+                "image": "http://static.lolesports.com/teams/1672910733664_01.Basic_W.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285252982",
+              "vods": [
+                {
+                  "parameter": "71VW4iiW84E"
+                },
+                {
+                  "parameter": "9rONGlgB3io"
+                },
+                {
+                  "parameter": "156227871"
+                }
+              ]
+            },
+            {
+              "id": "113503303285252983",
+              "vods": [
+                {
+                  "parameter": "71VW4iiW84E"
+                },
+                {
+                  "parameter": "9rONGlgB3io"
+                },
+                {
+                  "parameter": "156227871"
+                }
+              ]
+            },
+            {
+              "id": "113503303285252984",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-05T06:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285252989",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "OKSavingsBank BRION",
+                "code": "BRO",
+                "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "BNK FEARX",
+                "code": "BFX",
+                "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285252990",
+              "vods": [
+                {
+                  "parameter": "IE4z4flc-lU"
+                },
+                {
+                  "parameter": "h9UYPoQO1Q0"
+                },
+                {
+                  "parameter": "156290397"
+                }
+              ]
+            },
+            {
+              "id": "113503303285252991",
+              "vods": [
+                {
+                  "parameter": "IE4z4flc-lU"
+                },
+                {
+                  "parameter": "h9UYPoQO1Q0"
+                },
+                {
+                  "parameter": "156294113"
+                }
+              ]
+            },
+            {
+              "id": "113503303285252992",
+              "vods": [
+                {
+                  "parameter": "IE4z4flc-lU"
+                },
+                {
+                  "parameter": "h9UYPoQO1Q0"
+                },
+                {
+                  "parameter": "156298939"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-05T08:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285253029",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DN FREECS",
+                "code": "DNF",
+                "image": "http://static.lolesports.com/teams/1735904500256_DN_Freecslogo_profile.webp",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285253030",
+              "vods": [
+                {
+                  "parameter": "IE4z4flc-lU"
+                },
+                {
+                  "parameter": "WRJAdyESQzo"
+                },
+                {
+                  "parameter": "156305901"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253031",
+              "vods": [
+                {
+                  "parameter": "IE4z4flc-lU"
+                },
+                {
+                  "parameter": "WRJAdyESQzo"
+                },
+                {
+                  "parameter": "156313707"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253032",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-06T06:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384145",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384146",
+              "vods": [
+                {
+                  "parameter": "uJKe2YyQp8U"
+                },
+                {
+                  "parameter": "w9bdVf87NV8"
+                },
+                {
+                  "parameter": "156388085"
+                },
+                {
+                  "parameter": "M1TFTBEEqpM"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384147",
+              "vods": [
+                {
+                  "parameter": "uJKe2YyQp8U"
+                },
+                {
+                  "parameter": "w9bdVf87NV8"
+                },
+                {
+                  "parameter": "156393373"
+                },
+                {
+                  "parameter": "M1TFTBEEqpM"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384148",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-06T08:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285187429",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285187430",
+              "vods": [
+                {
+                  "parameter": "uJKe2YyQp8U"
+                },
+                {
+                  "parameter": "Twky4JYiK64"
+                },
+                {
+                  "parameter": "156398793"
+                },
+                {
+                  "parameter": "M1TFTBEEqpM"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187431",
+              "vods": [
+                {
+                  "parameter": "uJKe2YyQp8U"
+                },
+                {
+                  "parameter": "Twky4JYiK64"
+                },
+                {
+                  "parameter": "156404827"
+                },
+                {
+                  "parameter": "M1TFTBEEqpM"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187432",
+              "vods": [
+                {
+                  "parameter": "uJKe2YyQp8U"
+                },
+                {
+                  "parameter": "Twky4JYiK64"
+                },
+                {
+                  "parameter": "156415371"
+                },
+                {
+                  "parameter": "M1TFTBEEqpM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-09T08:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285187389",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DN FREECS",
+                "code": "DNF",
+                "image": "http://static.lolesports.com/teams/1735904500256_DN_Freecslogo_profile.webp",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285187390",
+              "vods": [
+                {
+                  "parameter": "JY48NJsKnvk"
+                },
+                {
+                  "parameter": "gXfFPLhDkiY"
+                },
+                {
+                  "parameter": "156698471"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187391",
+              "vods": [
+                {
+                  "parameter": "JY48NJsKnvk"
+                },
+                {
+                  "parameter": "gXfFPLhDkiY"
+                },
+                {
+                  "parameter": "156698471"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187392",
+              "vods": [
+                {
+                  "parameter": "JY48NJsKnvk"
+                },
+                {
+                  "parameter": "gXfFPLhDkiY"
+                },
+                {
+                  "parameter": "156698471"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-09T10:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285253041",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "OKSavingsBank BRION",
+                "code": "BRO",
+                "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285253042",
+              "vods": [
+                {
+                  "parameter": "JY48NJsKnvk"
+                },
+                {
+                  "parameter": "juZz6A0cnR8"
+                },
+                {
+                  "parameter": "156712417"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253043",
+              "vods": [
+                {
+                  "parameter": "JY48NJsKnvk"
+                },
+                {
+                  "parameter": "juZz6A0cnR8"
+                },
+                {
+                  "parameter": "156712417"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253044",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-10T08:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285253009",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "BNK FEARX",
+                "code": "BFX",
+                "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DRX",
+                "code": "DRX",
+                "image": "http://static.lolesports.com/teams/1672910733664_01.Basic_W.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285253010",
+              "vods": [
+                {
+                  "parameter": "F82ZUc8ZX5g"
+                },
+                {
+                  "parameter": "JU5TcnEhPoQ"
+                },
+                {
+                  "parameter": "156788023"
+                },
+                {
+                  "parameter": "BUtZnJuzLU8"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253011",
+              "vods": [
+                {
+                  "parameter": "F82ZUc8ZX5g"
+                },
+                {
+                  "parameter": "JU5TcnEhPoQ"
+                },
+                {
+                  "parameter": "156788023"
+                },
+                {
+                  "parameter": "BUtZnJuzLU8"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253012",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-10T10:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285187437",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285187438",
+              "vods": [
+                {
+                  "parameter": "F82ZUc8ZX5g"
+                },
+                {
+                  "parameter": "gdiqRfXeezs"
+                },
+                {
+                  "parameter": "156803161"
+                },
+                {
+                  "parameter": "BUtZnJuzLU8"
+                }
+              ]
+            },
+            {
+              "id": "113503303285252975",
+              "vods": [
+                {
+                  "parameter": "F82ZUc8ZX5g"
+                },
+                {
+                  "parameter": "gdiqRfXeezs"
+                },
+                {
+                  "parameter": "156803161"
+                },
+                {
+                  "parameter": "BUtZnJuzLU8"
+                }
+              ]
+            },
+            {
+              "id": "113503303285252976",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-11T08:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285253013",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "OKSavingsBank BRION",
+                "code": "BRO",
+                "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DN FREECS",
+                "code": "DNF",
+                "image": "http://static.lolesports.com/teams/1735904500256_DN_Freecslogo_profile.webp",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285253014",
+              "vods": [
+                {
+                  "parameter": "7CFwOsCdvgg"
+                },
+                {
+                  "parameter": "NDiq4WE3HAc"
+                },
+                {
+                  "parameter": "156877991"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253015",
+              "vods": [
+                {
+                  "parameter": "7CFwOsCdvgg"
+                },
+                {
+                  "parameter": "NDiq4WE3HAc"
+                },
+                {
+                  "parameter": "156882381"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253016",
+              "vods": [
+                {
+                  "parameter": "7CFwOsCdvgg"
+                },
+                {
+                  "parameter": "NDiq4WE3HAc"
+                },
+                {
+                  "parameter": "156888923"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-11T10:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285253065",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285253066",
+              "vods": [
+                {
+                  "parameter": "7CFwOsCdvgg"
+                },
+                {
+                  "parameter": "bIMbcjWrJj8"
+                },
+                {
+                  "parameter": "156895027"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384139",
+              "vods": [
+                {
+                  "parameter": "7CFwOsCdvgg"
+                },
+                {
+                  "parameter": "bIMbcjWrJj8"
+                },
+                {
+                  "parameter": "156902919"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384140",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-12T06:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285187381",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285187382",
+              "vods": [
+                {
+                  "parameter": "zFC_nIBr99k"
+                },
+                {
+                  "parameter": "F_QGIkFOHGo"
+                },
+                {
+                  "parameter": "156972467"
+                },
+                {
+                  "parameter": "3T5dgP1LUcI"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187383",
+              "vods": [
+                {
+                  "parameter": "zFC_nIBr99k"
+                },
+                {
+                  "parameter": "F_QGIkFOHGo"
+                },
+                {
+                  "parameter": "156979327"
+                },
+                {
+                  "parameter": "3T5dgP1LUcI"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187384",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-12T08:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285253001",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "BNK FEARX",
+                "code": "BFX",
+                "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285253002",
+              "vods": [
+                {
+                  "parameter": "zFC_nIBr99k"
+                },
+                {
+                  "parameter": "8E3BpgZ--Qo"
+                },
+                {
+                  "parameter": "156984977"
+                },
+                {
+                  "parameter": "3T5dgP1LUcI"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253003",
+              "vods": [
+                {
+                  "parameter": "zFC_nIBr99k"
+                },
+                {
+                  "parameter": "8E3BpgZ--Qo"
+                },
+                {
+                  "parameter": "156990039"
+                },
+                {
+                  "parameter": "3T5dgP1LUcI"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253004",
+              "vods": [
+                {
+                  "parameter": "zFC_nIBr99k"
+                },
+                {
+                  "parameter": "8E3BpgZ--Qo"
+                },
+                {
+                  "parameter": "156997251"
+                },
+                {
+                  "parameter": "3T5dgP1LUcI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-13T06:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285253057",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285253058",
+              "vods": [
+                {
+                  "parameter": "zchN1X4LcJ8"
+                },
+                {
+                  "parameter": "WFPwCwQg0GM"
+                },
+                {
+                  "parameter": "157081071"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253059",
+              "vods": [
+                {
+                  "parameter": "zchN1X4LcJ8"
+                },
+                {
+                  "parameter": "WFPwCwQg0GM"
+                },
+                {
+                  "parameter": "157085099"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253060",
+              "vods": [
+                {
+                  "parameter": "zchN1X4LcJ8"
+                },
+                {
+                  "parameter": "WFPwCwQg0GM"
+                },
+                {
+                  "parameter": "157090473"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-13T08:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384165",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DRX",
+                "code": "DRX",
+                "image": "http://static.lolesports.com/teams/1672910733664_01.Basic_W.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384166",
+              "vods": [
+                {
+                  "parameter": "zchN1X4LcJ8"
+                },
+                {
+                  "parameter": "25kVjeXEhHc"
+                },
+                {
+                  "parameter": "157096867"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384167",
+              "vods": [
+                {
+                  "parameter": "zchN1X4LcJ8"
+                },
+                {
+                  "parameter": "25kVjeXEhHc"
+                },
+                {
+                  "parameter": "157102323"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384168",
+              "vods": [
+                {
+                  "parameter": "zchN1X4LcJ8"
+                },
+                {
+                  "parameter": "25kVjeXEhHc"
+                },
+                {
+                  "parameter": "157111013"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-16T08:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285252977",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285252978",
+              "vods": [
+                {
+                  "parameter": "AeZanRFvvHk"
+                },
+                {
+                  "parameter": "z4mdPY9cuDM"
+                },
+                {
+                  "parameter": "157388749"
+                },
+                {
+                  "parameter": "iayW8C9FkL0"
+                }
+              ]
+            },
+            {
+              "id": "113503303285252979",
+              "vods": [
+                {
+                  "parameter": "AeZanRFvvHk"
+                },
+                {
+                  "parameter": "z4mdPY9cuDM"
+                },
+                {
+                  "parameter": "157388749"
+                },
+                {
+                  "parameter": "iayW8C9FkL0"
+                }
+              ]
+            },
+            {
+              "id": "113503303285252980",
+              "vods": [
+                {
+                  "parameter": "AeZanRFvvHk"
+                },
+                {
+                  "parameter": "z4mdPY9cuDM"
+                },
+                {
+                  "parameter": "157388749"
+                },
+                {
+                  "parameter": "iayW8C9FkL0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-16T10:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285252993",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "BNK FEARX",
+                "code": "BFX",
+                "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285252994",
+              "vods": [
+                {
+                  "parameter": "AeZanRFvvHk"
+                },
+                {
+                  "parameter": "Zkni7vJ7YAU"
+                },
+                {
+                  "parameter": "157409277"
+                },
+                {
+                  "parameter": "iayW8C9FkL0"
+                }
+              ]
+            },
+            {
+              "id": "113503303285252995",
+              "vods": [
+                {
+                  "parameter": "AeZanRFvvHk"
+                },
+                {
+                  "parameter": "Zkni7vJ7YAU"
+                },
+                {
+                  "parameter": "157409277"
+                },
+                {
+                  "parameter": "iayW8C9FkL0"
+                }
+              ]
+            },
+            {
+              "id": "113503303285252996",
+              "vods": [
+                {
+                  "parameter": "AeZanRFvvHk"
+                },
+                {
+                  "parameter": "Zkni7vJ7YAU"
+                },
+                {
+                  "parameter": "157409277"
+                },
+                {
+                  "parameter": "iayW8C9FkL0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-17T08:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285187413",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DRX",
+                "code": "DRX",
+                "image": "http://static.lolesports.com/teams/1672910733664_01.Basic_W.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285187414",
+              "vods": [
+                {
+                  "parameter": "eEhe-54N-Tc"
+                },
+                {
+                  "parameter": "_EgGe4vCbNg"
+                },
+                {
+                  "parameter": "157476349"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187415",
+              "vods": [
+                {
+                  "parameter": "eEhe-54N-Tc"
+                },
+                {
+                  "parameter": "_EgGe4vCbNg"
+                },
+                {
+                  "parameter": "157476349"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187416",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-17T10:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285253045",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "OKSavingsBank BRION",
+                "code": "BRO",
+                "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285253046",
+              "vods": [
+                {
+                  "parameter": "eEhe-54N-Tc"
+                },
+                {
+                  "parameter": "a1roZhOr10I"
+                },
+                {
+                  "parameter": "157497077"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253047",
+              "vods": [
+                {
+                  "parameter": "eEhe-54N-Tc"
+                },
+                {
+                  "parameter": "a1roZhOr10I"
+                },
+                {
+                  "parameter": "157497077"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253048",
+              "vods": [
+                {
+                  "parameter": "eEhe-54N-Tc"
+                },
+                {
+                  "parameter": "a1roZhOr10I"
+                },
+                {
+                  "parameter": "157497077"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-18T08:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285187417",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "BNK FEARX",
+                "code": "BFX",
+                "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285187418",
+              "vods": [
+                {
+                  "parameter": "WgNQoAY_jCw"
+                },
+                {
+                  "parameter": "_cppueb0Adk"
+                },
+                {
+                  "parameter": "157569959"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187419",
+              "vods": [
+                {
+                  "parameter": "WgNQoAY_jCw"
+                },
+                {
+                  "parameter": "_cppueb0Adk"
+                },
+                {
+                  "parameter": "157575103"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187420",
+              "vods": [
+                {
+                  "parameter": "WgNQoAY_jCw"
+                },
+                {
+                  "parameter": "_cppueb0Adk"
+                },
+                {
+                  "parameter": "157581505"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-18T10:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285253021",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DN FREECS",
+                "code": "DNF",
+                "image": "http://static.lolesports.com/teams/1735904500256_DN_Freecslogo_profile.webp",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285253022",
+              "vods": [
+                {
+                  "parameter": "WgNQoAY_jCw"
+                },
+                {
+                  "parameter": "lqKKATDp_pg"
+                },
+                {
+                  "parameter": "157587771"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253023",
+              "vods": [
+                {
+                  "parameter": "WgNQoAY_jCw"
+                },
+                {
+                  "parameter": "lqKKATDp_pg"
+                },
+                {
+                  "parameter": "157595887"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253024",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-19T06:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285253037",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "OKSavingsBank BRION",
+                "code": "BRO",
+                "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285253038",
+              "vods": [
+                {
+                  "parameter": "lFZkcwY4skg"
+                },
+                {
+                  "parameter": "CPsB5BzF7kA"
+                },
+                {
+                  "parameter": "157661797"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253039",
+              "vods": [
+                {
+                  "parameter": "lFZkcwY4skg"
+                },
+                {
+                  "parameter": "CPsB5BzF7kA"
+                },
+                {
+                  "parameter": "157666491"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253040",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-19T08:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285187409",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285187410",
+              "vods": [
+                {
+                  "parameter": "lFZkcwY4skg"
+                },
+                {
+                  "parameter": "j-Do5p-HNlM"
+                },
+                {
+                  "parameter": "157670659"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187411",
+              "vods": [
+                {
+                  "parameter": "lFZkcwY4skg"
+                },
+                {
+                  "parameter": "j-Do5p-HNlM"
+                },
+                {
+                  "parameter": "157676533"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187412",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-20T06:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384153",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DRX",
+                "code": "DRX",
+                "image": "http://static.lolesports.com/teams/1672910733664_01.Basic_W.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384154",
+              "vods": [
+                {
+                  "parameter": "RH81Pg3FIuM"
+                },
+                {
+                  "parameter": "7tRdYgHsQU8"
+                },
+                {
+                  "parameter": "157762445"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384155",
+              "vods": [
+                {
+                  "parameter": "RH81Pg3FIuM"
+                },
+                {
+                  "parameter": "7tRdYgHsQU8"
+                },
+                {
+                  "parameter": "157766125"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384156",
+              "vods": [
+                {
+                  "parameter": "RH81Pg3FIuM"
+                },
+                {
+                  "parameter": "7tRdYgHsQU8"
+                },
+                {
+                  "parameter": "157771753"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-20T08:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285253025",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DN FREECS",
+                "code": "DNF",
+                "image": "http://static.lolesports.com/teams/1735904500256_DN_Freecslogo_profile.webp",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285253026",
+              "vods": [
+                {
+                  "parameter": "RH81Pg3FIuM"
+                },
+                {
+                  "parameter": "WT5oYG-vCnQ"
+                },
+                {
+                  "parameter": "157778721"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253027",
+              "vods": [
+                {
+                  "parameter": "RH81Pg3FIuM"
+                },
+                {
+                  "parameter": "WT5oYG-vCnQ"
+                },
+                {
+                  "parameter": "157785889"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253028",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-23T08:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384161",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DRX",
+                "code": "DRX",
+                "image": "http://static.lolesports.com/teams/1672910733664_01.Basic_W.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384162",
+              "vods": [
+                {
+                  "parameter": "YL_rsUXTHtU"
+                },
+                {
+                  "parameter": "qmhS33JVatA"
+                },
+                {
+                  "parameter": "158063215"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384163",
+              "vods": [
+                {
+                  "parameter": "YL_rsUXTHtU"
+                },
+                {
+                  "parameter": "qmhS33JVatA"
+                },
+                {
+                  "parameter": "158063215"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384164",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-23T10:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285253005",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "BNK FEARX",
+                "code": "BFX",
+                "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285253006",
+              "vods": [
+                {
+                  "parameter": "YL_rsUXTHtU"
+                },
+                {
+                  "parameter": "UWn8vjl7mBU"
+                },
+                {
+                  "parameter": "158076543"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253007",
+              "vods": [
+                {
+                  "parameter": "YL_rsUXTHtU"
+                },
+                {
+                  "parameter": "UWn8vjl7mBU"
+                },
+                {
+                  "parameter": "158076543"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253008",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-24T08:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285253017",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DN FREECS",
+                "code": "DNF",
+                "image": "http://static.lolesports.com/teams/1735904500256_DN_Freecslogo_profile.webp",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285253018",
+              "vods": [
+                {
+                  "parameter": "Acyp2IDzLgc"
+                },
+                {
+                  "parameter": "-dca6sUKR08"
+                },
+                {
+                  "parameter": "158156193"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253019",
+              "vods": [
+                {
+                  "parameter": "Acyp2IDzLgc"
+                },
+                {
+                  "parameter": "-dca6sUKR08"
+                },
+                {
+                  "parameter": "158156193"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253020",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-24T10:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285187393",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "OKSavingsBank BRION",
+                "code": "BRO",
+                "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285187394",
+              "vods": [
+                {
+                  "parameter": "Acyp2IDzLgc"
+                },
+                {
+                  "parameter": "1DfeTR8dd-w"
+                },
+                {
+                  "parameter": "158168703"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187395",
+              "vods": [
+                {
+                  "parameter": "Acyp2IDzLgc"
+                },
+                {
+                  "parameter": "1DfeTR8dd-w"
+                },
+                {
+                  "parameter": "158168703"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187396",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-25T08:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384157",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384158",
+              "vods": [
+                {
+                  "parameter": "W_MqpALdRBw"
+                },
+                {
+                  "parameter": "2LLXa_SuPMI"
+                },
+                {
+                  "parameter": "158241611"
+                },
+                {
+                  "parameter": "-HfQ9jYfOvA"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384159",
+              "vods": [
+                {
+                  "parameter": "W_MqpALdRBw"
+                },
+                {
+                  "parameter": "2LLXa_SuPMI"
+                },
+                {
+                  "parameter": "158249051"
+                },
+                {
+                  "parameter": "-HfQ9jYfOvA"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384160",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-25T10:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285187433",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285187434",
+              "vods": [
+                {
+                  "parameter": "W_MqpALdRBw"
+                },
+                {
+                  "parameter": "YoH4kH0pZJs"
+                },
+                {
+                  "parameter": "158255283"
+                },
+                {
+                  "parameter": "-HfQ9jYfOvA"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187435",
+              "vods": [
+                {
+                  "parameter": "W_MqpALdRBw"
+                },
+                {
+                  "parameter": "YoH4kH0pZJs"
+                },
+                {
+                  "parameter": "158260177"
+                },
+                {
+                  "parameter": "-HfQ9jYfOvA"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187436",
+              "vods": [
+                {
+                  "parameter": "W_MqpALdRBw"
+                },
+                {
+                  "parameter": "YoH4kH0pZJs"
+                },
+                {
+                  "parameter": "158269739"
+                },
+                {
+                  "parameter": "-HfQ9jYfOvA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-26T06:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285252985",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DN FREECS",
+                "code": "DNF",
+                "image": "http://static.lolesports.com/teams/1735904500256_DN_Freecslogo_profile.webp",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "BNK FEARX",
+                "code": "BFX",
+                "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285252986",
+              "vods": [
+                {
+                  "parameter": "Zgputj5Lf_k"
+                },
+                {
+                  "parameter": "cCqcBmVkesA"
+                },
+                {
+                  "parameter": "158333133"
+                }
+              ]
+            },
+            {
+              "id": "113503303285252987",
+              "vods": [
+                {
+                  "parameter": "Zgputj5Lf_k"
+                },
+                {
+                  "parameter": "cCqcBmVkesA"
+                },
+                {
+                  "parameter": "158336299"
+                }
+              ]
+            },
+            {
+              "id": "113503303285252988",
+              "vods": [
+                {
+                  "parameter": "Zgputj5Lf_k"
+                },
+                {
+                  "parameter": "cCqcBmVkesA"
+                },
+                {
+                  "parameter": "158341793"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-26T08:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384141",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DRX",
+                "code": "DRX",
+                "image": "http://static.lolesports.com/teams/1672910733664_01.Basic_W.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384142",
+              "vods": [
+                {
+                  "parameter": "Zgputj5Lf_k"
+                },
+                {
+                  "parameter": "LwSysSgyjpM"
+                },
+                {
+                  "parameter": "158347375"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384143",
+              "vods": [
+                {
+                  "parameter": "Zgputj5Lf_k"
+                },
+                {
+                  "parameter": "LwSysSgyjpM"
+                },
+                {
+                  "parameter": "158353997"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384144",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-27T06:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285187425",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "OKSavingsBank BRION",
+                "code": "BRO",
+                "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285187426",
+              "vods": [
+                {
+                  "parameter": "nVQoSLax4AA"
+                },
+                {
+                  "parameter": "GcG6OFPssgQ"
+                },
+                {
+                  "parameter": "158433465"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187427",
+              "vods": [
+                {
+                  "parameter": "nVQoSLax4AA"
+                },
+                {
+                  "parameter": "GcG6OFPssgQ"
+                },
+                {
+                  "parameter": "158436633"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187428",
+              "vods": [
+                {
+                  "parameter": "nVQoSLax4AA"
+                },
+                {
+                  "parameter": "GcG6OFPssgQ"
+                },
+                {
+                  "parameter": "158442411"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-27T08:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285187401",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285187402",
+              "vods": [
+                {
+                  "parameter": "nVQoSLax4AA"
+                },
+                {
+                  "parameter": "_SjwIrHqHoM"
+                },
+                {
+                  "parameter": "158448583"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187403",
+              "vods": [
+                {
+                  "parameter": "nVQoSLax4AA"
+                },
+                {
+                  "parameter": "_SjwIrHqHoM"
+                },
+                {
+                  "parameter": "158454267"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187404",
+              "vods": [
+                {
+                  "parameter": "nVQoSLax4AA"
+                },
+                {
+                  "parameter": "_SjwIrHqHoM"
+                },
+                {
+                  "parameter": "158461637"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-30T08:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384149",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384150",
+              "vods": [
+                {
+                  "parameter": "YixESnYXVLs"
+                },
+                {
+                  "parameter": "PcvcFt5AUGA"
+                },
+                {
+                  "parameter": "158724391"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384151",
+              "vods": [
+                {
+                  "parameter": "YixESnYXVLs"
+                },
+                {
+                  "parameter": "PcvcFt5AUGA"
+                },
+                {
+                  "parameter": "158724391"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384152",
+              "vods": [
+                {
+                  "parameter": "YixESnYXVLs"
+                },
+                {
+                  "parameter": "PcvcFt5AUGA"
+                },
+                {
+                  "parameter": "158724391"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-30T10:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285187385",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "BNK FEARX",
+                "code": "BFX",
+                "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285187386",
+              "vods": [
+                {
+                  "parameter": "YixESnYXVLs"
+                },
+                {
+                  "parameter": "huMnEKQdoPo"
+                },
+                {
+                  "parameter": "158739677"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187387",
+              "vods": [
+                {
+                  "parameter": "YixESnYXVLs"
+                },
+                {
+                  "parameter": "huMnEKQdoPo"
+                },
+                {
+                  "parameter": "158739677"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187388",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-01T08:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285253061",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285253062",
+              "vods": [
+                {
+                  "parameter": "gyocwVIDcd4"
+                },
+                {
+                  "parameter": "kjjr8m7VIA4"
+                },
+                {
+                  "parameter": "158822175"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253063",
+              "vods": [
+                {
+                  "parameter": "gyocwVIDcd4"
+                },
+                {
+                  "parameter": "kjjr8m7VIA4"
+                },
+                {
+                  "parameter": "158822175"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253064",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-01T10:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285253053",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "OKSavingsBank BRION",
+                "code": "BRO",
+                "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "DRX",
+                "code": "DRX",
+                "image": "http://static.lolesports.com/teams/1672910733664_01.Basic_W.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285253054",
+              "vods": [
+                {
+                  "parameter": "gyocwVIDcd4"
+                },
+                {
+                  "parameter": "78SjUGqjF6w"
+                },
+                {
+                  "parameter": "158841729"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253055",
+              "vods": [
+                {
+                  "parameter": "gyocwVIDcd4"
+                },
+                {
+                  "parameter": "78SjUGqjF6w"
+                },
+                {
+                  "parameter": "158841729"
+                }
+              ]
+            },
+            {
+              "id": "113503303285253056",
+              "vods": [
+                {
+                  "parameter": "gyocwVIDcd4"
+                },
+                {
+                  "parameter": "78SjUGqjF6w"
+                },
+                {
+                  "parameter": "158841729"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-02T08:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285187421",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DN FREECS",
+                "code": "DNF",
+                "image": "http://static.lolesports.com/teams/1735904500256_DN_Freecslogo_profile.webp",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285187422",
+              "vods": [
+                {
+                  "parameter": "i3ebVPmm8U8"
+                },
+                {
+                  "parameter": "jaL5Wl_9-NE"
+                },
+                {
+                  "parameter": "158917049"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187423",
+              "vods": [
+                {
+                  "parameter": "i3ebVPmm8U8"
+                },
+                {
+                  "parameter": "jaL5Wl_9-NE"
+                },
+                {
+                  "parameter": "158923099"
+                }
+              ]
+            },
+            {
+              "id": "113503303285187424",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-02T10:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384197",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384198",
+              "vods": [
+                {
+                  "parameter": "i3ebVPmm8U8"
+                },
+                {
+                  "parameter": "KHJmd5rntXg"
+                },
+                {
+                  "parameter": "158928481"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384199",
+              "vods": [
+                {
+                  "parameter": "i3ebVPmm8U8"
+                },
+                {
+                  "parameter": "KHJmd5rntXg"
+                },
+                {
+                  "parameter": "158936691"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384200",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-03T06:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384309",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384310",
+              "vods": [
+                {
+                  "parameter": "I2v1LfUz6kk"
+                },
+                {
+                  "parameter": "K6ETXdfRlFo"
+                },
+                {
+                  "parameter": "159008147"
+                },
+                {
+                  "parameter": "zAdwyQXGY9g"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384311",
+              "vods": [
+                {
+                  "parameter": "I2v1LfUz6kk"
+                },
+                {
+                  "parameter": "K6ETXdfRlFo"
+                },
+                {
+                  "parameter": "159012897"
+                },
+                {
+                  "parameter": "zAdwyQXGY9g"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384312",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-03T08:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384261",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DRX",
+                "code": "DRX",
+                "image": "http://static.lolesports.com/teams/1672910733664_01.Basic_W.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "BNK FEARX",
+                "code": "BFX",
+                "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384262",
+              "vods": [
+                {
+                  "parameter": "I2v1LfUz6kk"
+                },
+                {
+                  "parameter": "2p-xtZ6i8Ak"
+                },
+                {
+                  "parameter": "159018221"
+                },
+                {
+                  "parameter": "zAdwyQXGY9g"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384263",
+              "vods": [
+                {
+                  "parameter": "I2v1LfUz6kk"
+                },
+                {
+                  "parameter": "2p-xtZ6i8Ak"
+                },
+                {
+                  "parameter": "159026499"
+                },
+                {
+                  "parameter": "zAdwyQXGY9g"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384264",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-04T06:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384225",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384226",
+              "vods": [
+                {
+                  "parameter": "rRW8X1GWcXI"
+                },
+                {
+                  "parameter": "IWHzww8E130"
+                },
+                {
+                  "parameter": "159105025"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384227",
+              "vods": [
+                {
+                  "parameter": "rRW8X1GWcXI"
+                },
+                {
+                  "parameter": "IWHzww8E130"
+                },
+                {
+                  "parameter": "159110525"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384228",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-04T08:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384265",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DN FREECS",
+                "code": "DNF",
+                "image": "http://static.lolesports.com/teams/1735904500256_DN_Freecslogo_profile.webp",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "OKSavingsBank BRION",
+                "code": "BRO",
+                "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384266",
+              "vods": [
+                {
+                  "parameter": "rRW8X1GWcXI"
+                },
+                {
+                  "parameter": "3Wv47WqTGLE"
+                },
+                {
+                  "parameter": "159115393"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384267",
+              "vods": [
+                {
+                  "parameter": "rRW8X1GWcXI"
+                },
+                {
+                  "parameter": "3Wv47WqTGLE"
+                },
+                {
+                  "parameter": "159120101"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384268",
+              "vods": [
+                {
+                  "parameter": "rRW8X1GWcXI"
+                },
+                {
+                  "parameter": "3Wv47WqTGLE"
+                },
+                {
+                  "parameter": "159126815"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-07T08:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384241",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "BNK FEARX",
+                "code": "BFX",
+                "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "OKSavingsBank BRION",
+                "code": "BRO",
+                "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384242",
+              "vods": [
+                {
+                  "parameter": "ZrKioAFwsWQ"
+                },
+                {
+                  "parameter": "avXjcgedLeo"
+                },
+                {
+                  "parameter": "159412453"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384243",
+              "vods": [
+                {
+                  "parameter": "ZrKioAFwsWQ"
+                },
+                {
+                  "parameter": "avXjcgedLeo"
+                },
+                {
+                  "parameter": "159412453"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384244",
+              "vods": [
+                {
+                  "parameter": "ZrKioAFwsWQ"
+                },
+                {
+                  "parameter": "avXjcgedLeo"
+                },
+                {
+                  "parameter": "159412453"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-07T10:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384325",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384326",
+              "vods": [
+                {
+                  "parameter": "ZrKioAFwsWQ"
+                },
+                {
+                  "parameter": "83LM8IUSJds"
+                },
+                {
+                  "parameter": "159428729"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384327",
+              "vods": [
+                {
+                  "parameter": "ZrKioAFwsWQ"
+                },
+                {
+                  "parameter": "83LM8IUSJds"
+                },
+                {
+                  "parameter": "159428729"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384328",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-08T08:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384233",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DRX",
+                "code": "DRX",
+                "image": "http://static.lolesports.com/teams/1672910733664_01.Basic_W.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384234",
+              "vods": [
+                {
+                  "parameter": "wt1z0obJ7QE"
+                },
+                {
+                  "parameter": "cV01zG25HN4"
+                },
+                {
+                  "parameter": "159500361"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384235",
+              "vods": [
+                {
+                  "parameter": "wt1z0obJ7QE"
+                },
+                {
+                  "parameter": "cV01zG25HN4"
+                },
+                {
+                  "parameter": "159500361"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384236",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-08T10:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384317",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384318",
+              "vods": [
+                {
+                  "parameter": "wt1z0obJ7QE"
+                },
+                {
+                  "parameter": "uxig5i_YuPM"
+                },
+                {
+                  "parameter": "159510289"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384319",
+              "vods": [
+                {
+                  "parameter": "wt1z0obJ7QE"
+                },
+                {
+                  "parameter": "uxig5i_YuPM"
+                },
+                {
+                  "parameter": "159510289"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384320",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-09T08:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384277",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DN FREECS",
+                "code": "DNF",
+                "image": "http://static.lolesports.com/teams/1735904500256_DN_Freecslogo_profile.webp",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384278",
+              "vods": [
+                {
+                  "parameter": "68eGsmNpk3M"
+                },
+                {
+                  "parameter": "Bu1TsbUUHX8"
+                },
+                {
+                  "parameter": "159582335"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384279",
+              "vods": [
+                {
+                  "parameter": "68eGsmNpk3M"
+                },
+                {
+                  "parameter": "Bu1TsbUUHX8"
+                },
+                {
+                  "parameter": "159587537"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384280",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-09T10:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384181",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "OKSavingsBank BRION",
+                "code": "BRO",
+                "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384182",
+              "vods": [
+                {
+                  "parameter": "68eGsmNpk3M"
+                },
+                {
+                  "parameter": "KBg54WbNeQc"
+                },
+                {
+                  "parameter": "159593515"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384183",
+              "vods": [
+                {
+                  "parameter": "68eGsmNpk3M"
+                },
+                {
+                  "parameter": "KBg54WbNeQc"
+                },
+                {
+                  "parameter": "159600247"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384184",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-10T06:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384221",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384222",
+              "vods": [
+                {
+                  "parameter": "RqJrFCx6WtQ"
+                },
+                {
+                  "parameter": "qXZ6OmBu-tg"
+                },
+                {
+                  "parameter": "159674815"
+                },
+                {
+                  "parameter": "GrStyGA2_lo"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384223",
+              "vods": [
+                {
+                  "parameter": "RqJrFCx6WtQ"
+                },
+                {
+                  "parameter": "qXZ6OmBu-tg"
+                },
+                {
+                  "parameter": "159679807"
+                },
+                {
+                  "parameter": "GrStyGA2_lo"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384224",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-10T08:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384245",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "BNK FEARX",
+                "code": "BFX",
+                "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384246",
+              "vods": [
+                {
+                  "parameter": "RqJrFCx6WtQ"
+                },
+                {
+                  "parameter": "iYw1iexfkhA"
+                },
+                {
+                  "parameter": "159685433"
+                },
+                {
+                  "parameter": "GrStyGA2_lo"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384247",
+              "vods": [
+                {
+                  "parameter": "RqJrFCx6WtQ"
+                },
+                {
+                  "parameter": "iYw1iexfkhA"
+                },
+                {
+                  "parameter": "159692421"
+                },
+                {
+                  "parameter": "GrStyGA2_lo"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384248",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-11T06:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384281",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "DN FREECS",
+                "code": "DNF",
+                "image": "http://static.lolesports.com/teams/1735904500256_DN_Freecslogo_profile.webp",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384282",
+              "vods": [
+                {
+                  "parameter": "dgQF-0NEKBM"
+                },
+                {
+                  "parameter": "2jsEGQgVfZw"
+                },
+                {
+                  "parameter": "159780005"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384283",
+              "vods": [
+                {
+                  "parameter": "dgQF-0NEKBM"
+                },
+                {
+                  "parameter": "2jsEGQgVfZw"
+                },
+                {
+                  "parameter": "159783601"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384284",
+              "vods": [
+                {
+                  "parameter": "dgQF-0NEKBM"
+                },
+                {
+                  "parameter": "2jsEGQgVfZw"
+                },
+                {
+                  "parameter": "159790481"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-11T08:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384201",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DRX",
+                "code": "DRX",
+                "image": "http://static.lolesports.com/teams/1672910733664_01.Basic_W.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384202",
+              "vods": [
+                {
+                  "parameter": "dgQF-0NEKBM"
+                },
+                {
+                  "parameter": "aTll_-7bxRw"
+                },
+                {
+                  "parameter": "159795639"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384203",
+              "vods": [
+                {
+                  "parameter": "dgQF-0NEKBM"
+                },
+                {
+                  "parameter": "aTll_-7bxRw"
+                },
+                {
+                  "parameter": "159803223"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384204",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-14T08:00:00Z",
+          "blockName": "Week 7",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384257",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "BNK FEARX",
+                "code": "BFX",
+                "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384258",
+              "vods": [
+                {
+                  "parameter": "JDPlEYFXC3g"
+                },
+                {
+                  "parameter": "vYqiJ2AnOqg"
+                },
+                {
+                  "parameter": "160092077"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384259",
+              "vods": [
+                {
+                  "parameter": "JDPlEYFXC3g"
+                },
+                {
+                  "parameter": "vYqiJ2AnOqg"
+                },
+                {
+                  "parameter": "160092077"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384260",
+              "vods": [
+                {
+                  "parameter": "JDPlEYFXC3g"
+                },
+                {
+                  "parameter": "vYqiJ2AnOqg"
+                },
+                {
+                  "parameter": "160092077"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-14T10:00:00Z",
+          "blockName": "Week 7",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384333",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DRX",
+                "code": "DRX",
+                "image": "http://static.lolesports.com/teams/1672910733664_01.Basic_W.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384334",
+              "vods": [
+                {
+                  "parameter": "JDPlEYFXC3g"
+                },
+                {
+                  "parameter": "n-wqt7ZP574"
+                },
+                {
+                  "parameter": "160114063"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384335",
+              "vods": [
+                {
+                  "parameter": "JDPlEYFXC3g"
+                },
+                {
+                  "parameter": "n-wqt7ZP574"
+                },
+                {
+                  "parameter": "160114063"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384336",
+              "vods": [
+                {
+                  "parameter": "JDPlEYFXC3g"
+                },
+                {
+                  "parameter": "n-wqt7ZP574"
+                },
+                {
+                  "parameter": "160114063"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-15T08:00:00Z",
+          "blockName": "Week 7",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384193",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384194",
+              "vods": [
+                {
+                  "parameter": "SmDKs-wDPDw"
+                },
+                {
+                  "parameter": "nWwfk4RX5vc"
+                },
+                {
+                  "parameter": "160191351"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384195",
+              "vods": [
+                {
+                  "parameter": "SmDKs-wDPDw"
+                },
+                {
+                  "parameter": "nWwfk4RX5vc"
+                },
+                {
+                  "parameter": "160191351"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384196",
+              "vods": [
+                {
+                  "parameter": "SmDKs-wDPDw"
+                },
+                {
+                  "parameter": "nWwfk4RX5vc"
+                },
+                {
+                  "parameter": "160191351"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-15T10:00:00Z",
+          "blockName": "Week 7",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384213",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "OKSavingsBank BRION",
+                "code": "BRO",
+                "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384214",
+              "vods": [
+                {
+                  "parameter": "SmDKs-wDPDw"
+                },
+                {
+                  "parameter": "Ew45bRi25iI"
+                },
+                {
+                  "parameter": "160214741"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384215",
+              "vods": [
+                {
+                  "parameter": "SmDKs-wDPDw"
+                },
+                {
+                  "parameter": "Ew45bRi25iI"
+                },
+                {
+                  "parameter": "160214741"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384216",
+              "vods": [
+                {
+                  "parameter": "SmDKs-wDPDw"
+                },
+                {
+                  "parameter": "Ew45bRi25iI"
+                },
+                {
+                  "parameter": "160214741"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-16T08:00:00Z",
+          "blockName": "Week 7",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384249",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "BNK FEARX",
+                "code": "BFX",
+                "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384250",
+              "vods": [
+                {
+                  "parameter": "9B4vL9rssF8"
+                },
+                {
+                  "parameter": "zjsVlhlAmEk"
+                },
+                {
+                  "parameter": "160277469"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384251",
+              "vods": [
+                {
+                  "parameter": "9B4vL9rssF8"
+                },
+                {
+                  "parameter": "zjsVlhlAmEk"
+                },
+                {
+                  "parameter": "160282941"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384252",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-16T10:00:00Z",
+          "blockName": "Week 7",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384269",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DN FREECS",
+                "code": "DNF",
+                "image": "http://static.lolesports.com/teams/1735904500256_DN_Freecslogo_profile.webp",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384270",
+              "vods": [
+                {
+                  "parameter": "9B4vL9rssF8"
+                },
+                {
+                  "parameter": "bQ4wBG6yMaY"
+                },
+                {
+                  "parameter": "160287997"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384271",
+              "vods": [
+                {
+                  "parameter": "9B4vL9rssF8"
+                },
+                {
+                  "parameter": "bQ4wBG6yMaY"
+                },
+                {
+                  "parameter": "160294603"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384272",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-17T06:00:00Z",
+          "blockName": "Week 7",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384345",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DRX",
+                "code": "DRX",
+                "image": "http://static.lolesports.com/teams/1672910733664_01.Basic_W.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384346",
+              "vods": [
+                {
+                  "parameter": "27iJji3bopM"
+                },
+                {
+                  "parameter": "6ynguuteuUs"
+                },
+                {
+                  "parameter": "160368639"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384347",
+              "vods": [
+                {
+                  "parameter": "27iJji3bopM"
+                },
+                {
+                  "parameter": "6ynguuteuUs"
+                },
+                {
+                  "parameter": "160371875"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384348",
+              "vods": [
+                {
+                  "parameter": "27iJji3bopM"
+                },
+                {
+                  "parameter": "6ynguuteuUs"
+                },
+                {
+                  "parameter": "160376529"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-17T08:00:00Z",
+          "blockName": "Week 7",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384297",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "OKSavingsBank BRION",
+                "code": "BRO",
+                "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384298",
+              "vods": [
+                {
+                  "parameter": "27iJji3bopM"
+                },
+                {
+                  "parameter": "rBrOfRfAgFM"
+                },
+                {
+                  "parameter": "160381563"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384299",
+              "vods": [
+                {
+                  "parameter": "27iJji3bopM"
+                },
+                {
+                  "parameter": "rBrOfRfAgFM"
+                },
+                {
+                  "parameter": "160385549"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384300",
+              "vods": [
+                {
+                  "parameter": "27iJji3bopM"
+                },
+                {
+                  "parameter": "rBrOfRfAgFM"
+                },
+                {
+                  "parameter": "160391957"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-18T06:00:00Z",
+          "blockName": "Week 7",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384177",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DN FREECS",
+                "code": "DNF",
+                "image": "http://static.lolesports.com/teams/1735904500256_DN_Freecslogo_profile.webp",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384178",
+              "vods": [
+                {
+                  "parameter": "172hbp7CdbI"
+                },
+                {
+                  "parameter": "160463729"
+                },
+                {
+                  "parameter": "wGaTUIFaVlE"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384179",
+              "vods": [
+                {
+                  "parameter": "172hbp7CdbI"
+                },
+                {
+                  "parameter": "160469201"
+                },
+                {
+                  "parameter": "wGaTUIFaVlE"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384180",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-18T08:00:00Z",
+          "blockName": "Week 7",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384217",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384218",
+              "vods": [
+                {
+                  "parameter": "E8ajgH_fEJ4"
+                },
+                {
+                  "parameter": "160474395"
+                },
+                {
+                  "parameter": "wGaTUIFaVlE"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384219",
+              "vods": [
+                {
+                  "parameter": "E8ajgH_fEJ4"
+                },
+                {
+                  "parameter": "160481187"
+                },
+                {
+                  "parameter": "wGaTUIFaVlE"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384220",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-21T08:00:00Z",
+          "blockName": "Week 8",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384185",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384186",
+              "vods": [
+                {
+                  "parameter": "SMBITlawCqk"
+                },
+                {
+                  "parameter": "cWdEpYesRYE"
+                },
+                {
+                  "parameter": "160775675"
+                },
+                {
+                  "parameter": "QGOZv-3hDL8"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384187",
+              "vods": [
+                {
+                  "parameter": "SMBITlawCqk"
+                },
+                {
+                  "parameter": "cWdEpYesRYE"
+                },
+                {
+                  "parameter": "160775675"
+                },
+                {
+                  "parameter": "QGOZv-3hDL8"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384188",
+              "vods": [
+                {
+                  "parameter": "SMBITlawCqk"
+                },
+                {
+                  "parameter": "cWdEpYesRYE"
+                },
+                {
+                  "parameter": "160775675"
+                },
+                {
+                  "parameter": "QGOZv-3hDL8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-21T10:00:00Z",
+          "blockName": "Week 8",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384285",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DN FREECS",
+                "code": "DNF",
+                "image": "http://static.lolesports.com/teams/1735904500256_DN_Freecslogo_profile.webp",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "DRX",
+                "code": "DRX",
+                "image": "http://static.lolesports.com/teams/1672910733664_01.Basic_W.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384286",
+              "vods": [
+                {
+                  "parameter": "SMBITlawCqk"
+                },
+                {
+                  "parameter": "xAiVZcf3FWY"
+                },
+                {
+                  "parameter": "160792357"
+                },
+                {
+                  "parameter": "QGOZv-3hDL8"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384287",
+              "vods": [
+                {
+                  "parameter": "SMBITlawCqk"
+                },
+                {
+                  "parameter": "xAiVZcf3FWY"
+                },
+                {
+                  "parameter": "160792357"
+                },
+                {
+                  "parameter": "QGOZv-3hDL8"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384288",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-22T08:00:00Z",
+          "blockName": "Week 8",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384293",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "OKSavingsBank BRION",
+                "code": "BRO",
+                "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384294",
+              "vods": [
+                {
+                  "parameter": "kcVTgzlx5vM"
+                },
+                {
+                  "parameter": "_uzbkYygJVA"
+                },
+                {
+                  "parameter": "160858239"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384295",
+              "vods": [
+                {
+                  "parameter": "kcVTgzlx5vM"
+                },
+                {
+                  "parameter": "_uzbkYygJVA"
+                },
+                {
+                  "parameter": "160864071"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384296",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-22T10:00:00Z",
+          "blockName": "Week 8",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384205",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "BNK FEARX",
+                "code": "BFX",
+                "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384206",
+              "vods": [
+                {
+                  "parameter": "kcVTgzlx5vM"
+                },
+                {
+                  "parameter": "Ff6xTFdCI7Q"
+                },
+                {
+                  "parameter": "160869855"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384207",
+              "vods": [
+                {
+                  "parameter": "kcVTgzlx5vM"
+                },
+                {
+                  "parameter": "Ff6xTFdCI7Q"
+                },
+                {
+                  "parameter": "160877429"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384208",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-23T08:00:00Z",
+          "blockName": "Week 8",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384321",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DRX",
+                "code": "DRX",
+                "image": "http://static.lolesports.com/teams/1672910733664_01.Basic_W.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384322",
+              "vods": [
+                {
+                  "parameter": "8w9qxNJ3zOg"
+                },
+                {
+                  "parameter": "65mUj_pHIGg"
+                },
+                {
+                  "parameter": "160956709"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384323",
+              "vods": [
+                {
+                  "parameter": "8w9qxNJ3zOg"
+                },
+                {
+                  "parameter": "65mUj_pHIGg"
+                },
+                {
+                  "parameter": "160963535"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384324",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-23T10:00:00Z",
+          "blockName": "Week 8",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384337",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384338",
+              "vods": [
+                {
+                  "parameter": "8w9qxNJ3zOg"
+                },
+                {
+                  "parameter": "1W40095ocLA"
+                },
+                {
+                  "parameter": "160969291"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384339",
+              "vods": [
+                {
+                  "parameter": "8w9qxNJ3zOg"
+                },
+                {
+                  "parameter": "1W40095ocLA"
+                },
+                {
+                  "parameter": "160974431"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384340",
+              "vods": [
+                {
+                  "parameter": "8w9qxNJ3zOg"
+                },
+                {
+                  "parameter": "1W40095ocLA"
+                },
+                {
+                  "parameter": "160983155"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-24T06:00:00Z",
+          "blockName": "Week 8",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384189",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384190",
+              "vods": [
+                {
+                  "parameter": "q5nTtvVYnQQ"
+                },
+                {
+                  "parameter": "vY0sxQGSMyo"
+                },
+                {
+                  "parameter": "161047789"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384191",
+              "vods": [
+                {
+                  "parameter": "q5nTtvVYnQQ"
+                },
+                {
+                  "parameter": "vY0sxQGSMyo"
+                },
+                {
+                  "parameter": "161051455"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384192",
+              "vods": [
+                {
+                  "parameter": "q5nTtvVYnQQ"
+                },
+                {
+                  "parameter": "vY0sxQGSMyo"
+                },
+                {
+                  "parameter": "161057315"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-24T08:00:00Z",
+          "blockName": "Week 8",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384209",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DN FREECS",
+                "code": "DNF",
+                "image": "http://static.lolesports.com/teams/1735904500256_DN_Freecslogo_profile.webp",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384210",
+              "vods": [
+                {
+                  "parameter": "q5nTtvVYnQQ"
+                },
+                {
+                  "parameter": "vMFlUhoCAxM"
+                },
+                {
+                  "parameter": "161062103"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384211",
+              "vods": [
+                {
+                  "parameter": "q5nTtvVYnQQ"
+                },
+                {
+                  "parameter": "vMFlUhoCAxM"
+                },
+                {
+                  "parameter": "161069957"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384212",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-25T06:00:00Z",
+          "blockName": "Week 8",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384301",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "OKSavingsBank BRION",
+                "code": "BRO",
+                "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384302",
+              "vods": [
+                {
+                  "parameter": "Kg3jT1CRm-g"
+                },
+                {
+                  "parameter": "sw2396WzmIA"
+                },
+                {
+                  "parameter": "161148599"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384303",
+              "vods": [
+                {
+                  "parameter": "Kg3jT1CRm-g"
+                },
+                {
+                  "parameter": "sw2396WzmIA"
+                },
+                {
+                  "parameter": "161151823"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384304",
+              "vods": [
+                {
+                  "parameter": "Kg3jT1CRm-g"
+                },
+                {
+                  "parameter": "sw2396WzmIA"
+                },
+                {
+                  "parameter": "161157275"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-25T08:00:00Z",
+          "blockName": "Week 8",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384253",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "BNK FEARX",
+                "code": "BFX",
+                "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384254",
+              "vods": [
+                {
+                  "parameter": "Kg3jT1CRm-g"
+                },
+                {
+                  "parameter": "jYPOEVsd0bI"
+                },
+                {
+                  "parameter": "161163049"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384255",
+              "vods": [
+                {
+                  "parameter": "Kg3jT1CRm-g"
+                },
+                {
+                  "parameter": "jYPOEVsd0bI"
+                },
+                {
+                  "parameter": "161168607"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384256",
+              "vods": [
+                {
+                  "parameter": "Kg3jT1CRm-g"
+                },
+                {
+                  "parameter": "jYPOEVsd0bI"
+                },
+                {
+                  "parameter": "161175781"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-28T08:00:00Z",
+          "blockName": "Week 9",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384237",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "BNK FEARX",
+                "code": "BFX",
+                "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DN FREECS",
+                "code": "DNF",
+                "image": "http://static.lolesports.com/teams/1735904500256_DN_Freecslogo_profile.webp",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384238",
+              "vods": [
+                {
+                  "parameter": "Tjxatby2Mmg"
+                },
+                {
+                  "parameter": "2CqIjnVpX9Y"
+                },
+                {
+                  "parameter": "161444767"
+                },
+                {
+                  "parameter": "Omit9zo3BrQ"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384239",
+              "vods": [
+                {
+                  "parameter": "Tjxatby2Mmg"
+                },
+                {
+                  "parameter": "2CqIjnVpX9Y"
+                },
+                {
+                  "parameter": "161444767"
+                },
+                {
+                  "parameter": "Omit9zo3BrQ"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384240",
+              "vods": [
+                {
+                  "parameter": "Tjxatby2Mmg"
+                },
+                {
+                  "parameter": "2CqIjnVpX9Y"
+                },
+                {
+                  "parameter": "161444767"
+                },
+                {
+                  "parameter": "Omit9zo3BrQ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-28T10:00:00Z",
+          "blockName": "Week 9",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384169",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384170",
+              "vods": [
+                {
+                  "parameter": "Tjxatby2Mmg"
+                },
+                {
+                  "parameter": "62txO4jSbBw"
+                },
+                {
+                  "parameter": "161460149"
+                },
+                {
+                  "parameter": "Omit9zo3BrQ"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384171",
+              "vods": [
+                {
+                  "parameter": "Tjxatby2Mmg"
+                },
+                {
+                  "parameter": "62txO4jSbBw"
+                },
+                {
+                  "parameter": "161460149"
+                },
+                {
+                  "parameter": "Omit9zo3BrQ"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384172",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-29T08:00:00Z",
+          "blockName": "Week 9",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384305",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DRX",
+                "code": "DRX",
+                "image": "http://static.lolesports.com/teams/1672910733664_01.Basic_W.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "OKSavingsBank BRION",
+                "code": "BRO",
+                "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384306",
+              "vods": [
+                {
+                  "parameter": "3UzdN6z3w7I"
+                },
+                {
+                  "parameter": "tU_c37vL0UI"
+                },
+                {
+                  "parameter": "161546821"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384307",
+              "vods": [
+                {
+                  "parameter": "3UzdN6z3w7I"
+                },
+                {
+                  "parameter": "tU_c37vL0UI"
+                },
+                {
+                  "parameter": "161546821"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384308",
+              "vods": [
+                {
+                  "parameter": "3UzdN6z3w7I"
+                },
+                {
+                  "parameter": "tU_c37vL0UI"
+                },
+                {
+                  "parameter": "161546821"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-29T10:00:00Z",
+          "blockName": "Week 9",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384313",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384314",
+              "vods": [
+                {
+                  "parameter": "3UzdN6z3w7I"
+                },
+                {
+                  "parameter": "vP5I4n6cNdE"
+                },
+                {
+                  "parameter": "161568943"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384315",
+              "vods": [
+                {
+                  "parameter": "3UzdN6z3w7I"
+                },
+                {
+                  "parameter": "vP5I4n6cNdE"
+                },
+                {
+                  "parameter": "161568943"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384316",
+              "vods": [
+                {
+                  "parameter": "3UzdN6z3w7I"
+                },
+                {
+                  "parameter": "vP5I4n6cNdE"
+                },
+                {
+                  "parameter": "161568943"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-30T08:00:00Z",
+          "blockName": "Week 9",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384229",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384230",
+              "vods": [
+                {
+                  "parameter": "JiL5Cd6fhoI"
+                },
+                {
+                  "parameter": "lqMId_C4TTs"
+                },
+                {
+                  "parameter": "161625175"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384231",
+              "vods": [
+                {
+                  "parameter": "JiL5Cd6fhoI"
+                },
+                {
+                  "parameter": "lqMId_C4TTs"
+                },
+                {
+                  "parameter": "161631413"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384232",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-30T10:00:00Z",
+          "blockName": "Week 9",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384273",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DN FREECS",
+                "code": "DNF",
+                "image": "http://static.lolesports.com/teams/1735904500256_DN_Freecslogo_profile.webp",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384274",
+              "vods": [
+                {
+                  "parameter": "JiL5Cd6fhoI"
+                },
+                {
+                  "parameter": "L2FoQ_smKjw"
+                },
+                {
+                  "parameter": "161638261"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384275",
+              "vods": [
+                {
+                  "parameter": "JiL5Cd6fhoI"
+                },
+                {
+                  "parameter": "L2FoQ_smKjw"
+                },
+                {
+                  "parameter": "161643725"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384276",
+              "vods": [
+                {
+                  "parameter": "JiL5Cd6fhoI"
+                },
+                {
+                  "parameter": "L2FoQ_smKjw"
+                },
+                {
+                  "parameter": "161651239"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-31T06:00:00Z",
+          "blockName": "Week 9",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384341",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DRX",
+                "code": "DRX",
+                "image": "http://static.lolesports.com/teams/1672910733664_01.Basic_W.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384342",
+              "vods": [
+                {
+                  "parameter": "uwTyUTlsE40"
+                },
+                {
+                  "parameter": "EeT6y_PNmqg"
+                },
+                {
+                  "parameter": "161716837"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384343",
+              "vods": [
+                {
+                  "parameter": "uwTyUTlsE40"
+                },
+                {
+                  "parameter": "EeT6y_PNmqg"
+                },
+                {
+                  "parameter": "161716837"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384344",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-31T08:00:00Z",
+          "blockName": "Week 9",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384289",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "OKSavingsBank BRION",
+                "code": "BRO",
+                "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384290",
+              "vods": [
+                {
+                  "parameter": "uwTyUTlsE40"
+                },
+                {
+                  "parameter": "TvdACUfyThI"
+                },
+                {
+                  "parameter": "161726955"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384291",
+              "vods": [
+                {
+                  "parameter": "uwTyUTlsE40"
+                },
+                {
+                  "parameter": "TvdACUfyThI"
+                },
+                {
+                  "parameter": "161726955"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384292",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-01T06:00:00Z",
+          "blockName": "Week 9",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384173",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "BNK FEARX",
+                "code": "BFX",
+                "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384174",
+              "vods": [
+                {
+                  "parameter": "uXw-Dyv50K0"
+                },
+                {
+                  "parameter": "2DBqYCgcX1I"
+                },
+                {
+                  "parameter": "161817871"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384175",
+              "vods": [
+                {
+                  "parameter": "uXw-Dyv50K0"
+                },
+                {
+                  "parameter": "2DBqYCgcX1I"
+                },
+                {
+                  "parameter": "161817871"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384176",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-01T08:00:00Z",
+          "blockName": "Week 9",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384329",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384330",
+              "vods": [
+                {
+                  "parameter": "uXw-Dyv50K0"
+                },
+                {
+                  "parameter": "rwZenvxNOc0"
+                },
+                {
+                  "parameter": "161834229"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384331",
+              "vods": [
+                {
+                  "parameter": "uXw-Dyv50K0"
+                },
+                {
+                  "parameter": "rwZenvxNOc0"
+                },
+                {
+                  "parameter": "161834229"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384332",
+              "vods": [
+                {
+                  "parameter": "uXw-Dyv50K0"
+                },
+                {
+                  "parameter": "rwZenvxNOc0"
+                },
+                {
+                  "parameter": "161834229"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-04T08:00:00Z",
+          "blockName": "Week 9",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "114612169940042880",
+            "type": "tiebreaker",
+            "teams": [
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114612169940108417",
+              "vods": [
+                {
+                  "parameter": "BT-QDzlWqtk"
+                },
+                {
+                  "parameter": "UlAh4nW0NUU"
+                },
+                {
+                  "parameter": "162133681"
+                }
+              ]
+            },
+            {
+              "id": "114612169940239490",
+              "vods": [
+                {
+                  "parameter": "BT-QDzlWqtk"
+                },
+                {
+                  "parameter": "UlAh4nW0NUU"
+                },
+                {
+                  "parameter": "162133681"
+                }
+              ]
+            },
+            {
+              "id": "114612169940239491",
+              "vods": [
+                {
+                  "parameter": "BT-QDzlWqtk"
+                },
+                {
+                  "parameter": "UlAh4nW0NUU"
+                },
+                {
+                  "parameter": "162133681"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-07T06:00:00Z",
+          "blockName": "Regional Qualifier",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384355",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 3
+                }
+              },
+              {
+                "name": "Dplus KIA",
+                "code": "DK",
+                "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384356",
+              "vods": [
+                {
+                  "parameter": "IfW9GjC8ck8"
+                },
+                {
+                  "parameter": "8megSD9BnDc"
+                },
+                {
+                  "parameter": "162404371"
+                },
+                {
+                  "parameter": "b2ibQ1i3iVU"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384357",
+              "vods": [
+                {
+                  "parameter": "IfW9GjC8ck8"
+                },
+                {
+                  "parameter": "8megSD9BnDc"
+                },
+                {
+                  "parameter": "162408313"
+                },
+                {
+                  "parameter": "b2ibQ1i3iVU"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384358",
+              "vods": [
+                {
+                  "parameter": "IfW9GjC8ck8"
+                },
+                {
+                  "parameter": "8megSD9BnDc"
+                },
+                {
+                  "parameter": "162414735"
+                },
+                {
+                  "parameter": "b2ibQ1i3iVU"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384359",
+              "vods": []
+            },
+            {
+              "id": "113503303285384360",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-08T06:00:00Z",
+          "blockName": "Regional Qualifier",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384361",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "NONGSHIM RED FORCE",
+                "code": "NS",
+                "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 3
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384362",
+              "vods": [
+                {
+                  "parameter": "5hSYfDZFDts"
+                },
+                {
+                  "parameter": "LX44Ib0l0bI"
+                },
+                {
+                  "parameter": "162506115"
+                },
+                {
+                  "parameter": "_W67GxcBCAM"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384363",
+              "vods": [
+                {
+                  "parameter": "5hSYfDZFDts"
+                },
+                {
+                  "parameter": "LX44Ib0l0bI"
+                },
+                {
+                  "parameter": "162509445"
+                },
+                {
+                  "parameter": "_W67GxcBCAM"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384364",
+              "vods": [
+                {
+                  "parameter": "5hSYfDZFDts"
+                },
+                {
+                  "parameter": "LX44Ib0l0bI"
+                },
+                {
+                  "parameter": "162515085"
+                },
+                {
+                  "parameter": "k36pR7bZ0wI"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384365",
+              "vods": []
+            },
+            {
+              "id": "113503303285384366",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-13T08:00:00Z",
+          "blockName": "Regional Qualifier",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285384349",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Gen.G Esports",
+                "code": "GEN",
+                "image": "http://static.lolesports.com/teams/1655210113163_GenG_logo_200407-05.png",
+                "result": {
+                  "gameWins": 3
+                }
+              },
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285384350",
+              "vods": [
+                {
+                  "parameter": "MpSrA4OeShU"
+                },
+                {
+                  "parameter": "OuY121-tpXE"
+                },
+                {
+                  "parameter": "162989283"
+                },
+                {
+                  "parameter": "7UZYFeH-duM"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384351",
+              "vods": [
+                {
+                  "parameter": "MpSrA4OeShU"
+                },
+                {
+                  "parameter": "OuY121-tpXE"
+                },
+                {
+                  "parameter": "162993915"
+                },
+                {
+                  "parameter": "7UZYFeH-duM"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384352",
+              "vods": [
+                {
+                  "parameter": "MpSrA4OeShU"
+                },
+                {
+                  "parameter": "OuY121-tpXE"
+                },
+                {
+                  "parameter": "162998367"
+                },
+                {
+                  "parameter": "7UZYFeH-duM"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384353",
+              "vods": [
+                {
+                  "parameter": "MpSrA4OeShU"
+                },
+                {
+                  "parameter": "OuY121-tpXE"
+                },
+                {
+                  "parameter": "163004613"
+                },
+                {
+                  "parameter": "7UZYFeH-duM"
+                }
+              ]
+            },
+            {
+              "id": "113503303285384354",
+              "vods": [
+                {
+                  "parameter": "MpSrA4OeShU"
+                },
+                {
+                  "parameter": "OuY121-tpXE"
+                },
+                {
+                  "parameter": "163014919"
+                },
+                {
+                  "parameter": "7UZYFeH-duM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-14T06:00:00Z",
+          "blockName": "Regional Qualifier",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285449903",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 3
+                }
+              },
+              {
+                "name": "kt Rolster",
+                "code": "KT",
+                "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285449904",
+              "vods": [
+                {
+                  "parameter": "2j20s_-WZr0"
+                },
+                {
+                  "parameter": "toFrqfYxKJ4"
+                },
+                {
+                  "parameter": "163099197"
+                },
+                {
+                  "parameter": "_kTJ4eFo8Qg"
+                }
+              ]
+            },
+            {
+              "id": "113503303285449905",
+              "vods": [
+                {
+                  "parameter": "2j20s_-WZr0"
+                },
+                {
+                  "parameter": "toFrqfYxKJ4"
+                },
+                {
+                  "parameter": "163099197"
+                },
+                {
+                  "parameter": "_kTJ4eFo8Qg"
+                }
+              ]
+            },
+            {
+              "id": "113503303285449906",
+              "vods": [
+                {
+                  "parameter": "2j20s_-WZr0"
+                },
+                {
+                  "parameter": "toFrqfYxKJ4"
+                },
+                {
+                  "parameter": "163099197"
+                },
+                {
+                  "parameter": "_kTJ4eFo8Qg"
+                }
+              ]
+            },
+            {
+              "id": "113503303285449907",
+              "vods": [
+                {
+                  "parameter": "2j20s_-WZr0"
+                },
+                {
+                  "parameter": "toFrqfYxKJ4"
+                },
+                {
+                  "parameter": "163099197"
+                },
+                {
+                  "parameter": "_kTJ4eFo8Qg"
+                }
+              ]
+            },
+            {
+              "id": "113503303285449908",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-15T06:00:00Z",
+          "blockName": "Regional Qualifier",
+          "league": {
+            "name": "LCK"
+          },
+          "match": {
+            "id": "113503303285449909",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Hanwha Life Esports",
+                "code": "HLE",
+                "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "T1",
+                "code": "T1",
+                "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+                "result": {
+                  "gameWins": 3
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "113503303285449910",
+              "vods": [
+                {
+                  "parameter": "fZSaPDz-GJc"
+                },
+                {
+                  "parameter": "L9hNXmn9F-0"
+                },
+                {
+                  "parameter": "163196805"
+                },
+                {
+                  "parameter": "pYG0MKb3tco"
+                }
+              ]
+            },
+            {
+              "id": "113503303285449911",
+              "vods": [
+                {
+                  "parameter": "fZSaPDz-GJc"
+                },
+                {
+                  "parameter": "L9hNXmn9F-0"
+                },
+                {
+                  "parameter": "163196805"
+                },
+                {
+                  "parameter": "pYG0MKb3tco"
+                }
+              ]
+            },
+            {
+              "id": "113503303285449912",
+              "vods": [
+                {
+                  "parameter": "fZSaPDz-GJc"
+                },
+                {
+                  "parameter": "L9hNXmn9F-0"
+                },
+                {
+                  "parameter": "163196805"
+                },
+                {
+                  "parameter": "pYG0MKb3tco"
+                }
+              ]
+            },
+            {
+              "id": "113503303285449913",
+              "vods": []
+            },
+            {
+              "id": "113503303285449914",
+              "vods": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

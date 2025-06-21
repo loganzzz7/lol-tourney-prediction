@@ -18,42 +18,40 @@ async function main() {
   // LTA S: 113475181634818701
   // LEC: 98767991302996019
 
-  const lckLeagueTournaments = await client.leagues.getTournaments(
-    "98767991310872058"
-  );
+  // const lckLeagueTournaments = await client.leagues.getTournaments(
+  //   "98767991310872058"
+  // );
 
-  const lckSp24Tournaments = await client.tournaments.getCompletedEvents(
-    "111561337005798024"
+  const lck25S2Tournaments = await client.tournaments.getCompletedEvents(
+    "113503260417890076"
   );
 
   writeFileSync(
-    "data/lck_sp24_tournaments.json",
-    JSON.stringify(lckSp24Tournaments, null, 2)
+    "data/lck_25S2_Tournaments.json",
+    JSON.stringify(lck25S2Tournaments, null, 2)
   );
-
-  // lck summer 24: 112435564213994193
 
   // const ggT1GameOne = await client.games.get("111561337007371296");
 
-  const lckSp24GgT1G1GameWindow = await client.games.getWindow(
-    "111561337007371296",
-    "2024-04-14T08:00:00Z" // can either be a string or a Date
+  const lck25S2HleT1G1GameWindow = await client.games.getWindow(
+    "113503303285449910",
+    "2025-06-15T08:00:00Z" // can either be a string or a Date
   );
 
   // // save JSON to file
   // writeFileSync(
-  //   "data/lck_sp24_ggt1_g1_gameWindow.json",
-  //   JSON.stringify(lckSp24GgT1G1GameWindow, null, 2)
+  //   "data/lck_25S2_hlet1_g1_gameWindow.json",
+  //   JSON.stringify(lck25S2HleT1G1GameWindow, null, 2)
   // );
 
-  console.log("json saved to data folder");
+  // console.log("json saved to data folder");
 
   // console.log("LCK games:");
   // // console.dir(leagues, { depth: null })
 
-  // // console.dir(lckLeagueTournaments, { depth: null });
+  // console.dir(lckLeagueTournaments, { depth: null });
 
-  // console.dir(lckSp24Tournaments, { depth: null });
+  // console.dir(lck25S2Tournaments, { depth: null });
 
   // // console.dir(ggT1GameOne, { depth: null })
 
