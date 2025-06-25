@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@viriato/lol-esports-api": "^0.6.0"
+    "@viriato/lol-esports-api": "^0.6.0",
+    "exceljs": "^4.4.0"
   }
 }

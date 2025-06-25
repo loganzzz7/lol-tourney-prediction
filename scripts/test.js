@@ -26,23 +26,17 @@ async function main() {
     "113503260417890076"
   );
 
-  writeFileSync(
-    "data/lck_25S2_Tournaments.json",
-    JSON.stringify(lck25S2Tournaments, null, 2)
-  );
+  // writeFileSync(
+  //   "data/lck_25S2_Tournaments.json",
+  //   JSON.stringify(lck25S2Tournaments, null, 2)
+  // );
 
   // const ggT1GameOne = await client.games.get("111561337007371296");
 
-  const lck25S2HleT1G1GameWindow = await client.games.getWindow(
-    "113503303285449910",
-    "2025-06-15T08:00:00Z" // can either be a string or a Date
+  const detailGameWindow = await client.games.getDetails(
+    "113503303285187383",
+    "2025-04-12T18:00:00Z" // can either be a string or a Date
   );
-
-  // // save JSON to file
-  // writeFileSync(
-  //   "data/lck_25S2_hlet1_g1_gameWindow.json",
-  //   JSON.stringify(lck25S2HleT1G1GameWindow, null, 2)
-  // );
 
   // console.log("json saved to data folder");
 
@@ -55,7 +49,7 @@ async function main() {
 
   // // console.dir(ggT1GameOne, { depth: null })
 
-  // console.dir(lckSp24GgT1G1GameWindow, { depth: null })
+  console.dir(detailGameWindow, { depth: null })
 
 }
 
