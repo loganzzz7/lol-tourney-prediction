@@ -36,7 +36,7 @@ async function mergeFeatureWorkbooks() {
 
 async function main() {
   const wb    = new Excel.Workbook();
-  const infile = path.join("xlsx_data", "lcp_25S2_Tournaments.xlsx");
+  const infile = path.join("xlsx_data", "ltas_25S2_Tournaments.xlsx");
   await wb.xlsx.readFile(infile);
   const sheet = wb.getWorksheet(1);
 

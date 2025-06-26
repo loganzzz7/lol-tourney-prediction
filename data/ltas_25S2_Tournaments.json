@@ -1,0 +1,2964 @@
+{
+  "data": {
+    "schedule": {
+      "events": [
+        {
+          "startTime": "2025-04-05T16:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165171985",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Isurus Estral",
+                "code": "IE",
+                "image": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "paiN Gaming",
+                "code": "PAIN",
+                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165171986",
+              "vods": [
+                {
+                  "parameter": "t_QayHYhTik"
+                },
+                {
+                  "parameter": "doSxO_1z4PU"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-05T17:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165106435",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "FURIA",
+                "code": "FUR",
+                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "LEVIATÁN",
+                "code": "LEV",
+                "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165106436",
+              "vods": [
+                {
+                  "parameter": "XrBX74-xhWE"
+                },
+                {
+                  "parameter": "ehjODD4-qmk"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-05T18:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165106431",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Vivo Keyd Stars",
+                "code": "VKS",
+                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Fluxo W7M",
+                "code": "FXW7",
+                "image": "http://static.lolesports.com/teams/1738138907381_OFFICIALFluxo_W7M_Logo.PNG",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165106432",
+              "vods": [
+                {
+                  "parameter": "aYVUhFslewI"
+                },
+                {
+                  "parameter": "pS_zSrIO7b0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-05T19:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165172001",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LOUD",
+                "code": "LOUD",
+                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "RED Kalunga",
+                "code": "RED",
+                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165172002",
+              "vods": [
+                {
+                  "parameter": "6SwyKuoYAXg"
+                },
+                {
+                  "parameter": "NoAyDfGHNHI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-06T16:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165106433",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "FURIA",
+                "code": "FUR",
+                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Isurus Estral",
+                "code": "IE",
+                "image": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165106434",
+              "vods": [
+                {
+                  "parameter": "nupnzlPNviA"
+                },
+                {
+                  "parameter": "A6Qv8PQzFWk"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-06T17:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165172009",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Vivo Keyd Stars",
+                "code": "VKS",
+                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "RED Kalunga",
+                "code": "RED",
+                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165172010",
+              "vods": [
+                {
+                  "parameter": "ZOv_yFDa-B8"
+                },
+                {
+                  "parameter": "nS8bbKF224Y"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-06T18:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165106423",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LEVIATÁN",
+                "code": "LEV",
+                "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Fluxo W7M",
+                "code": "FXW7",
+                "image": "http://static.lolesports.com/teams/1738138907381_OFFICIALFluxo_W7M_Logo.PNG",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165106424",
+              "vods": [
+                {
+                  "parameter": "3tGP624xqQ8"
+                },
+                {
+                  "parameter": "OWMkSpXmTg4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-06T19:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165171999",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LOUD",
+                "code": "LOUD",
+                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "paiN Gaming",
+                "code": "PAIN",
+                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165172000",
+              "vods": [
+                {
+                  "parameter": "qTmDwSuCn_I"
+                },
+                {
+                  "parameter": "wrQfdee5n1E"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-12T16:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165172003",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LOUD",
+                "code": "LOUD",
+                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Vivo Keyd Stars",
+                "code": "VKS",
+                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165172004",
+              "vods": [
+                {
+                  "parameter": "jEPwqFfuWdc"
+                },
+                {
+                  "parameter": "7O2ARg-Lopg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-12T17:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165106421",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Isurus Estral",
+                "code": "IE",
+                "image": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Fluxo W7M",
+                "code": "FXW7",
+                "image": "http://static.lolesports.com/teams/1738138907381_OFFICIALFluxo_W7M_Logo.PNG",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165106422",
+              "vods": [
+                {
+                  "parameter": "vD0_u5Gh7SQ"
+                },
+                {
+                  "parameter": "F1i9sp58CfE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-12T18:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165171995",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LEVIATÁN",
+                "code": "LEV",
+                "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "RED Kalunga",
+                "code": "RED",
+                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165171996",
+              "vods": [
+                {
+                  "parameter": "6FILTvrVm98"
+                },
+                {
+                  "parameter": "5r2ay_VbTuc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-12T19:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165106439",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "FURIA",
+                "code": "FUR",
+                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "paiN Gaming",
+                "code": "PAIN",
+                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165106440",
+              "vods": [
+                {
+                  "parameter": "SU23-eIuQys"
+                },
+                {
+                  "parameter": "uwJGag6AuVE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-13T16:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165171991",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LEVIATÁN",
+                "code": "LEV",
+                "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "LOUD",
+                "code": "LOUD",
+                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165171992",
+              "vods": [
+                {
+                  "parameter": "V9PjmzL1CFw"
+                },
+                {
+                  "parameter": "xeocO_P_9eU"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-13T17:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165171989",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Vivo Keyd Stars",
+                "code": "VKS",
+                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Isurus Estral",
+                "code": "IE",
+                "image": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165171990",
+              "vods": [
+                {
+                  "parameter": "qTZycDMlBGw"
+                },
+                {
+                  "parameter": "Ra9oPSfI7X4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-13T18:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165172005",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "RED Kalunga",
+                "code": "RED",
+                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "paiN Gaming",
+                "code": "PAIN",
+                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165172006",
+              "vods": [
+                {
+                  "parameter": "3ebYnnerfYg"
+                },
+                {
+                  "parameter": "et9qqRAqaWg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-13T19:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277164844275",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Fluxo W7M",
+                "code": "FXW7",
+                "image": "http://static.lolesports.com/teams/1738138907381_OFFICIALFluxo_W7M_Logo.PNG",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "FURIA",
+                "code": "FUR",
+                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277164909812",
+              "vods": [
+                {
+                  "parameter": "P-x8yYOGOp4"
+                },
+                {
+                  "parameter": "GqcIY46M3io"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-19T16:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165106441",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "RED Kalunga",
+                "code": "RED",
+                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "FURIA",
+                "code": "FUR",
+                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165106442",
+              "vods": [
+                {
+                  "parameter": "QcwC8YWXiHE"
+                },
+                {
+                  "parameter": "h4y13JVxGwM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-19T17:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165106427",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Fluxo W7M",
+                "code": "FXW7",
+                "image": "http://static.lolesports.com/teams/1738138907381_OFFICIALFluxo_W7M_Logo.PNG",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "paiN Gaming",
+                "code": "PAIN",
+                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165106428",
+              "vods": [
+                {
+                  "parameter": "NmCy8C2VQXc"
+                },
+                {
+                  "parameter": "XY_gCdSmt4w"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-19T18:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165171997",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LEVIATÁN",
+                "code": "LEV",
+                "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Vivo Keyd Stars",
+                "code": "VKS",
+                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165171998",
+              "vods": [
+                {
+                  "parameter": "_a_R7SNvDco"
+                },
+                {
+                  "parameter": "bUOscJVyWfs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-19T19:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165171983",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Isurus Estral",
+                "code": "IE",
+                "image": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "LOUD",
+                "code": "LOUD",
+                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165171984",
+              "vods": [
+                {
+                  "parameter": "VVtFcdEOzfA"
+                },
+                {
+                  "parameter": "qus_lI97I0Y"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-20T16:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165171993",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "paiN Gaming",
+                "code": "PAIN",
+                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "LEVIATÁN",
+                "code": "LEV",
+                "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165171994",
+              "vods": [
+                {
+                  "parameter": "NNa_JCfiZxo"
+                },
+                {
+                  "parameter": "dwfitqSV_xs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-20T17:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165106425",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Fluxo W7M",
+                "code": "FXW7",
+                "image": "http://static.lolesports.com/teams/1738138907381_OFFICIALFluxo_W7M_Logo.PNG",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "LOUD",
+                "code": "LOUD",
+                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165106426",
+              "vods": [
+                {
+                  "parameter": "I9X1ic-U1C0"
+                },
+                {
+                  "parameter": "vR1VbjixiP8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-20T18:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165171987",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Isurus Estral",
+                "code": "IE",
+                "image": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "RED Kalunga",
+                "code": "RED",
+                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165171988",
+              "vods": [
+                {
+                  "parameter": "zxQF1CKpIpE"
+                },
+                {
+                  "parameter": "lU1xs3GYJx4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-20T19:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165106443",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Vivo Keyd Stars",
+                "code": "VKS",
+                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "FURIA",
+                "code": "FUR",
+                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165106444",
+              "vods": [
+                {
+                  "parameter": "RUSRmRagbTI"
+                },
+                {
+                  "parameter": "9_EdSKZ9LgA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-21T16:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165106429",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "RED Kalunga",
+                "code": "RED",
+                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Fluxo W7M",
+                "code": "FXW7",
+                "image": "http://static.lolesports.com/teams/1738138907381_OFFICIALFluxo_W7M_Logo.PNG",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165106430",
+              "vods": [
+                {
+                  "parameter": "MLCq7Sk48vA"
+                },
+                {
+                  "parameter": "an6IJUfA1sU"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-21T17:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165172007",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "paiN Gaming",
+                "code": "PAIN",
+                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Vivo Keyd Stars",
+                "code": "VKS",
+                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165172008",
+              "vods": [
+                {
+                  "parameter": "uylkhGVJFQE"
+                },
+                {
+                  "parameter": "xuGrg590sFQ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-21T18:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165106437",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LOUD",
+                "code": "LOUD",
+                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "FURIA",
+                "code": "FUR",
+                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165106438",
+              "vods": [
+                {
+                  "parameter": "W7ezMdSDG60"
+                },
+                {
+                  "parameter": "sk8jp9Q9af4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-21T19:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114103277165171981",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Isurus Estral",
+                "code": "IE",
+                "image": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "LEVIATÁN",
+                "code": "LEV",
+                "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114103277165171982",
+              "vods": [
+                {
+                  "parameter": "_M8-bCz0AvM"
+                },
+                {
+                  "parameter": "AgkBDvDBwRw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-26T15:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001378",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "paiN Gaming",
+                "code": "PAIN",
+                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "LEVIATÁN",
+                "code": "LEV",
+                "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001379",
+              "vods": [
+                {
+                  "parameter": "waeqW0jDyGg"
+                },
+                {
+                  "parameter": "yH2qMZLK-Zo"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001380",
+              "vods": [
+                {
+                  "parameter": "RuxN44oQuqE"
+                },
+                {
+                  "parameter": "C6sBVlS49yk"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001381",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-26T18:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001390",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Vivo Keyd Stars",
+                "code": "VKS",
+                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Isurus Estral",
+                "code": "IE",
+                "image": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001391",
+              "vods": [
+                {
+                  "parameter": "SJN4atfxiZ4"
+                },
+                {
+                  "parameter": "au-YTrKt55U"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001392",
+              "vods": [
+                {
+                  "parameter": "VZDep8sOtzQ"
+                },
+                {
+                  "parameter": "_FtQl4rqUc4"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001393",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-27T15:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001406",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Fluxo W7M",
+                "code": "FXW7",
+                "image": "http://static.lolesports.com/teams/1738138907381_OFFICIALFluxo_W7M_Logo.PNG",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "RED Kalunga",
+                "code": "RED",
+                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001407",
+              "vods": [
+                {
+                  "parameter": "mpKIr3CRwrU"
+                },
+                {
+                  "parameter": "EdVmlaNadw0"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001408",
+              "vods": [
+                {
+                  "parameter": "-rBZ72LYNWw"
+                },
+                {
+                  "parameter": "AL-XxlI88WQ"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001409",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-27T18:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001410",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "FURIA",
+                "code": "FUR",
+                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "LOUD",
+                "code": "LOUD",
+                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001411",
+              "vods": [
+                {
+                  "parameter": "hkTWXGkSsMU"
+                },
+                {
+                  "parameter": "eBoCk4dtWv0"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001412",
+              "vods": [
+                {
+                  "parameter": "swSocVBIFag"
+                },
+                {
+                  "parameter": "swSocVBIFag"
+                },
+                {
+                  "parameter": "JMOyOr5SWwE"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001413",
+              "vods": [
+                {
+                  "parameter": "Z-d2ewO0aF8"
+                },
+                {
+                  "parameter": "CWdV9-sDx1g"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-03T15:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001402",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Fluxo W7M",
+                "code": "FXW7",
+                "image": "http://static.lolesports.com/teams/1738138907381_OFFICIALFluxo_W7M_Logo.PNG",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "LOUD",
+                "code": "LOUD",
+                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001403",
+              "vods": [
+                {
+                  "parameter": "PH68nPdgGrI"
+                },
+                {
+                  "parameter": "vRinjg1_Cgg"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001404",
+              "vods": [
+                {
+                  "parameter": "HodppPJ4X9o"
+                },
+                {
+                  "parameter": "NiB4LNYJLHc"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001405",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-03T18:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001414",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "FURIA",
+                "code": "FUR",
+                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "RED Kalunga",
+                "code": "RED",
+                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001415",
+              "vods": [
+                {
+                  "parameter": "4-5WtA9rdF0"
+                },
+                {
+                  "parameter": "Ret26bfu3dM"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001416",
+              "vods": [
+                {
+                  "parameter": "fCcEkojmRAU"
+                },
+                {
+                  "parameter": "AVNVLJEgDpc"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001417",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-04T15:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001374",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "paiN Gaming",
+                "code": "PAIN",
+                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Vivo Keyd Stars",
+                "code": "VKS",
+                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001375",
+              "vods": [
+                {
+                  "parameter": "WCL50PsZGMc"
+                },
+                {
+                  "parameter": "i77kzdwF15Q"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001376",
+              "vods": [
+                {
+                  "parameter": "-MYhwJ41Tco"
+                },
+                {
+                  "parameter": "0u_a0dVn8j4"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001377",
+              "vods": [
+                {
+                  "parameter": "0ogAfZT5CHs"
+                },
+                {
+                  "parameter": "YygJ7bySOjE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-04T18:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001394",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LEVIATÁN",
+                "code": "LEV",
+                "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Isurus Estral",
+                "code": "IE",
+                "image": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001395",
+              "vods": [
+                {
+                  "parameter": "ktoc0FpEqLU"
+                },
+                {
+                  "parameter": "0ZQVUEKLNrI"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001396",
+              "vods": [
+                {
+                  "parameter": "qL9z3IPqV1Q"
+                },
+                {
+                  "parameter": "pddhQ87DKMY"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001397",
+              "vods": [
+                {
+                  "parameter": "zlYesxbBllM"
+                },
+                {
+                  "parameter": "aO5MH92y-54"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-10T15:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001382",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Isurus Estral",
+                "code": "IE",
+                "image": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "paiN Gaming",
+                "code": "PAIN",
+                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001383",
+              "vods": [
+                {
+                  "parameter": "IEXDg7owPok"
+                },
+                {
+                  "parameter": "dyX8-Kh2CEc"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001384",
+              "vods": [
+                {
+                  "parameter": "HezVX8-MpBQ"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001385",
+              "vods": [
+                {
+                  "parameter": "5hV7uw1xx5M"
+                },
+                {
+                  "parameter": "EgOhU13o2uM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-10T18:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001386",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LEVIATÁN",
+                "code": "LEV",
+                "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Vivo Keyd Stars",
+                "code": "VKS",
+                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001387",
+              "vods": [
+                {
+                  "parameter": "NBkBPjq58M8"
+                },
+                {
+                  "parameter": "nq0S3O3kABo"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001388",
+              "vods": [
+                {
+                  "parameter": "SLfPVg6L5Cw"
+                },
+                {
+                  "parameter": "Tz4hrbiVxXM"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001389",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-11T15:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001398",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "FURIA",
+                "code": "FUR",
+                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Fluxo W7M",
+                "code": "FXW7",
+                "image": "http://static.lolesports.com/teams/1738138907381_OFFICIALFluxo_W7M_Logo.PNG",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001399",
+              "vods": [
+                {
+                  "parameter": "ynrJks2PLEc"
+                },
+                {
+                  "parameter": "XHt42170qR0"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001400",
+              "vods": []
+            },
+            {
+              "id": "114217106692001401",
+              "vods": [
+                {
+                  "parameter": "7BTo6dNUHIM"
+                },
+                {
+                  "parameter": "UNLInmttVo8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-11T18:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001418",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LOUD",
+                "code": "LOUD",
+                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "RED Kalunga",
+                "code": "RED",
+                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001419",
+              "vods": [
+                {
+                  "parameter": "mogoHZuAVKo"
+                },
+                {
+                  "parameter": "D8JMtKtTbF0"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001420",
+              "vods": [
+                {
+                  "parameter": "_MCUH4EkqFc"
+                },
+                {
+                  "parameter": "weaNkZwpQQY"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001421",
+              "vods": [
+                {
+                  "parameter": "dhqN3L6NJYI"
+                },
+                {
+                  "parameter": "beh1_0IaZdA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-17T15:00:00Z",
+          "blockName": "Week 7",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001422",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "paiN Gaming",
+                "code": "PAIN",
+                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "FURIA",
+                "code": "FUR",
+                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001423",
+              "vods": [
+                {
+                  "parameter": "4ows7FSW8bU"
+                },
+                {
+                  "parameter": "YtR_7r0QHQw"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001424",
+              "vods": [
+                {
+                  "parameter": "BspPMTjCSQ0"
+                },
+                {
+                  "parameter": "cZVQFRUSQnU"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001425",
+              "vods": [
+                {
+                  "parameter": "scRYj3wry2g"
+                },
+                {
+                  "parameter": "HgLekMI-zSg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-17T18:00:00Z",
+          "blockName": "Week 7",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001430",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Fluxo W7M",
+                "code": "FXW7",
+                "image": "http://static.lolesports.com/teams/1738138907381_OFFICIALFluxo_W7M_Logo.PNG",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Isurus Estral",
+                "code": "IE",
+                "image": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001431",
+              "vods": [
+                {
+                  "parameter": "OW9Pja7sLIw"
+                },
+                {
+                  "parameter": "OeOfo54UtG0"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001432",
+              "vods": [
+                {
+                  "parameter": "kZ1ZDxUPy1U"
+                },
+                {
+                  "parameter": "2EebMlBC0Ps"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001433",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-18T15:00:00Z",
+          "blockName": "Week 7",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001426",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LOUD",
+                "code": "LOUD",
+                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Vivo Keyd Stars",
+                "code": "VKS",
+                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001427",
+              "vods": [
+                {
+                  "parameter": "H4n6z4E9fTQ"
+                },
+                {
+                  "parameter": "rxVHpKhlQls"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001428",
+              "vods": [
+                {
+                  "parameter": "zmTF6mOFLWA"
+                },
+                {
+                  "parameter": "0JNigy9HPE4"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001429",
+              "vods": [
+                {
+                  "parameter": "9RPNO5L4-3Q"
+                },
+                {
+                  "parameter": "NZXB1Ct8zVs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-18T18:00:00Z",
+          "blockName": "Week 7",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001434",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LEVIATÁN",
+                "code": "LEV",
+                "image": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "RED Kalunga",
+                "code": "RED",
+                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001435",
+              "vods": [
+                {
+                  "parameter": "MLh0rzW2pPM"
+                },
+                {
+                  "parameter": "JueCMvwKBEQ"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001436",
+              "vods": [
+                {
+                  "parameter": "L4KTUb81h04"
+                },
+                {
+                  "parameter": "zM-zKlKB-eo"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001437",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-24T16:00:00Z",
+          "blockName": "Playoffs",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001438",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "paiN Gaming",
+                "code": "PAIN",
+                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                "result": {
+                  "gameWins": 3
+                }
+              },
+              {
+                "name": "LOUD",
+                "code": "LOUD",
+                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001439",
+              "vods": [
+                {
+                  "parameter": "S9KdGPk103A"
+                },
+                {
+                  "parameter": "LjKgVmYXyjA"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001440",
+              "vods": [
+                {
+                  "parameter": "gMW6AsK9k1U"
+                },
+                {
+                  "parameter": "vkejMcckFGQ"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001441",
+              "vods": [
+                {
+                  "parameter": "z2YdffdBUdI"
+                },
+                {
+                  "parameter": "a0flyH8RosA"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001442",
+              "vods": [
+                {
+                  "parameter": "0EcuvjRq1G0"
+                },
+                {
+                  "parameter": "k5mgwSKUTJQ"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001443",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-25T16:00:00Z",
+          "blockName": "Playoffs",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001444",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Vivo Keyd Stars",
+                "code": "VKS",
+                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "FURIA",
+                "code": "FUR",
+                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                "result": {
+                  "gameWins": 3
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001445",
+              "vods": [
+                {
+                  "parameter": "IUDv0yvVmmA"
+                },
+                {
+                  "parameter": "8e5u2WNPd9w"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001446",
+              "vods": [
+                {
+                  "parameter": "9-d4HL8XICc"
+                },
+                {
+                  "parameter": "-JxemXKIwG0"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001447",
+              "vods": [
+                {
+                  "parameter": "tHs6opG2OH8"
+                },
+                {
+                  "parameter": "HbOLM1BXMzM"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001448",
+              "vods": []
+            },
+            {
+              "id": "114217106692001449",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-31T16:00:00Z",
+          "blockName": "Playoffs",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001462",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LOUD",
+                "code": "LOUD",
+                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Isurus Estral",
+                "code": "IE",
+                "image": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png",
+                "result": {
+                  "gameWins": 3
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001463",
+              "vods": [
+                {
+                  "parameter": "PZO2-QklhDM"
+                },
+                {
+                  "parameter": "ucW3BkDrWlI"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001464",
+              "vods": [
+                {
+                  "parameter": "2WENNLdoPkg"
+                },
+                {
+                  "parameter": "N46MrHktXXE"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001465",
+              "vods": [
+                {
+                  "parameter": "ngWW5V0SoKQ"
+                },
+                {
+                  "parameter": "N0sWLd8c81I"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001466",
+              "vods": [
+                {
+                  "parameter": "niuUMRpXgzs"
+                },
+                {
+                  "parameter": "bfNf-Q0GrXE"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001467",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-01T16:00:00Z",
+          "blockName": "Playoffs",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001456",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Vivo Keyd Stars",
+                "code": "VKS",
+                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                "result": {
+                  "gameWins": 3
+                }
+              },
+              {
+                "name": "RED Kalunga",
+                "code": "RED",
+                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001457",
+              "vods": [
+                {
+                  "parameter": "GV1sVyW-7iM"
+                },
+                {
+                  "parameter": "uMNRcY7hnBU"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001458",
+              "vods": [
+                {
+                  "parameter": "qLwt8JiSKiY"
+                },
+                {
+                  "parameter": "xHr1u3cO4vA"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001459",
+              "vods": [
+                {
+                  "parameter": "zAekstDgm5E"
+                },
+                {
+                  "parameter": "EXYKBs4jCzQ"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001460",
+              "vods": [
+                {
+                  "parameter": "keCCHf8i4tA"
+                },
+                {
+                  "parameter": "dE_OvL-kDII"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001461",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-07T16:00:00Z",
+          "blockName": "Playoffs",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001468",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Isurus Estral",
+                "code": "IE",
+                "image": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png",
+                "result": {
+                  "gameWins": 3
+                }
+              },
+              {
+                "name": "Vivo Keyd Stars",
+                "code": "VKS",
+                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001469",
+              "vods": [
+                {
+                  "parameter": "dUUNGi3Z-Zw"
+                },
+                {
+                  "parameter": "pP0pi5UwMMY"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001470",
+              "vods": [
+                {
+                  "parameter": "GL5uQxH91VU"
+                },
+                {
+                  "parameter": "sL4D_GSfUDQ"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001471",
+              "vods": [
+                {
+                  "parameter": "31WS4BcjaPc"
+                },
+                {
+                  "parameter": "NSf0IdK2NdA"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001472",
+              "vods": []
+            },
+            {
+              "id": "114217106692001473",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-08T16:00:00Z",
+          "blockName": "Playoffs",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001450",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "paiN Gaming",
+                "code": "PAIN",
+                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                "result": {
+                  "gameWins": 3
+                }
+              },
+              {
+                "name": "FURIA",
+                "code": "FUR",
+                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001451",
+              "vods": [
+                {
+                  "parameter": "p8lL3B0WnmU"
+                },
+                {
+                  "parameter": "WZyPzmiMe9I"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001452",
+              "vods": [
+                {
+                  "parameter": "aTuB7f2FPeI"
+                },
+                {
+                  "parameter": "jq0mcx0jQxw"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001453",
+              "vods": [
+                {
+                  "parameter": "Oxm8VlgzB0s"
+                },
+                {
+                  "parameter": "5drS1rpdsv8"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001454",
+              "vods": [
+                {
+                  "parameter": "Pr83tkXKgZU"
+                },
+                {
+                  "parameter": "HCFdeLwsBAk"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001455",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-14T16:00:00Z",
+          "blockName": "Playoffs",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001474",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Isurus Estral",
+                "code": "IE",
+                "image": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "FURIA",
+                "code": "FUR",
+                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                "result": {
+                  "gameWins": 3
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001475",
+              "vods": [
+                {
+                  "parameter": "DW6EB8UUGYM"
+                },
+                {
+                  "parameter": "XtULCRKCMrM"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001476",
+              "vods": [
+                {
+                  "parameter": "g-DhMKKKzps"
+                },
+                {
+                  "parameter": "hNXwHdakoYw"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001477",
+              "vods": [
+                {
+                  "parameter": "ML7oChHUYX0"
+                },
+                {
+                  "parameter": "VbRf2JOjVkY"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001478",
+              "vods": [
+                {
+                  "parameter": "acrNCFZ5Q3w"
+                },
+                {
+                  "parameter": "i8DSQQeQlV8"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001479",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-15T16:00:00Z",
+          "blockName": "Finals",
+          "league": {
+            "name": "LTA South"
+          },
+          "match": {
+            "id": "114217106692001480",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "paiN Gaming",
+                "code": "PAIN",
+                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "FURIA",
+                "code": "FUR",
+                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                "result": {
+                  "gameWins": 3
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "114217106692001481",
+              "vods": [
+                {
+                  "parameter": "7R_yAgzO0AA"
+                },
+                {
+                  "parameter": "kk-lAKbol1A"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001482",
+              "vods": [
+                {
+                  "parameter": "z_VauZTdYUQ"
+                },
+                {
+                  "parameter": "VgQb7xU0svs"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001483",
+              "vods": [
+                {
+                  "parameter": "CXOabox3AWg"
+                },
+                {
+                  "parameter": "xDOuouN0rfE"
+                }
+              ]
+            },
+            {
+              "id": "114217106692001484",
+              "vods": []
+            },
+            {
+              "id": "114217106692001485",
+              "vods": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,4324 @@
+{
+  "frames": [
+    {
+      "rfc460Timestamp": "2025-04-20T21:57:03.082Z",
+      "participants": [
+        {
+          "participantId": 1,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 59,
+          "abilityPower": 36,
+          "criticalChance": 0,
+          "attackSpeed": 140,
+          "lifeSteal": 0,
+          "armor": 24,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8400,
+            "subStyleId": 8300,
+            "perks": [
+              8439,
+              8401,
+              8444,
+              8451,
+              8347,
+              8345,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 2,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 28,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8347,
+              8304,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 3,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 56,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 0,
+          "armor": 25,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1056,
+            3340,
+            2003,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              8009,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "W"
+          ]
+        },
+        {
+          "participantId": 4,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 27,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 5,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 48,
+          "abilityPower": 9,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 21,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3364
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8229,
+              8226,
+              8234,
+              8237,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "Q"
+          ]
+        },
+        {
+          "participantId": 6,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 64,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 36,
+          "magicResistance": 28,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8345,
+              8347,
+              5007,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "E"
+          ]
+        },
+        {
+          "participantId": 7,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 35,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8275,
+              8234,
+              8232,
+              8306,
+              8347,
+              5005,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 8,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 81,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 3,
+          "armor": 22,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8226,
+              8233,
+              8236,
+              8345,
+              8347,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 9,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 26,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8410,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 10,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 62,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 47,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8300,
+            "subStyleId": 8400,
+            "perks": [
+              8351,
+              8306,
+              8345,
+              8347,
+              8463,
+              8429,
+              5007,
+              5010,
+              5011
+            ]
+          },
+          "abilities": []
+        }
+      ]
+    },
+    {
+      "rfc460Timestamp": "2025-04-20T21:57:03.516Z",
+      "participants": [
+        {
+          "participantId": 1,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 59,
+          "abilityPower": 36,
+          "criticalChance": 0,
+          "attackSpeed": 140,
+          "lifeSteal": 0,
+          "armor": 24,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8400,
+            "subStyleId": 8300,
+            "perks": [
+              8439,
+              8401,
+              8444,
+              8451,
+              8347,
+              8345,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 2,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 28,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8347,
+              8304,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 3,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 56,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 0,
+          "armor": 25,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1056,
+            3340,
+            2003,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              8009,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "W"
+          ]
+        },
+        {
+          "participantId": 4,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 27,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 5,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 48,
+          "abilityPower": 9,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 21,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3364
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8229,
+              8226,
+              8234,
+              8237,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "Q"
+          ]
+        },
+        {
+          "participantId": 6,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 64,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 36,
+          "magicResistance": 28,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8345,
+              8347,
+              5007,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "E"
+          ]
+        },
+        {
+          "participantId": 7,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 35,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8275,
+              8234,
+              8232,
+              8306,
+              8347,
+              5005,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 8,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 81,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 3,
+          "armor": 22,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8226,
+              8233,
+              8236,
+              8345,
+              8347,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 9,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 26,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8410,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 10,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 62,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 47,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8300,
+            "subStyleId": 8400,
+            "perks": [
+              8351,
+              8306,
+              8345,
+              8347,
+              8463,
+              8429,
+              5007,
+              5010,
+              5011
+            ]
+          },
+          "abilities": []
+        }
+      ]
+    },
+    {
+      "rfc460Timestamp": "2025-04-20T21:57:03.984Z",
+      "participants": [
+        {
+          "participantId": 1,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 59,
+          "abilityPower": 36,
+          "criticalChance": 0,
+          "attackSpeed": 140,
+          "lifeSteal": 0,
+          "armor": 24,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8400,
+            "subStyleId": 8300,
+            "perks": [
+              8439,
+              8401,
+              8444,
+              8451,
+              8347,
+              8345,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 2,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 28,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8347,
+              8304,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 3,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 56,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 0,
+          "armor": 25,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1056,
+            3340,
+            2003,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              8009,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "W"
+          ]
+        },
+        {
+          "participantId": 4,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 27,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 5,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 48,
+          "abilityPower": 9,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 21,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3364
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8229,
+              8226,
+              8234,
+              8237,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "Q"
+          ]
+        },
+        {
+          "participantId": 6,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 64,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 36,
+          "magicResistance": 28,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8345,
+              8347,
+              5007,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "E"
+          ]
+        },
+        {
+          "participantId": 7,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 35,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8275,
+              8234,
+              8232,
+              8306,
+              8347,
+              5005,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 8,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 81,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 3,
+          "armor": 22,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8226,
+              8233,
+              8236,
+              8345,
+              8347,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 9,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 26,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8410,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 10,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 62,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 47,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8300,
+            "subStyleId": 8400,
+            "perks": [
+              8351,
+              8306,
+              8345,
+              8347,
+              8463,
+              8429,
+              5007,
+              5010,
+              5011
+            ]
+          },
+          "abilities": []
+        }
+      ]
+    },
+    {
+      "rfc460Timestamp": "2025-04-20T21:57:04.183Z",
+      "participants": [
+        {
+          "participantId": 1,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 59,
+          "abilityPower": 36,
+          "criticalChance": 0,
+          "attackSpeed": 140,
+          "lifeSteal": 0,
+          "armor": 24,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8400,
+            "subStyleId": 8300,
+            "perks": [
+              8439,
+              8401,
+              8444,
+              8451,
+              8347,
+              8345,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 2,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 28,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8347,
+              8304,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 3,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 56,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 0,
+          "armor": 25,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1056,
+            3340,
+            2003,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              8009,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "W"
+          ]
+        },
+        {
+          "participantId": 4,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 27,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 5,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 48,
+          "abilityPower": 9,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 21,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3364
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8229,
+              8226,
+              8234,
+              8237,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "Q"
+          ]
+        },
+        {
+          "participantId": 6,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 64,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 36,
+          "magicResistance": 28,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8345,
+              8347,
+              5007,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "E"
+          ]
+        },
+        {
+          "participantId": 7,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 35,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8275,
+              8234,
+              8232,
+              8306,
+              8347,
+              5005,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 8,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 81,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 3,
+          "armor": 22,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8226,
+              8233,
+              8236,
+              8345,
+              8347,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 9,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 26,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8410,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 10,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 62,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 47,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8300,
+            "subStyleId": 8400,
+            "perks": [
+              8351,
+              8306,
+              8345,
+              8347,
+              8463,
+              8429,
+              5007,
+              5010,
+              5011
+            ]
+          },
+          "abilities": []
+        }
+      ]
+    },
+    {
+      "rfc460Timestamp": "2025-04-20T21:57:04.651Z",
+      "participants": [
+        {
+          "participantId": 1,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 59,
+          "abilityPower": 36,
+          "criticalChance": 0,
+          "attackSpeed": 140,
+          "lifeSteal": 0,
+          "armor": 24,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8400,
+            "subStyleId": 8300,
+            "perks": [
+              8439,
+              8401,
+              8444,
+              8451,
+              8347,
+              8345,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 2,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 28,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8347,
+              8304,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 3,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 56,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 0,
+          "armor": 25,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1056,
+            3340,
+            2003,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              8009,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "W"
+          ]
+        },
+        {
+          "participantId": 4,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 27,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 5,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 48,
+          "abilityPower": 9,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 21,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3364
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8229,
+              8226,
+              8234,
+              8237,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "Q"
+          ]
+        },
+        {
+          "participantId": 6,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 64,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 36,
+          "magicResistance": 28,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8345,
+              8347,
+              5007,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "E"
+          ]
+        },
+        {
+          "participantId": 7,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 35,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8275,
+              8234,
+              8232,
+              8306,
+              8347,
+              5005,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 8,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 81,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 3,
+          "armor": 22,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8226,
+              8233,
+              8236,
+              8345,
+              8347,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 9,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 26,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8410,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 10,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 62,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 47,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8300,
+            "subStyleId": 8400,
+            "perks": [
+              8351,
+              8306,
+              8345,
+              8347,
+              8463,
+              8429,
+              5007,
+              5010,
+              5011
+            ]
+          },
+          "abilities": []
+        }
+      ]
+    },
+    {
+      "rfc460Timestamp": "2025-04-20T21:57:04.986Z",
+      "participants": [
+        {
+          "participantId": 1,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 59,
+          "abilityPower": 36,
+          "criticalChance": 0,
+          "attackSpeed": 140,
+          "lifeSteal": 0,
+          "armor": 24,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8400,
+            "subStyleId": 8300,
+            "perks": [
+              8439,
+              8401,
+              8444,
+              8451,
+              8347,
+              8345,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 2,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 28,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8347,
+              8304,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 3,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 56,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 0,
+          "armor": 25,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1056,
+            3340,
+            2003,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              8009,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "W"
+          ]
+        },
+        {
+          "participantId": 4,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 27,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 5,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 48,
+          "abilityPower": 9,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 21,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3364
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8229,
+              8226,
+              8234,
+              8237,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "Q"
+          ]
+        },
+        {
+          "participantId": 6,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 64,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 36,
+          "magicResistance": 28,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8345,
+              8347,
+              5007,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "E"
+          ]
+        },
+        {
+          "participantId": 7,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 35,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8275,
+              8234,
+              8232,
+              8306,
+              8347,
+              5005,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 8,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 81,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 3,
+          "armor": 22,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8226,
+              8233,
+              8236,
+              8345,
+              8347,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 9,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 26,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8410,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 10,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 62,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 47,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8300,
+            "subStyleId": 8400,
+            "perks": [
+              8351,
+              8306,
+              8345,
+              8347,
+              8463,
+              8429,
+              5007,
+              5010,
+              5011
+            ]
+          },
+          "abilities": []
+        }
+      ]
+    },
+    {
+      "rfc460Timestamp": "2025-04-20T21:57:05.119Z",
+      "participants": [
+        {
+          "participantId": 1,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 59,
+          "abilityPower": 36,
+          "criticalChance": 0,
+          "attackSpeed": 140,
+          "lifeSteal": 0,
+          "armor": 24,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8400,
+            "subStyleId": 8300,
+            "perks": [
+              8439,
+              8401,
+              8444,
+              8451,
+              8347,
+              8345,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 2,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 28,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8347,
+              8304,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 3,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 56,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 0,
+          "armor": 25,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1056,
+            3340,
+            2003,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              8009,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "W"
+          ]
+        },
+        {
+          "participantId": 4,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 27,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 5,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 48,
+          "abilityPower": 9,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 21,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3364
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8229,
+              8226,
+              8234,
+              8237,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "Q"
+          ]
+        },
+        {
+          "participantId": 6,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 64,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 36,
+          "magicResistance": 28,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8345,
+              8347,
+              5007,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "E"
+          ]
+        },
+        {
+          "participantId": 7,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 35,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8275,
+              8234,
+              8232,
+              8306,
+              8347,
+              5005,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 8,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 81,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 3,
+          "armor": 22,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8226,
+              8233,
+              8236,
+              8345,
+              8347,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 9,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 26,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8410,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 10,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 62,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 47,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8300,
+            "subStyleId": 8400,
+            "perks": [
+              8351,
+              8306,
+              8345,
+              8347,
+              8463,
+              8429,
+              5007,
+              5010,
+              5011
+            ]
+          },
+          "abilities": []
+        }
+      ]
+    },
+    {
+      "rfc460Timestamp": "2025-04-20T21:57:05.519Z",
+      "participants": [
+        {
+          "participantId": 1,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 59,
+          "abilityPower": 36,
+          "criticalChance": 0,
+          "attackSpeed": 140,
+          "lifeSteal": 0,
+          "armor": 24,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8400,
+            "subStyleId": 8300,
+            "perks": [
+              8439,
+              8401,
+              8444,
+              8451,
+              8347,
+              8345,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 2,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 28,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8347,
+              8304,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 3,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 56,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 0,
+          "armor": 25,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1056,
+            3340,
+            2003,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              8009,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "W"
+          ]
+        },
+        {
+          "participantId": 4,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 27,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 5,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 48,
+          "abilityPower": 9,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 21,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3364
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8229,
+              8226,
+              8234,
+              8237,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "Q"
+          ]
+        },
+        {
+          "participantId": 6,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 64,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 36,
+          "magicResistance": 28,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8345,
+              8347,
+              5007,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "E"
+          ]
+        },
+        {
+          "participantId": 7,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 35,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8275,
+              8234,
+              8232,
+              8306,
+              8347,
+              5005,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 8,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 81,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 3,
+          "armor": 22,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8226,
+              8233,
+              8236,
+              8345,
+              8347,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 9,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 26,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8410,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 10,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 62,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 47,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8300,
+            "subStyleId": 8400,
+            "perks": [
+              8351,
+              8306,
+              8345,
+              8347,
+              8463,
+              8429,
+              5007,
+              5010,
+              5011
+            ]
+          },
+          "abilities": []
+        }
+      ]
+    },
+    {
+      "rfc460Timestamp": "2025-04-20T21:57:05.586Z",
+      "participants": [
+        {
+          "participantId": 1,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 59,
+          "abilityPower": 36,
+          "criticalChance": 0,
+          "attackSpeed": 140,
+          "lifeSteal": 0,
+          "armor": 24,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8400,
+            "subStyleId": 8300,
+            "perks": [
+              8439,
+              8401,
+              8444,
+              8451,
+              8347,
+              8345,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 2,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 28,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8347,
+              8304,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 3,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 56,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 0,
+          "armor": 25,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1056,
+            3340,
+            2003,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              8009,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "W"
+          ]
+        },
+        {
+          "participantId": 4,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 27,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 5,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 48,
+          "abilityPower": 9,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 21,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3364
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8229,
+              8226,
+              8234,
+              8237,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "Q"
+          ]
+        },
+        {
+          "participantId": 6,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 64,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 36,
+          "magicResistance": 28,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8345,
+              8347,
+              5007,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "E"
+          ]
+        },
+        {
+          "participantId": 7,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 35,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8275,
+              8234,
+              8232,
+              8306,
+              8347,
+              5005,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 8,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 81,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 3,
+          "armor": 22,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8226,
+              8233,
+              8236,
+              8345,
+              8347,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 9,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 26,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8410,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 10,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 62,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 47,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8300,
+            "subStyleId": 8400,
+            "perks": [
+              8351,
+              8306,
+              8345,
+              8347,
+              8463,
+              8429,
+              5007,
+              5010,
+              5011
+            ]
+          },
+          "abilities": []
+        }
+      ]
+    },
+    {
+      "rfc460Timestamp": "2025-04-20T21:57:05.653Z",
+      "participants": [
+        {
+          "participantId": 1,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 59,
+          "abilityPower": 36,
+          "criticalChance": 0,
+          "attackSpeed": 140,
+          "lifeSteal": 0,
+          "armor": 24,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8400,
+            "subStyleId": 8300,
+            "perks": [
+              8439,
+              8401,
+              8444,
+              8451,
+              8347,
+              8345,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 2,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 28,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8347,
+              8304,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 3,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 56,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 0,
+          "armor": 25,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1056,
+            3340,
+            2003,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              8009,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "W"
+          ]
+        },
+        {
+          "participantId": 4,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 27,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 5,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 48,
+          "abilityPower": 9,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 21,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3364
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8229,
+              8226,
+              8234,
+              8237,
+              8345,
+              8347,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "Q"
+          ]
+        },
+        {
+          "participantId": 6,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 64,
+          "abilityPower": 27,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 36,
+          "magicResistance": 28,
+          "tenacity": 0,
+          "items": [
+            1056,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8010,
+              9111,
+              9105,
+              8017,
+              8345,
+              8347,
+              5007,
+              5008,
+              5011
+            ]
+          },
+          "abilities": [
+            "E"
+          ]
+        },
+        {
+          "participantId": 7,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 65,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 110,
+          "lifeSteal": 0,
+          "armor": 35,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            1102,
+            3340,
+            2003
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8275,
+              8234,
+              8232,
+              8306,
+              8347,
+              5005,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 8,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 81,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 3,
+          "armor": 22,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8200,
+            "subStyleId": 8300,
+            "perks": [
+              8230,
+              8226,
+              8233,
+              8236,
+              8345,
+              8347,
+              5008,
+              5001
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 9,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 74,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 113,
+          "lifeSteal": 3,
+          "armor": 26,
+          "magicResistance": 30,
+          "tenacity": 0,
+          "items": [
+            1055,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8000,
+            "subStyleId": 8300,
+            "perks": [
+              8008,
+              9101,
+              9104,
+              8017,
+              8345,
+              8410,
+              5005,
+              5008,
+              5011
+            ]
+          },
+          "abilities": []
+        },
+        {
+          "participantId": 10,
+          "level": 1,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "totalGoldEarned": 500,
+          "creepScore": 0,
+          "killParticipation": 0,
+          "championDamageShare": 0,
+          "wardsPlaced": 0,
+          "wardsDestroyed": 0,
+          "attackDamage": 62,
+          "abilityPower": 0,
+          "criticalChance": 0,
+          "attackSpeed": 100,
+          "lifeSteal": 0,
+          "armor": 47,
+          "magicResistance": 32,
+          "tenacity": 0,
+          "items": [
+            3865,
+            2003,
+            2003,
+            3340
+          ],
+          "perkMetadata": {
+            "styleId": 8300,
+            "subStyleId": 8400,
+            "perks": [
+              8351,
+              8306,
+              8345,
+              8347,
+              8463,
+              8429,
+              5007,
+              5010,
+              5011
+            ]
+          },
+          "abilities": []
+        }
+      ]
+    }
+  ]
+}

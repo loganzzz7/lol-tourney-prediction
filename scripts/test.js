@@ -19,20 +19,20 @@ async function main() {
   // LEC: 98767991302996019
 
   const leagueTournaments = await client.leagues.getTournaments(
-    "113476371197627891"
+    "113475181634818701"
   );
 
   // const lck25S2Tournaments = await client.tournaments.getCompletedEvents(
   //   "113503260417890076"
   // );
 
-  const lcp25S2Tournaments = await client.tournaments.getCompletedEvents(
-    "113503008259566005"
+  const ltas25S2Tournaments = await client.tournaments.getCompletedEvents(
+    "113486838366247730"
   );
 
   writeFileSync(
-    "data/lcp_25S2_Tournaments.json",
-    JSON.stringify(lcp25S2Tournaments, null, 2)
+    "data/ltas_25S2_Tournaments.json",
+    JSON.stringify(ltas25S2Tournaments, null, 2)
   );
 
   // const ggT1GameOne = await client.games.get("111561337007371296");
@@ -49,7 +49,7 @@ async function main() {
 
   // console.dir(leagueTournaments, { depth: null });
 
-  // console.dir(lcp25S2Tournaments, { depth: null });
+  // console.dir(ltas25S2Tournaments, { depth: null });
 
   // // console.dir(ggT1GameOne, { depth: null })
 

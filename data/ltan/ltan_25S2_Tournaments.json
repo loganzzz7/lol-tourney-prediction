@@ -1,0 +1,2957 @@
+{
+  "data": {
+    "schedule": {
+      "events": [
+        {
+          "startTime": "2025-04-05T20:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612811",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Team Liquid",
+                "code": "TL",
+                "image": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "FlyQuest",
+                "code": "FLY",
+                "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612812",
+              "vods": [
+                {
+                  "parameter": "ttW1Plc7N9w"
+                },
+                {
+                  "parameter": "KZrE3HozLkM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-05T21:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612795",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Shopify Rebellion",
+                "code": "SR",
+                "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Dignitas",
+                "code": "DIG",
+                "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612796",
+              "vods": [
+                {
+                  "parameter": "k-Ts4RKM7LA"
+                },
+                {
+                  "parameter": "uclWPNm3ka8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-05T22:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612763",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Cloud9 Kia",
+                "code": "C9",
+                "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "100 Thieves",
+                "code": "100T",
+                "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612764",
+              "vods": [
+                {
+                  "parameter": "AHXDiOsFIJ8"
+                },
+                {
+                  "parameter": "cU4J2nI-dGA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-05T23:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612801",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Disguised",
+                "code": "DSG",
+                "image": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "LYON",
+                "code": "LYON",
+                "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612802",
+              "vods": [
+                {
+                  "parameter": "c3yHLov0kwI"
+                },
+                {
+                  "parameter": "lgQ1pezfyOk"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-06T20:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612785",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Shopify Rebellion",
+                "code": "SR",
+                "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Cloud9 Kia",
+                "code": "C9",
+                "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612786",
+              "vods": [
+                {
+                  "parameter": "xfG6-pTjJ8E"
+                },
+                {
+                  "parameter": "abirlEw2Bfc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-06T21:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612775",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Team Liquid",
+                "code": "TL",
+                "image": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "100 Thieves",
+                "code": "100T",
+                "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612776",
+              "vods": [
+                {
+                  "parameter": "2QhOijY7Ai4"
+                },
+                {
+                  "parameter": "QCrPvYpNs9U"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-06T22:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612799",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Disguised",
+                "code": "DSG",
+                "image": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "FlyQuest",
+                "code": "FLY",
+                "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612800",
+              "vods": [
+                {
+                  "parameter": "dOmRHwn_rD4"
+                },
+                {
+                  "parameter": "qhrc_x9Cf-g"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-06T23:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612793",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LYON",
+                "code": "LYON",
+                "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Dignitas",
+                "code": "DIG",
+                "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612794",
+              "vods": [
+                {
+                  "parameter": "dWEEDZ5AFlw"
+                },
+                {
+                  "parameter": "9Z6RBQNZqB0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-12T20:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612779",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Cloud9 Kia",
+                "code": "C9",
+                "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Disguised",
+                "code": "DSG",
+                "image": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612780",
+              "vods": [
+                {
+                  "parameter": "dh0SBmq4sKE"
+                },
+                {
+                  "parameter": "awSkL83PEyc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-12T21:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612769",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "100 Thieves",
+                "code": "100T",
+                "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "FlyQuest",
+                "code": "FLY",
+                "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612770",
+              "vods": [
+                {
+                  "parameter": "gVZe5n8F34Q"
+                },
+                {
+                  "parameter": "VETSgUiP-CI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-12T22:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612797",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Dignitas",
+                "code": "DIG",
+                "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Team Liquid",
+                "code": "TL",
+                "image": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612798",
+              "vods": [
+                {
+                  "parameter": "13H4iNl-Cdg"
+                },
+                {
+                  "parameter": "ycMMu00-QQQ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-12T23:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612813",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LYON",
+                "code": "LYON",
+                "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Shopify Rebellion",
+                "code": "SR",
+                "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612814",
+              "vods": [
+                {
+                  "parameter": "Sr9U8pYcdYQ"
+                },
+                {
+                  "parameter": "XGnxpKcIstM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-13T20:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612767",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "100 Thieves",
+                "code": "100T",
+                "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Disguised",
+                "code": "DSG",
+                "image": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612768",
+              "vods": [
+                {
+                  "parameter": "r9gNqau8nfA"
+                },
+                {
+                  "parameter": "sNZkywO7bVo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-13T21:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612809",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Shopify Rebellion",
+                "code": "SR",
+                "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "FlyQuest",
+                "code": "FLY",
+                "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612810",
+              "vods": [
+                {
+                  "parameter": "phHb_yxiwxI"
+                },
+                {
+                  "parameter": "rAqxKRQe3s8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-13T22:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612815",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Team Liquid",
+                "code": "TL",
+                "image": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "LYON",
+                "code": "LYON",
+                "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612816",
+              "vods": [
+                {
+                  "parameter": "5cgY8d62oCk"
+                },
+                {
+                  "parameter": "TbDLgroSzOM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-13T23:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612777",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Cloud9 Kia",
+                "code": "C9",
+                "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Dignitas",
+                "code": "DIG",
+                "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612778",
+              "vods": [
+                {
+                  "parameter": "txEzoz1Sxr4"
+                },
+                {
+                  "parameter": "vP-RplOBSCA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-19T20:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612807",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "FlyQuest",
+                "code": "FLY",
+                "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "LYON",
+                "code": "LYON",
+                "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612808",
+              "vods": [
+                {
+                  "parameter": "u4kN1bsVgkU"
+                },
+                {
+                  "parameter": "lW_A90-u22Q"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-19T21:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612787",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Cloud9 Kia",
+                "code": "C9",
+                "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Team Liquid",
+                "code": "TL",
+                "image": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612788",
+              "vods": [
+                {
+                  "parameter": "coO25NWeivk"
+                },
+                {
+                  "parameter": "6ueqiJXJ2bg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-19T22:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612765",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Dignitas",
+                "code": "DIG",
+                "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "100 Thieves",
+                "code": "100T",
+                "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612766",
+              "vods": [
+                {
+                  "parameter": "DvL387Nh6co"
+                },
+                {
+                  "parameter": "DvL387Nh6co"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-19T23:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612803",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Disguised",
+                "code": "DSG",
+                "image": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Shopify Rebellion",
+                "code": "SR",
+                "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612804",
+              "vods": [
+                {
+                  "parameter": "H_xMPquCouM"
+                },
+                {
+                  "parameter": "yAXWl1KlBTA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-20T20:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612771",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LYON",
+                "code": "LYON",
+                "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "100 Thieves",
+                "code": "100T",
+                "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612772",
+              "vods": [
+                {
+                  "parameter": "1TlptR4z_SA"
+                },
+                {
+                  "parameter": "LdkuW-uMbSE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-20T21:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612781",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Cloud9 Kia",
+                "code": "C9",
+                "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "FlyQuest",
+                "code": "FLY",
+                "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612782",
+              "vods": [
+                {
+                  "parameter": "aFL8FvSNuw0"
+                },
+                {
+                  "parameter": "PhH2mzYDEc8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-20T22:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612817",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Team Liquid",
+                "code": "TL",
+                "image": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Shopify Rebellion",
+                "code": "SR",
+                "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612818",
+              "vods": [
+                {
+                  "parameter": "-5euATZoS64"
+                },
+                {
+                  "parameter": "jJgfB9mnVJA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-20T23:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612789",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Dignitas",
+                "code": "DIG",
+                "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Disguised",
+                "code": "DSG",
+                "image": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612790",
+              "vods": [
+                {
+                  "parameter": "-B9cR1IoXSU"
+                },
+                {
+                  "parameter": "bZaMbs80THk"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-21T20:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612791",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "FlyQuest",
+                "code": "FLY",
+                "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Dignitas",
+                "code": "DIG",
+                "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612792",
+              "vods": [
+                {
+                  "parameter": "8YUyXIL5sRs"
+                },
+                {
+                  "parameter": "xo_9nlQS1pw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-21T21:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612783",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LYON",
+                "code": "LYON",
+                "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Cloud9 Kia",
+                "code": "C9",
+                "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612784",
+              "vods": [
+                {
+                  "parameter": "NurInPIZa34"
+                },
+                {
+                  "parameter": "RMzRSF4QYMs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-21T22:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612805",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Disguised",
+                "code": "DSG",
+                "image": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Team Liquid",
+                "code": "TL",
+                "image": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612806",
+              "vods": [
+                {
+                  "parameter": "GeTdsa369Y0"
+                },
+                {
+                  "parameter": "qgjmMfIPqhk"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-21T23:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114140723403612773",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "100 Thieves",
+                "code": "100T",
+                "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Shopify Rebellion",
+                "code": "SR",
+                "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 1
+            }
+          },
+          "games": [
+            {
+              "id": "114140723403612774",
+              "vods": [
+                {
+                  "parameter": "oYINdpQYCHY"
+                },
+                {
+                  "parameter": "6UaoYpPRCQI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-26T20:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114216998190273785",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "100 Thieves",
+                "code": "100T",
+                "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "FlyQuest",
+                "code": "FLY",
+                "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114216998190273786",
+              "vods": [
+                {
+                  "parameter": "M0Fd3RPivrc"
+                },
+                {
+                  "parameter": "ZWER7Qi-qqI"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273787",
+              "vods": [
+                {
+                  "parameter": "nuDVpWFu9Wk"
+                },
+                {
+                  "parameter": "AxOEDi388hk"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273788",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-26T23:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114216998190273777",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Team Liquid",
+                "code": "TL",
+                "image": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "LYON",
+                "code": "LYON",
+                "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114216998190273778",
+              "vods": [
+                {
+                  "parameter": "sxe3cASKaB4"
+                },
+                {
+                  "parameter": "6daB1gBCRgA"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273779",
+              "vods": [
+                {
+                  "parameter": "lMLEwl6bZ8M"
+                },
+                {
+                  "parameter": "QMOQW7PxSn8"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273780",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-27T20:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114216998190273757",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Cloud9 Kia",
+                "code": "C9",
+                "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Disguised",
+                "code": "DSG",
+                "image": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114216998190273758",
+              "vods": [
+                {
+                  "parameter": "S5kIhqwxfgU"
+                },
+                {
+                  "parameter": "hXiGqZM2rOs"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273759",
+              "vods": [
+                {
+                  "parameter": "PQhJfnmUTxE"
+                },
+                {
+                  "parameter": "78Kk6qqTDRY"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273760",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-27T23:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114216998190273797",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Dignitas",
+                "code": "DIG",
+                "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Shopify Rebellion",
+                "code": "SR",
+                "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114216998190273798",
+              "vods": [
+                {
+                  "parameter": "BgbMW3Y6oIA"
+                },
+                {
+                  "parameter": "0qA0GeuyL7I"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273799",
+              "vods": [
+                {
+                  "parameter": "Om3_z1_MZes"
+                },
+                {
+                  "parameter": "NNcUuBNymYo"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273800",
+              "vods": [
+                {
+                  "parameter": "l-cVtT_Peqc"
+                },
+                {
+                  "parameter": "z-SXkdrZfyk"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-03T20:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114216998190273801",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "FlyQuest",
+                "code": "FLY",
+                "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Shopify Rebellion",
+                "code": "SR",
+                "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114216998190273802",
+              "vods": [
+                {
+                  "parameter": "6dK71AdgV-4"
+                },
+                {
+                  "parameter": "_9nfC0u4HKw"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273803",
+              "vods": [
+                {
+                  "parameter": "EdUyuQXahzU"
+                },
+                {
+                  "parameter": "EOJOTdUb81g"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273804",
+              "vods": [
+                {
+                  "parameter": "NQjl6gITjk4"
+                },
+                {
+                  "parameter": "Yo5IPyjcw94"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-03T23:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114216998190273773",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Team Liquid",
+                "code": "TL",
+                "image": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Disguised",
+                "code": "DSG",
+                "image": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114216998190273774",
+              "vods": [
+                {
+                  "parameter": "hHVFRw_LYGI"
+                },
+                {
+                  "parameter": "lJyvp4BQuDA"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273775",
+              "vods": [
+                {
+                  "parameter": "vygSa4zXdlE"
+                },
+                {
+                  "parameter": "h6eQ2sgYM6A"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273776",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-04T20:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114216998190273781",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "100 Thieves",
+                "code": "100T",
+                "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Dignitas",
+                "code": "DIG",
+                "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114216998190273782",
+              "vods": [
+                {
+                  "parameter": "CSwcSvAs-rY"
+                },
+                {
+                  "parameter": "lYfrjKCLjME"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273783",
+              "vods": [
+                {
+                  "parameter": "xlPVQvwN87o"
+                },
+                {
+                  "parameter": "cvl6qw4hyDM"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273784",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-04T23:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114216998190273761",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LYON",
+                "code": "LYON",
+                "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Cloud9 Kia",
+                "code": "C9",
+                "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114216998190273762",
+              "vods": [
+                {
+                  "parameter": "R2JH5FnsQM0"
+                },
+                {
+                  "parameter": "OGzg7nyDna8"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273763",
+              "vods": [
+                {
+                  "parameter": "6XvT0R-fuwY"
+                },
+                {
+                  "parameter": "WQxi9iEiHjU"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273764",
+              "vods": [
+                {
+                  "parameter": "QPqsNZfHY38"
+                },
+                {
+                  "parameter": "geG5gD0sOk8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-10T20:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114216998190273765",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Cloud9 Kia",
+                "code": "C9",
+                "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Team Liquid",
+                "code": "TL",
+                "image": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114216998190273766",
+              "vods": [
+                {
+                  "parameter": "2z6kUdWJ_n0"
+                },
+                {
+                  "parameter": "4DOcGGTzc48"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273767",
+              "vods": [
+                {
+                  "parameter": "L1PPMDLZdYk"
+                },
+                {
+                  "parameter": "bZJljwiYiks"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273768",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-10T23:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114216998190273789",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Shopify Rebellion",
+                "code": "SR",
+                "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "100 Thieves",
+                "code": "100T",
+                "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114216998190273790",
+              "vods": [
+                {
+                  "parameter": "EzfE3KXbwGI"
+                },
+                {
+                  "parameter": "OsV51_-L_pI"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273791",
+              "vods": [
+                {
+                  "parameter": "7u0rJwOqX_U"
+                },
+                {
+                  "parameter": "2YGck4BKA7Q"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273792",
+              "vods": [
+                {
+                  "parameter": "xA6786b0ZYE"
+                },
+                {
+                  "parameter": "fHpb0fhceTg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-11T20:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114216998190273793",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "FlyQuest",
+                "code": "FLY",
+                "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Dignitas",
+                "code": "DIG",
+                "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114216998190273794",
+              "vods": [
+                {
+                  "parameter": "-3b8Z1SKlBI"
+                },
+                {
+                  "parameter": "yL-wDKeWfx4"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273795",
+              "vods": [
+                {
+                  "parameter": "AWpoTDsTtxM"
+                },
+                {
+                  "parameter": "I3aLb7pvYTw"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273796",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-11T23:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114216998190273769",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Disguised",
+                "code": "DSG",
+                "image": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "LYON",
+                "code": "LYON",
+                "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114216998190273770",
+              "vods": [
+                {
+                  "parameter": "qg1ZLLW7N7I"
+                },
+                {
+                  "parameter": "l94hDgLcCdQ"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273771",
+              "vods": [
+                {
+                  "parameter": "lzDw0qOZ21Y"
+                },
+                {
+                  "parameter": "_QShFRTZS2s"
+                }
+              ]
+            },
+            {
+              "id": "114216998190273772",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-17T20:00:00Z",
+          "blockName": "Week 7",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114217030657972283",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Cloud9 Kia",
+                "code": "C9",
+                "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "FlyQuest",
+                "code": "FLY",
+                "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217030657972284",
+              "vods": [
+                {
+                  "parameter": "N5E2L04NmR8"
+                },
+                {
+                  "parameter": "e9b2_aKuT5w"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972285",
+              "vods": [
+                {
+                  "parameter": "WXtS0Xgp9r0"
+                },
+                {
+                  "parameter": "OW2kRJmZGAs"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972286",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-17T23:00:00Z",
+          "blockName": "Week 7",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114217030657972291",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "LYON",
+                "code": "LYON",
+                "image": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Dignitas",
+                "code": "DIG",
+                "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217030657972292",
+              "vods": [
+                {
+                  "parameter": "iKDhF5JEnZ4"
+                },
+                {
+                  "parameter": "k0sQgZkz_G8"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972293",
+              "vods": [
+                {
+                  "parameter": "u2GGx5sF_8k"
+                },
+                {
+                  "parameter": "NIvl5vrR7m8"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972294",
+              "vods": [
+                {
+                  "parameter": "MkX5KfFnkzo"
+                },
+                {
+                  "parameter": "klLM0DtGDIU"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-18T20:00:00Z",
+          "blockName": "Week 7",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114217030657972287",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Team Liquid",
+                "code": "TL",
+                "image": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Shopify Rebellion",
+                "code": "SR",
+                "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217030657972288",
+              "vods": [
+                {
+                  "parameter": "41oU7Vdcgx4"
+                },
+                {
+                  "parameter": "t6g4wVDw148"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972289",
+              "vods": [
+                {
+                  "parameter": "ud7ar4zqp_I"
+                },
+                {
+                  "parameter": "PGJXBZv4Oe4"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972290",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-18T23:00:00Z",
+          "blockName": "Week 7",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114217030657972295",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "100 Thieves",
+                "code": "100T",
+                "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Disguised",
+                "code": "DSG",
+                "image": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "114217030657972296",
+              "vods": [
+                {
+                  "parameter": "5EEQ7nhltYQ"
+                },
+                {
+                  "parameter": "8X_NyCW3oAs"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972297",
+              "vods": [
+                {
+                  "parameter": "JnpRQElFYK8"
+                },
+                {
+                  "parameter": "peySvdSEtSk"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972298",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-24T20:00:00Z",
+          "blockName": "Playoffs",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114217030657972299",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "FlyQuest",
+                "code": "FLY",
+                "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+                "result": {
+                  "gameWins": 3
+                }
+              },
+              {
+                "name": "Shopify Rebellion",
+                "code": "SR",
+                "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "114217030657972300",
+              "vods": [
+                {
+                  "parameter": "Jq-vaMRjOK4"
+                },
+                {
+                  "parameter": "kyhc1HJVoYs"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972301",
+              "vods": [
+                {
+                  "parameter": "PYxrFiMhhwM"
+                },
+                {
+                  "parameter": "uwosss4D2Xo"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972302",
+              "vods": [
+                {
+                  "parameter": "LyGF4pDmtOg"
+                },
+                {
+                  "parameter": "aMFFe_BuW04"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972303",
+              "vods": []
+            },
+            {
+              "id": "114217030657972304",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-25T20:00:00Z",
+          "blockName": "Playoffs",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114217030657972305",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Cloud9 Kia",
+                "code": "C9",
+                "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+                "result": {
+                  "gameWins": 3
+                }
+              },
+              {
+                "name": "Team Liquid",
+                "code": "TL",
+                "image": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "114217030657972306",
+              "vods": [
+                {
+                  "parameter": "HN8FALwL8bc"
+                },
+                {
+                  "parameter": "xRbOWnzP3lA"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972307",
+              "vods": [
+                {
+                  "parameter": "_K8gNaiI4pE"
+                },
+                {
+                  "parameter": "eyXl6vv7Bv8"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972308",
+              "vods": [
+                {
+                  "parameter": "gQMNJ2B10gM"
+                },
+                {
+                  "parameter": "QEAvyJTglq8"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972309",
+              "vods": []
+            },
+            {
+              "id": "114217030657972310",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-31T20:00:00Z",
+          "blockName": "Playoffs",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114217030657972317",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Team Liquid",
+                "code": "TL",
+                "image": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png",
+                "result": {
+                  "gameWins": 3
+                }
+              },
+              {
+                "name": "Dignitas",
+                "code": "DIG",
+                "image": "http://static.lolesports.com/teams/DIG-FullonDark.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "114217030657972318",
+              "vods": [
+                {
+                  "parameter": "XkSoElRdaN4"
+                },
+                {
+                  "parameter": "sRomonKNjco"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972319",
+              "vods": [
+                {
+                  "parameter": "HZ6SD8iuwuY"
+                },
+                {
+                  "parameter": "Tu0qBGxbtoA"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972320",
+              "vods": [
+                {
+                  "parameter": "6c5gAC7Tzvc"
+                },
+                {
+                  "parameter": "4dfjC64NRzk"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972321",
+              "vods": [
+                {
+                  "parameter": "cdYOSXOytP8"
+                },
+                {
+                  "parameter": "w4G6UpOVqG8"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972322",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-01T20:00:00Z",
+          "blockName": "Playoffs",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114217030657972323",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "100 Thieves",
+                "code": "100T",
+                "image": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Shopify Rebellion",
+                "code": "SR",
+                "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+                "result": {
+                  "gameWins": 3
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "114217030657972324",
+              "vods": [
+                {
+                  "parameter": "orIbQN9XUVA"
+                },
+                {
+                  "parameter": "BmqnZtGjSVc"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972325",
+              "vods": [
+                {
+                  "parameter": "JYjBbqyjaFk"
+                },
+                {
+                  "parameter": "CqGE4bY-buk"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972326",
+              "vods": [
+                {
+                  "parameter": "z4KWWEEDug4"
+                },
+                {
+                  "parameter": "d7CYsQthyDU"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972327",
+              "vods": []
+            },
+            {
+              "id": "114217030657972328",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-07T20:00:00Z",
+          "blockName": "Playoffs",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114217030657972311",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "FlyQuest",
+                "code": "FLY",
+                "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+                "result": {
+                  "gameWins": 3
+                }
+              },
+              {
+                "name": "Cloud9 Kia",
+                "code": "C9",
+                "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "114217030657972312",
+              "vods": [
+                {
+                  "parameter": "sWEREFGNFZw"
+                },
+                {
+                  "parameter": "qYDGurQSsMo"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972313",
+              "vods": [
+                {
+                  "parameter": "704uGfP0r_I"
+                },
+                {
+                  "parameter": "ZfnnTyKtIGY"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972314",
+              "vods": [
+                {
+                  "parameter": "QnPy-KLnOuY"
+                },
+                {
+                  "parameter": "FqcXkLMbTGc"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972315",
+              "vods": [
+                {
+                  "parameter": "zWxK7_7K--M"
+                },
+                {
+                  "parameter": "TCJ9dk2Li-A"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972316",
+              "vods": [
+                {
+                  "parameter": "UEIr4_7LUbw"
+                },
+                {
+                  "parameter": "-KPtPY_TKgw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-08T20:00:00Z",
+          "blockName": "Playoffs",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114217030657972329",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Team Liquid",
+                "code": "TL",
+                "image": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Shopify Rebellion",
+                "code": "SR",
+                "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+                "result": {
+                  "gameWins": 3
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "114217030657972330",
+              "vods": [
+                {
+                  "parameter": "PCQQ9Jbszic"
+                },
+                {
+                  "parameter": "A6D32WJt0bw"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972331",
+              "vods": [
+                {
+                  "parameter": "txmlizsUXbI"
+                },
+                {
+                  "parameter": "yCr8cxzTMPk"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972332",
+              "vods": [
+                {
+                  "parameter": "-_gRSxgPIDU"
+                },
+                {
+                  "parameter": "LI7Mt4r2yWU"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972333",
+              "vods": [
+                {
+                  "parameter": "TJn_RYwNVzk"
+                },
+                {
+                  "parameter": "R0FTMzABa5I"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972334",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-14T20:00:00Z",
+          "blockName": "Playoffs",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114217030657972335",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Cloud9 Kia",
+                "code": "C9",
+                "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+                "result": {
+                  "gameWins": 3
+                }
+              },
+              {
+                "name": "Shopify Rebellion",
+                "code": "SR",
+                "image": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "114217030657972336",
+              "vods": [
+                {
+                  "parameter": "DtT7yPmUSxE"
+                },
+                {
+                  "parameter": "Nh-QskFqrH8"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972337",
+              "vods": [
+                {
+                  "parameter": "2Brn6qB5ChQ"
+                },
+                {
+                  "parameter": "6v35zJvKu6c"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972338",
+              "vods": [
+                {
+                  "parameter": "seNdLavgKHg"
+                },
+                {
+                  "parameter": "pxMc8o0kw70"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972339",
+              "vods": []
+            },
+            {
+              "id": "114217030657972340",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-15T20:00:00Z",
+          "blockName": "Finals",
+          "league": {
+            "name": "LTA North"
+          },
+          "match": {
+            "id": "114217030657972341",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "FlyQuest",
+                "code": "FLY",
+                "image": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+                "result": {
+                  "gameWins": 3
+                }
+              },
+              {
+                "name": "Cloud9 Kia",
+                "code": "C9",
+                "image": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "114217030657972342",
+              "vods": [
+                {
+                  "parameter": "yEG-4ypging"
+                },
+                {
+                  "parameter": "nDANGvMghj4"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972343",
+              "vods": [
+                {
+                  "parameter": "-lFnU11vi7U"
+                },
+                {
+                  "parameter": "VcRBEMuEpsY"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972344",
+              "vods": [
+                {
+                  "parameter": "Wmsc582x5Rw"
+                },
+                {
+                  "parameter": "90UPp7gA0gQ"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972345",
+              "vods": [
+                {
+                  "parameter": "t2yg8q74YsY"
+                },
+                {
+                  "parameter": "_vxw9ESAnWY"
+                }
+              ]
+            },
+            {
+              "id": "114217030657972346",
+              "vods": [
+                {
+                  "parameter": "zuDY9mKeKD4"
+                },
+                {
+                  "parameter": "bXSwcXdT9w0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
