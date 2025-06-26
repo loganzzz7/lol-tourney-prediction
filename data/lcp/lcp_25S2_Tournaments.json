@@ -1,0 +1,3706 @@
+{
+  "data": {
+    "schedule": {
+      "events": [
+        {
+          "startTime": "2025-04-19T09:30:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632219",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Fukuoka SoftBank HAWKS gaming",
+                "code": "SHG",
+                "image": "http://static.lolesports.com/teams/1725885083108_SHG_White_Main.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "MGN Vikings Esports",
+                "code": "MVKE",
+                "image": "http://static.lolesports.com/teams/1704789745043_1280X1280color.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632220",
+              "vods": [
+                {
+                  "parameter": "2436962823"
+                },
+                {
+                  "parameter": "FBw0FHS7mjY"
+                },
+                {
+                  "parameter": "2436963224"
+                },
+                {
+                  "parameter": "WTSmATWKmYE"
+                },
+                {
+                  "parameter": "fGW8bUNm9rY"
+                },
+                {
+                  "parameter": "2436962291"
+                },
+                {
+                  "parameter": "_hipgbM-ax0"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076988",
+              "vods": [
+                {
+                  "parameter": "2436962823"
+                },
+                {
+                  "parameter": "FBw0FHS7mjY"
+                },
+                {
+                  "parameter": "2436963224"
+                },
+                {
+                  "parameter": "WTSmATWKmYE"
+                },
+                {
+                  "parameter": "P78zcxc2Rio"
+                },
+                {
+                  "parameter": "2436962291"
+                },
+                {
+                  "parameter": "_hipgbM-ax0"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076989",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-19T12:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632181",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Talon",
+                "code": "TLN",
+                "image": "http://static.lolesports.com/teams/1736161478996_Talon_BirdLogomark.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "CTBC Flying Oyster",
+                "code": "CFO",
+                "image": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632182",
+              "vods": [
+                {
+                  "parameter": "2436962823"
+                },
+                {
+                  "parameter": "FBw0FHS7mjY"
+                },
+                {
+                  "parameter": "2436963224"
+                },
+                {
+                  "parameter": "WTSmATWKmYE"
+                },
+                {
+                  "parameter": "edvdJ7OH8uM"
+                },
+                {
+                  "parameter": "2436962291"
+                },
+                {
+                  "parameter": "_hipgbM-ax0"
+                }
+              ]
+            },
+            {
+              "id": "114199998209011414",
+              "vods": [
+                {
+                  "parameter": "2436962823"
+                },
+                {
+                  "parameter": "FBw0FHS7mjY"
+                },
+                {
+                  "parameter": "2436963224"
+                },
+                {
+                  "parameter": "WTSmATWKmYE"
+                },
+                {
+                  "parameter": "WSR5FQiXOdk"
+                },
+                {
+                  "parameter": "2436962291"
+                },
+                {
+                  "parameter": "_hipgbM-ax0"
+                }
+              ]
+            },
+            {
+              "id": "114199998209011415",
+              "vods": [
+                {
+                  "parameter": "2436962823"
+                },
+                {
+                  "parameter": "FBw0FHS7mjY"
+                },
+                {
+                  "parameter": "2436963224"
+                },
+                {
+                  "parameter": "WTSmATWKmYE"
+                },
+                {
+                  "parameter": "YbOtnKs9RO4"
+                },
+                {
+                  "parameter": "2436962291"
+                },
+                {
+                  "parameter": "_hipgbM-ax0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-20T09:30:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632187",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "DetonatioN FocusMe",
+                "code": "DFM",
+                "image": "http://static.lolesports.com/teams/1673415140442_dfm.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "The Chiefs Esports Club",
+                "code": "CHF",
+                "image": "http://static.lolesports.com/teams/1733833766423_ChiefsEsportsClub-CHF-Color1.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632188",
+              "vods": [
+                {
+                  "parameter": "2437853470"
+                },
+                {
+                  "parameter": "3lQvnWSI4B0"
+                },
+                {
+                  "parameter": "2437847865"
+                },
+                {
+                  "parameter": "BMP18qIsPfA"
+                },
+                {
+                  "parameter": "HBws_B_EWB4"
+                },
+                {
+                  "parameter": "2437847852"
+                },
+                {
+                  "parameter": "JbqaGMwJKTg"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076956",
+              "vods": [
+                {
+                  "parameter": "2437853470"
+                },
+                {
+                  "parameter": "3lQvnWSI4B0"
+                },
+                {
+                  "parameter": "2437847865"
+                },
+                {
+                  "parameter": "BMP18qIsPfA"
+                },
+                {
+                  "parameter": "xbVIeoaE7lU"
+                },
+                {
+                  "parameter": "2437847852"
+                },
+                {
+                  "parameter": "JbqaGMwJKTg"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076957",
+              "vods": [
+                {
+                  "parameter": "2437853470"
+                },
+                {
+                  "parameter": "3lQvnWSI4B0"
+                },
+                {
+                  "parameter": "2437847865"
+                },
+                {
+                  "parameter": "BMP18qIsPfA"
+                },
+                {
+                  "parameter": "LPZHASrK4hM"
+                },
+                {
+                  "parameter": "2437847852"
+                },
+                {
+                  "parameter": "JbqaGMwJKTg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-20T12:00:00Z",
+          "blockName": "Week 1",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632215",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "GAM Esports",
+                "code": "GAM",
+                "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Team Secret Whales",
+                "code": "TSW",
+                "image": "http://static.lolesports.com/teams/1734342451643_SecretWhalesLogoLockupWhite.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632216",
+              "vods": [
+                {
+                  "parameter": "2437853470"
+                },
+                {
+                  "parameter": "3lQvnWSI4B0"
+                },
+                {
+                  "parameter": "2437847865"
+                },
+                {
+                  "parameter": "BMP18qIsPfA"
+                },
+                {
+                  "parameter": "HNZMTifye1U"
+                },
+                {
+                  "parameter": "2437847852"
+                },
+                {
+                  "parameter": "JbqaGMwJKTg"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076984",
+              "vods": [
+                {
+                  "parameter": "2437853470"
+                },
+                {
+                  "parameter": "3lQvnWSI4B0"
+                },
+                {
+                  "parameter": "2437847865"
+                },
+                {
+                  "parameter": "BMP18qIsPfA"
+                },
+                {
+                  "parameter": "3RN3s6pOfo0"
+                },
+                {
+                  "parameter": "2437847852"
+                },
+                {
+                  "parameter": "JbqaGMwJKTg"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076985",
+              "vods": [
+                {
+                  "parameter": "2437853470"
+                },
+                {
+                  "parameter": "3lQvnWSI4B0"
+                },
+                {
+                  "parameter": "2437847865"
+                },
+                {
+                  "parameter": "BMP18qIsPfA"
+                },
+                {
+                  "parameter": "tx4Xv_YHKn0"
+                },
+                {
+                  "parameter": "2437847852"
+                },
+                {
+                  "parameter": "JbqaGMwJKTg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-26T09:30:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632193",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "The Chiefs Esports Club",
+                "code": "CHF",
+                "image": "http://static.lolesports.com/teams/1733833766423_ChiefsEsportsClub-CHF-Color1.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Talon",
+                "code": "TLN",
+                "image": "http://static.lolesports.com/teams/1736161478996_Talon_BirdLogomark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632194",
+              "vods": [
+                {
+                  "parameter": "2443022845"
+                },
+                {
+                  "parameter": "g7477VJA8dQ"
+                },
+                {
+                  "parameter": "2443015565"
+                },
+                {
+                  "parameter": "iabLLjL283o"
+                },
+                {
+                  "parameter": "roHA1-tpUeo"
+                },
+                {
+                  "parameter": "2443015628"
+                },
+                {
+                  "parameter": "_D5Ib7-asI4"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076962",
+              "vods": [
+                {
+                  "parameter": "2443022845"
+                },
+                {
+                  "parameter": "g7477VJA8dQ"
+                },
+                {
+                  "parameter": "2443015565"
+                },
+                {
+                  "parameter": "iabLLjL283o"
+                },
+                {
+                  "parameter": "G79hVVo54jU"
+                },
+                {
+                  "parameter": "2443015628"
+                },
+                {
+                  "parameter": "_D5Ib7-asI4"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076963",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-26T12:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632213",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "GAM Esports",
+                "code": "GAM",
+                "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Fukuoka SoftBank HAWKS gaming",
+                "code": "SHG",
+                "image": "http://static.lolesports.com/teams/1725885083108_SHG_White_Main.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632214",
+              "vods": [
+                {
+                  "parameter": "2443022845"
+                },
+                {
+                  "parameter": "g7477VJA8dQ"
+                },
+                {
+                  "parameter": "2443015565"
+                },
+                {
+                  "parameter": "iabLLjL283o"
+                },
+                {
+                  "parameter": "Z1HikulBiGc"
+                },
+                {
+                  "parameter": "2443015628"
+                },
+                {
+                  "parameter": "_D5Ib7-asI4"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076982",
+              "vods": [
+                {
+                  "parameter": "2443022845"
+                },
+                {
+                  "parameter": "g7477VJA8dQ"
+                },
+                {
+                  "parameter": "2443015565"
+                },
+                {
+                  "parameter": "iabLLjL283o"
+                },
+                {
+                  "parameter": "vkfqNo4KSRg"
+                },
+                {
+                  "parameter": "2443015628"
+                },
+                {
+                  "parameter": "_D5Ib7-asI4"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076983",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-27T09:30:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632207",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Team Secret Whales",
+                "code": "TSW",
+                "image": "http://static.lolesports.com/teams/1734342451643_SecretWhalesLogoLockupWhite.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DetonatioN FocusMe",
+                "code": "DFM",
+                "image": "http://static.lolesports.com/teams/1673415140442_dfm.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632208",
+              "vods": [
+                {
+                  "parameter": "2443937136"
+                },
+                {
+                  "parameter": "rpTv9VsYCzM"
+                },
+                {
+                  "parameter": "2443931063"
+                },
+                {
+                  "parameter": "tH-3P7iHCpI"
+                },
+                {
+                  "parameter": "OasHD9hgM6U"
+                },
+                {
+                  "parameter": "2443931104"
+                },
+                {
+                  "parameter": "sGwLVLQXrVs"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076976",
+              "vods": [
+                {
+                  "parameter": "2443937136"
+                },
+                {
+                  "parameter": "rpTv9VsYCzM"
+                },
+                {
+                  "parameter": "2443931063"
+                },
+                {
+                  "parameter": "tH-3P7iHCpI"
+                },
+                {
+                  "parameter": "v0iq7B2KJI4"
+                },
+                {
+                  "parameter": "2443931104"
+                },
+                {
+                  "parameter": "sGwLVLQXrVs"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076977",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-04-27T12:00:00Z",
+          "blockName": "Week 2",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632179",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "CTBC Flying Oyster",
+                "code": "CFO",
+                "image": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "MGN Vikings Esports",
+                "code": "MVKE",
+                "image": "http://static.lolesports.com/teams/1704789745043_1280X1280color.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632180",
+              "vods": [
+                {
+                  "parameter": "2443937136"
+                },
+                {
+                  "parameter": "rpTv9VsYCzM"
+                },
+                {
+                  "parameter": "2443931063"
+                },
+                {
+                  "parameter": "tH-3P7iHCpI"
+                },
+                {
+                  "parameter": "rEDjSEP1mcM"
+                },
+                {
+                  "parameter": "2443931104"
+                },
+                {
+                  "parameter": "sGwLVLQXrVs"
+                }
+              ]
+            },
+            {
+              "id": "114199998209011412",
+              "vods": [
+                {
+                  "parameter": "2443937136"
+                },
+                {
+                  "parameter": "rpTv9VsYCzM"
+                },
+                {
+                  "parameter": "2443931063"
+                },
+                {
+                  "parameter": "tH-3P7iHCpI"
+                },
+                {
+                  "parameter": "2Cbu6cZC3u8"
+                },
+                {
+                  "parameter": "2443931104"
+                },
+                {
+                  "parameter": "sGwLVLQXrVs"
+                }
+              ]
+            },
+            {
+              "id": "114199998209011413",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-03T09:30:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632205",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Fukuoka SoftBank HAWKS gaming",
+                "code": "SHG",
+                "image": "http://static.lolesports.com/teams/1725885083108_SHG_White_Main.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DetonatioN FocusMe",
+                "code": "DFM",
+                "image": "http://static.lolesports.com/teams/1673415140442_dfm.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632206",
+              "vods": [
+                {
+                  "parameter": "xlrEUy7A5ls"
+                },
+                {
+                  "parameter": "2449092031"
+                },
+                {
+                  "parameter": "hCBwEFc7ejM"
+                },
+                {
+                  "parameter": "2449084705"
+                },
+                {
+                  "parameter": "YthypSRo7O0"
+                },
+                {
+                  "parameter": "_HuEOz8_5xw"
+                },
+                {
+                  "parameter": "2449084773"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076974",
+              "vods": [
+                {
+                  "parameter": "xlrEUy7A5ls"
+                },
+                {
+                  "parameter": "2449092031"
+                },
+                {
+                  "parameter": "hCBwEFc7ejM"
+                },
+                {
+                  "parameter": "2449084705"
+                },
+                {
+                  "parameter": "zYT_OppkQxA"
+                },
+                {
+                  "parameter": "_HuEOz8_5xw"
+                },
+                {
+                  "parameter": "2449084773"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076975",
+              "vods": [
+                {
+                  "parameter": "xlrEUy7A5ls"
+                },
+                {
+                  "parameter": "2449092031"
+                },
+                {
+                  "parameter": "hCBwEFc7ejM"
+                },
+                {
+                  "parameter": "2449084705"
+                },
+                {
+                  "parameter": "AbU1SfkIqUo"
+                },
+                {
+                  "parameter": "_HuEOz8_5xw"
+                },
+                {
+                  "parameter": "2449084773"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-03T12:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632177",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "GAM Esports",
+                "code": "GAM",
+                "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "CTBC Flying Oyster",
+                "code": "CFO",
+                "image": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632178",
+              "vods": [
+                {
+                  "parameter": "xlrEUy7A5ls"
+                },
+                {
+                  "parameter": "2449092031"
+                },
+                {
+                  "parameter": "hCBwEFc7ejM"
+                },
+                {
+                  "parameter": "2449084705"
+                },
+                {
+                  "parameter": "okY3GFYBeLA"
+                },
+                {
+                  "parameter": "_HuEOz8_5xw"
+                },
+                {
+                  "parameter": "2449084773"
+                }
+              ]
+            },
+            {
+              "id": "114199998209011410",
+              "vods": [
+                {
+                  "parameter": "xlrEUy7A5ls"
+                },
+                {
+                  "parameter": "2449092031"
+                },
+                {
+                  "parameter": "hCBwEFc7ejM"
+                },
+                {
+                  "parameter": "2449084705"
+                },
+                {
+                  "parameter": "MFSlV1K8DB4"
+                },
+                {
+                  "parameter": "_HuEOz8_5xw"
+                },
+                {
+                  "parameter": "2449084773"
+                }
+              ]
+            },
+            {
+              "id": "114199998209011411",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-04T09:30:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632191",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "MGN Vikings Esports",
+                "code": "MVKE",
+                "image": "http://static.lolesports.com/teams/1704789745043_1280X1280color.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "The Chiefs Esports Club",
+                "code": "CHF",
+                "image": "http://static.lolesports.com/teams/1733833766423_ChiefsEsportsClub-CHF-Color1.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632192",
+              "vods": [
+                {
+                  "parameter": "7WkTXas9zwM"
+                },
+                {
+                  "parameter": "2449991230"
+                },
+                {
+                  "parameter": "ZpIpyOIKmuQ"
+                },
+                {
+                  "parameter": "2449984346"
+                },
+                {
+                  "parameter": "2zzP28RG3L8"
+                },
+                {
+                  "parameter": "_HuEOz8_5xw"
+                },
+                {
+                  "parameter": "2449984435"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076960",
+              "vods": [
+                {
+                  "parameter": "7WkTXas9zwM"
+                },
+                {
+                  "parameter": "2449991230"
+                },
+                {
+                  "parameter": "ZpIpyOIKmuQ"
+                },
+                {
+                  "parameter": "2449984346"
+                },
+                {
+                  "parameter": "18tZxrUmk9c"
+                },
+                {
+                  "parameter": "_HuEOz8_5xw"
+                },
+                {
+                  "parameter": "2449984435"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076961",
+              "vods": [
+                {
+                  "parameter": "7WkTXas9zwM"
+                },
+                {
+                  "parameter": "2449991230"
+                },
+                {
+                  "parameter": "ZpIpyOIKmuQ"
+                },
+                {
+                  "parameter": "2449984346"
+                },
+                {
+                  "parameter": "Yf0OiqS3yiQ"
+                },
+                {
+                  "parameter": "_HuEOz8_5xw"
+                },
+                {
+                  "parameter": "2449984435"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-04T12:00:00Z",
+          "blockName": "Week 3",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100697761",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Talon",
+                "code": "TLN",
+                "image": "http://static.lolesports.com/teams/1736161478996_Talon_BirdLogomark.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Team Secret Whales",
+                "code": "TSW",
+                "image": "http://static.lolesports.com/teams/1734342451643_SecretWhalesLogoLockupWhite.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100697762",
+              "vods": [
+                {
+                  "parameter": "7WkTXas9zwM"
+                },
+                {
+                  "parameter": "2449991230"
+                },
+                {
+                  "parameter": "ZpIpyOIKmuQ"
+                },
+                {
+                  "parameter": "2449984346"
+                },
+                {
+                  "parameter": "O4_r6u-ipV4"
+                },
+                {
+                  "parameter": "_HuEOz8_5xw"
+                },
+                {
+                  "parameter": "2449984435"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076994",
+              "vods": [
+                {
+                  "parameter": "7WkTXas9zwM"
+                },
+                {
+                  "parameter": "2449991230"
+                },
+                {
+                  "parameter": "ZpIpyOIKmuQ"
+                },
+                {
+                  "parameter": "2449984346"
+                },
+                {
+                  "parameter": "nQ5oqeRtIog"
+                },
+                {
+                  "parameter": "_HuEOz8_5xw"
+                },
+                {
+                  "parameter": "2449984435"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076995",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-10T09:30:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632189",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "GAM Esports",
+                "code": "GAM",
+                "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "The Chiefs Esports Club",
+                "code": "CHF",
+                "image": "http://static.lolesports.com/teams/1733833766423_ChiefsEsportsClub-CHF-Color1.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632190",
+              "vods": [
+                {
+                  "parameter": "VniKqSNwkP4"
+                },
+                {
+                  "parameter": "2455072729"
+                },
+                {
+                  "parameter": "2ezFsXxiOQ0"
+                },
+                {
+                  "parameter": "2455066375"
+                },
+                {
+                  "parameter": "OOyLWmQmPvU"
+                },
+                {
+                  "parameter": "nyEMzpdk_jg"
+                },
+                {
+                  "parameter": "2455060808"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076958",
+              "vods": [
+                {
+                  "parameter": "VniKqSNwkP4"
+                },
+                {
+                  "parameter": "2455072729"
+                },
+                {
+                  "parameter": "2ezFsXxiOQ0"
+                },
+                {
+                  "parameter": "2455066375"
+                },
+                {
+                  "parameter": "kN7GNkA_tsI"
+                },
+                {
+                  "parameter": "2455060808"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076959",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-10T12:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100697759",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Fukuoka SoftBank HAWKS gaming",
+                "code": "SHG",
+                "image": "http://static.lolesports.com/teams/1725885083108_SHG_White_Main.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Talon",
+                "code": "TLN",
+                "image": "http://static.lolesports.com/teams/1736161478996_Talon_BirdLogomark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100697760",
+              "vods": [
+                {
+                  "parameter": "VniKqSNwkP4"
+                },
+                {
+                  "parameter": "2455072729"
+                },
+                {
+                  "parameter": "2ezFsXxiOQ0"
+                },
+                {
+                  "parameter": "2455066375"
+                },
+                {
+                  "parameter": "nj4hQ75y2RM"
+                },
+                {
+                  "parameter": "6BsVrfu6aZA"
+                },
+                {
+                  "parameter": "2455060808"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076992",
+              "vods": [
+                {
+                  "parameter": "VniKqSNwkP4"
+                },
+                {
+                  "parameter": "2455072729"
+                },
+                {
+                  "parameter": "2ezFsXxiOQ0"
+                },
+                {
+                  "parameter": "2455066375"
+                },
+                {
+                  "parameter": "UoCVpVRKvfE"
+                },
+                {
+                  "parameter": "6BsVrfu6aZA"
+                },
+                {
+                  "parameter": "2455060808"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076993",
+              "vods": [
+                {
+                  "parameter": "VniKqSNwkP4"
+                },
+                {
+                  "parameter": "2455072729"
+                },
+                {
+                  "parameter": "2ezFsXxiOQ0"
+                },
+                {
+                  "parameter": "2455066375"
+                },
+                {
+                  "parameter": "bpfXdqOhsso"
+                },
+                {
+                  "parameter": "6BsVrfu6aZA"
+                },
+                {
+                  "parameter": "2455060808"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-11T09:30:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632221",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Team Secret Whales",
+                "code": "TSW",
+                "image": "http://static.lolesports.com/teams/1734342451643_SecretWhalesLogoLockupWhite.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "MGN Vikings Esports",
+                "code": "MVKE",
+                "image": "http://static.lolesports.com/teams/1704789745043_1280X1280color.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632222",
+              "vods": [
+                {
+                  "parameter": "XHCt9krFfxA"
+                },
+                {
+                  "parameter": "2455948360"
+                },
+                {
+                  "parameter": "Qj2KjCKgvPA"
+                },
+                {
+                  "parameter": "2455943632"
+                },
+                {
+                  "parameter": "Jrir9hoV6Tk"
+                },
+                {
+                  "parameter": "deGO9E6PviE"
+                },
+                {
+                  "parameter": "2455938202"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076990",
+              "vods": [
+                {
+                  "parameter": "XHCt9krFfxA"
+                },
+                {
+                  "parameter": "2455948360"
+                },
+                {
+                  "parameter": "Qj2KjCKgvPA"
+                },
+                {
+                  "parameter": "2455943632"
+                },
+                {
+                  "parameter": "yPplfXpc30k"
+                },
+                {
+                  "parameter": "deGO9E6PviE"
+                },
+                {
+                  "parameter": "2455938202"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076991",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-11T12:00:00Z",
+          "blockName": "Week 4",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632175",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "CTBC Flying Oyster",
+                "code": "CFO",
+                "image": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DetonatioN FocusMe",
+                "code": "DFM",
+                "image": "http://static.lolesports.com/teams/1673415140442_dfm.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632176",
+              "vods": [
+                {
+                  "parameter": "XHCt9krFfxA"
+                },
+                {
+                  "parameter": "2455948360"
+                },
+                {
+                  "parameter": "Qj2KjCKgvPA"
+                },
+                {
+                  "parameter": "2455943632"
+                },
+                {
+                  "parameter": "9dyB-2F2MpU"
+                },
+                {
+                  "parameter": "deGO9E6PviE"
+                },
+                {
+                  "parameter": "2455938202"
+                }
+              ]
+            },
+            {
+              "id": "114199998209011408",
+              "vods": [
+                {
+                  "parameter": "XHCt9krFfxA"
+                },
+                {
+                  "parameter": "2455948360"
+                },
+                {
+                  "parameter": "Qj2KjCKgvPA"
+                },
+                {
+                  "parameter": "2455943632"
+                },
+                {
+                  "parameter": "lGDSWhst-Gc"
+                },
+                {
+                  "parameter": "deGO9E6PviE"
+                },
+                {
+                  "parameter": "2455938202"
+                }
+              ]
+            },
+            {
+              "id": "114199998209011409",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-16T09:30:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632203",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Talon",
+                "code": "TLN",
+                "image": "http://static.lolesports.com/teams/1736161478996_Talon_BirdLogomark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DetonatioN FocusMe",
+                "code": "DFM",
+                "image": "http://static.lolesports.com/teams/1673415140442_dfm.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632204",
+              "vods": [
+                {
+                  "parameter": "Ue8137s_6bc"
+                },
+                {
+                  "parameter": "2460105066"
+                },
+                {
+                  "parameter": "mv7dvnyz2x8"
+                },
+                {
+                  "parameter": "2460104882"
+                },
+                {
+                  "parameter": "1k0Hmp1ScK8"
+                },
+                {
+                  "parameter": "d_SI4BAfO34"
+                },
+                {
+                  "parameter": "2460100524"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076972",
+              "vods": [
+                {
+                  "parameter": "Ue8137s_6bc"
+                },
+                {
+                  "parameter": "2460105066"
+                },
+                {
+                  "parameter": "mv7dvnyz2x8"
+                },
+                {
+                  "parameter": "2460104882"
+                },
+                {
+                  "parameter": "OJYRDCDwgN0"
+                },
+                {
+                  "parameter": "d_SI4BAfO34"
+                },
+                {
+                  "parameter": "2460100524"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076973",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-16T12:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632209",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "MGN Vikings Esports",
+                "code": "MVKE",
+                "image": "http://static.lolesports.com/teams/1704789745043_1280X1280color.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "GAM Esports",
+                "code": "GAM",
+                "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632210",
+              "vods": [
+                {
+                  "parameter": "Ue8137s_6bc"
+                },
+                {
+                  "parameter": "2460105066"
+                },
+                {
+                  "parameter": "mv7dvnyz2x8"
+                },
+                {
+                  "parameter": "2460104882"
+                },
+                {
+                  "parameter": "p1fB86Y-kTg"
+                },
+                {
+                  "parameter": "d_SI4BAfO34"
+                },
+                {
+                  "parameter": "2460100524"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076978",
+              "vods": [
+                {
+                  "parameter": "Ue8137s_6bc"
+                },
+                {
+                  "parameter": "2460105066"
+                },
+                {
+                  "parameter": "mv7dvnyz2x8"
+                },
+                {
+                  "parameter": "2460104882"
+                },
+                {
+                  "parameter": "jr2gMjV5kn4"
+                },
+                {
+                  "parameter": "d_SI4BAfO34"
+                },
+                {
+                  "parameter": "2460100524"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076979",
+              "vods": [
+                {
+                  "parameter": "Ue8137s_6bc"
+                },
+                {
+                  "parameter": "2460105066"
+                },
+                {
+                  "parameter": "mv7dvnyz2x8"
+                },
+                {
+                  "parameter": "2460104882"
+                },
+                {
+                  "parameter": "N-O6zGY4Tu4"
+                },
+                {
+                  "parameter": "d_SI4BAfO34"
+                },
+                {
+                  "parameter": "2460100524"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-17T09:30:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100697763",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Team Secret Whales",
+                "code": "TSW",
+                "image": "http://static.lolesports.com/teams/1734342451643_SecretWhalesLogoLockupWhite.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Fukuoka SoftBank HAWKS gaming",
+                "code": "SHG",
+                "image": "http://static.lolesports.com/teams/1725885083108_SHG_White_Main.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100697764",
+              "vods": [
+                {
+                  "parameter": "dpahvRqelgg"
+                },
+                {
+                  "parameter": "2460992462"
+                },
+                {
+                  "parameter": "KIWBmwjIMV8"
+                },
+                {
+                  "parameter": "2460992421"
+                },
+                {
+                  "parameter": "PjK7vIR_MPI"
+                },
+                {
+                  "parameter": "Be490Spit18"
+                },
+                {
+                  "parameter": "2460986965"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076996",
+              "vods": [
+                {
+                  "parameter": "dpahvRqelgg"
+                },
+                {
+                  "parameter": "2460992462"
+                },
+                {
+                  "parameter": "KIWBmwjIMV8"
+                },
+                {
+                  "parameter": "2460992421"
+                },
+                {
+                  "parameter": "WTpNAOHdQIM"
+                },
+                {
+                  "parameter": "Be490Spit18"
+                },
+                {
+                  "parameter": "2460986965"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076997",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-17T12:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632173",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "CTBC Flying Oyster",
+                "code": "CFO",
+                "image": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "The Chiefs Esports Club",
+                "code": "CHF",
+                "image": "http://static.lolesports.com/teams/1733833766423_ChiefsEsportsClub-CHF-Color1.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632174",
+              "vods": [
+                {
+                  "parameter": "dpahvRqelgg"
+                },
+                {
+                  "parameter": "2460992462"
+                },
+                {
+                  "parameter": "KIWBmwjIMV8"
+                },
+                {
+                  "parameter": "2460992421"
+                },
+                {
+                  "parameter": "Rvf2tkKBQ7c"
+                },
+                {
+                  "parameter": "Be490Spit18"
+                },
+                {
+                  "parameter": "2460986965"
+                }
+              ]
+            },
+            {
+              "id": "114199998208814798",
+              "vods": [
+                {
+                  "parameter": "dpahvRqelgg"
+                },
+                {
+                  "parameter": "2460992462"
+                },
+                {
+                  "parameter": "KIWBmwjIMV8"
+                },
+                {
+                  "parameter": "2460992421"
+                },
+                {
+                  "parameter": "T2rAODABanM"
+                },
+                {
+                  "parameter": "Be490Spit18"
+                },
+                {
+                  "parameter": "2460986965"
+                }
+              ]
+            },
+            {
+              "id": "114199998209011407",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-18T09:30:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632201",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "MGN Vikings Esports",
+                "code": "MVKE",
+                "image": "http://static.lolesports.com/teams/1704789745043_1280X1280color.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DetonatioN FocusMe",
+                "code": "DFM",
+                "image": "http://static.lolesports.com/teams/1673415140442_dfm.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632202",
+              "vods": [
+                {
+                  "parameter": "VzS65aH4Od4"
+                },
+                {
+                  "parameter": "2461891766"
+                },
+                {
+                  "parameter": "vJOozyx8gvg"
+                },
+                {
+                  "parameter": "2461891714"
+                },
+                {
+                  "parameter": "MchrRKHXc_Q"
+                },
+                {
+                  "parameter": "M2FN8-H73WM"
+                },
+                {
+                  "parameter": "2461886325"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076970",
+              "vods": [
+                {
+                  "parameter": "VzS65aH4Od4"
+                },
+                {
+                  "parameter": "2461891766"
+                },
+                {
+                  "parameter": "vJOozyx8gvg"
+                },
+                {
+                  "parameter": "2461891714"
+                },
+                {
+                  "parameter": "qXqZ8wWcTJM"
+                },
+                {
+                  "parameter": "M2FN8-H73WM"
+                },
+                {
+                  "parameter": "2461886325"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076971",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-18T12:00:00Z",
+          "blockName": "Week 5",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632211",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "GAM Esports",
+                "code": "GAM",
+                "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Talon",
+                "code": "TLN",
+                "image": "http://static.lolesports.com/teams/1736161478996_Talon_BirdLogomark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632212",
+              "vods": [
+                {
+                  "parameter": "VzS65aH4Od4"
+                },
+                {
+                  "parameter": "2461891766"
+                },
+                {
+                  "parameter": "vJOozyx8gvg"
+                },
+                {
+                  "parameter": "2461891714"
+                },
+                {
+                  "parameter": "tUdJUySyUNk"
+                },
+                {
+                  "parameter": "M2FN8-H73WM"
+                },
+                {
+                  "parameter": "2461886325"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076980",
+              "vods": [
+                {
+                  "parameter": "VzS65aH4Od4"
+                },
+                {
+                  "parameter": "2461891766"
+                },
+                {
+                  "parameter": "vJOozyx8gvg"
+                },
+                {
+                  "parameter": "2461891714"
+                },
+                {
+                  "parameter": "Q7OBwzXPvig"
+                },
+                {
+                  "parameter": "M2FN8-H73WM"
+                },
+                {
+                  "parameter": "2461886325"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076981",
+              "vods": [
+                {
+                  "parameter": "VzS65aH4Od4"
+                },
+                {
+                  "parameter": "2461891766"
+                },
+                {
+                  "parameter": "vJOozyx8gvg"
+                },
+                {
+                  "parameter": "2461891714"
+                },
+                {
+                  "parameter": "EgGbBjmZ9M4"
+                },
+                {
+                  "parameter": "M2FN8-H73WM"
+                },
+                {
+                  "parameter": "2461886325"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-23T09:30:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632197",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "The Chiefs Esports Club",
+                "code": "CHF",
+                "image": "http://static.lolesports.com/teams/1733833766423_ChiefsEsportsClub-CHF-Color1.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Team Secret Whales",
+                "code": "TSW",
+                "image": "http://static.lolesports.com/teams/1734342451643_SecretWhalesLogoLockupWhite.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632198",
+              "vods": [
+                {
+                  "parameter": "1LY24pudXOg"
+                },
+                {
+                  "parameter": "2466097057"
+                },
+                {
+                  "parameter": "jdmMcAeRFug"
+                },
+                {
+                  "parameter": "2466097115"
+                },
+                {
+                  "parameter": "d6VDqkxdSfQ"
+                },
+                {
+                  "parameter": "PDutU87ZNrY"
+                },
+                {
+                  "parameter": "2466091951"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076966",
+              "vods": [
+                {
+                  "parameter": "1LY24pudXOg"
+                },
+                {
+                  "parameter": "2466097057"
+                },
+                {
+                  "parameter": "jdmMcAeRFug"
+                },
+                {
+                  "parameter": "2466097115"
+                },
+                {
+                  "parameter": "FQ_zhe4MVqQ"
+                },
+                {
+                  "parameter": "PDutU87ZNrY"
+                },
+                {
+                  "parameter": "2466091951"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076967",
+              "vods": [
+                {
+                  "parameter": "1LY24pudXOg"
+                },
+                {
+                  "parameter": "2466097057"
+                },
+                {
+                  "parameter": "jdmMcAeRFug"
+                },
+                {
+                  "parameter": "2466097115"
+                },
+                {
+                  "parameter": "nAFmx3M-FGg"
+                },
+                {
+                  "parameter": "PDutU87ZNrY"
+                },
+                {
+                  "parameter": "2466091951"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-23T12:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632183",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "CTBC Flying Oyster",
+                "code": "CFO",
+                "image": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Fukuoka SoftBank HAWKS gaming",
+                "code": "SHG",
+                "image": "http://static.lolesports.com/teams/1725885083108_SHG_White_Main.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632184",
+              "vods": [
+                {
+                  "parameter": "1LY24pudXOg"
+                },
+                {
+                  "parameter": "2466097057"
+                },
+                {
+                  "parameter": "jdmMcAeRFug"
+                },
+                {
+                  "parameter": "2466097115"
+                },
+                {
+                  "parameter": "9TfiMe9GjuE"
+                },
+                {
+                  "parameter": "PDutU87ZNrY"
+                },
+                {
+                  "parameter": "2466091951"
+                }
+              ]
+            },
+            {
+              "id": "114199998209011416",
+              "vods": [
+                {
+                  "parameter": "1LY24pudXOg"
+                },
+                {
+                  "parameter": "2466097057"
+                },
+                {
+                  "parameter": "jdmMcAeRFug"
+                },
+                {
+                  "parameter": "2466097115"
+                },
+                {
+                  "parameter": "2LmYb8PmOOw"
+                },
+                {
+                  "parameter": "PDutU87ZNrY"
+                },
+                {
+                  "parameter": "2466091951"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076953",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-24T09:30:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632199",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "GAM Esports",
+                "code": "GAM",
+                "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "DetonatioN FocusMe",
+                "code": "DFM",
+                "image": "http://static.lolesports.com/teams/1673415140442_dfm.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632200",
+              "vods": [
+                {
+                  "parameter": "dLTAoH8r35o"
+                },
+                {
+                  "parameter": "2466984312"
+                },
+                {
+                  "parameter": "uDLasMKLdg4"
+                },
+                {
+                  "parameter": "2466984265"
+                },
+                {
+                  "parameter": "bSMJLkZ-3w0"
+                },
+                {
+                  "parameter": "mrguJ9C4tas"
+                },
+                {
+                  "parameter": "2466978863"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076968",
+              "vods": [
+                {
+                  "parameter": "dLTAoH8r35o"
+                },
+                {
+                  "parameter": "2466984312"
+                },
+                {
+                  "parameter": "uDLasMKLdg4"
+                },
+                {
+                  "parameter": "2466984265"
+                },
+                {
+                  "parameter": "DIE5zrNkr4s"
+                },
+                {
+                  "parameter": "mrguJ9C4tas"
+                },
+                {
+                  "parameter": "2466978863"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076969",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-24T12:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632217",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "MGN Vikings Esports",
+                "code": "MVKE",
+                "image": "http://static.lolesports.com/teams/1704789745043_1280X1280color.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "Talon",
+                "code": "TLN",
+                "image": "http://static.lolesports.com/teams/1736161478996_Talon_BirdLogomark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632218",
+              "vods": [
+                {
+                  "parameter": "dLTAoH8r35o"
+                },
+                {
+                  "parameter": "2466984312"
+                },
+                {
+                  "parameter": "uDLasMKLdg4"
+                },
+                {
+                  "parameter": "2466984265"
+                },
+                {
+                  "parameter": "UKrTwQNt6G0"
+                },
+                {
+                  "parameter": "mrguJ9C4tas"
+                },
+                {
+                  "parameter": "2466978863"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076986",
+              "vods": [
+                {
+                  "parameter": "dLTAoH8r35o"
+                },
+                {
+                  "parameter": "2466984312"
+                },
+                {
+                  "parameter": "uDLasMKLdg4"
+                },
+                {
+                  "parameter": "2466984265"
+                },
+                {
+                  "parameter": "gOolpMpxdP4"
+                },
+                {
+                  "parameter": "mrguJ9C4tas"
+                },
+                {
+                  "parameter": "2466978863"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076987",
+              "vods": [
+                {
+                  "parameter": "dLTAoH8r35o"
+                },
+                {
+                  "parameter": "2466984312"
+                },
+                {
+                  "parameter": "uDLasMKLdg4"
+                },
+                {
+                  "parameter": "2466984265"
+                },
+                {
+                  "parameter": "yWl5d_lNG8Y"
+                },
+                {
+                  "parameter": "mrguJ9C4tas"
+                },
+                {
+                  "parameter": "2466978863"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-25T09:30:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632195",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Fukuoka SoftBank HAWKS gaming",
+                "code": "SHG",
+                "image": "http://static.lolesports.com/teams/1725885083108_SHG_White_Main.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "The Chiefs Esports Club",
+                "code": "CHF",
+                "image": "http://static.lolesports.com/teams/1733833766423_ChiefsEsportsClub-CHF-Color1.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632196",
+              "vods": [
+                {
+                  "parameter": "BYpPC0mDAcE"
+                },
+                {
+                  "parameter": "v5ZbK9tPmTg"
+                },
+                {
+                  "parameter": "hCEwG5DMBF4"
+                },
+                {
+                  "parameter": "poWotPL60cE"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076964",
+              "vods": [
+                {
+                  "parameter": "BYpPC0mDAcE"
+                },
+                {
+                  "parameter": "v5ZbK9tPmTg"
+                },
+                {
+                  "parameter": "qk5_glgU5v0"
+                },
+                {
+                  "parameter": "poWotPL60cE"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076965",
+              "vods": [
+                {
+                  "parameter": "BYpPC0mDAcE"
+                },
+                {
+                  "parameter": "v5ZbK9tPmTg"
+                },
+                {
+                  "parameter": "9sXl3QNwNXc"
+                },
+                {
+                  "parameter": "poWotPL60cE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-25T12:00:00Z",
+          "blockName": "Week 6",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100632185",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "CTBC Flying Oyster",
+                "code": "CFO",
+                "image": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Team Secret Whales",
+                "code": "TSW",
+                "image": "http://static.lolesports.com/teams/1734342451643_SecretWhalesLogoLockupWhite.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100632186",
+              "vods": [
+                {
+                  "parameter": "BYpPC0mDAcE"
+                },
+                {
+                  "parameter": "v5ZbK9tPmTg"
+                },
+                {
+                  "parameter": "_eDiWK8BYfM"
+                },
+                {
+                  "parameter": "poWotPL60cE"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076954",
+              "vods": [
+                {
+                  "parameter": "BYpPC0mDAcE"
+                },
+                {
+                  "parameter": "v5ZbK9tPmTg"
+                },
+                {
+                  "parameter": "UQtYEmrhQEI"
+                },
+                {
+                  "parameter": "poWotPL60cE"
+                }
+              ]
+            },
+            {
+              "id": "114199998209076955",
+              "vods": [
+                {
+                  "parameter": "BYpPC0mDAcE"
+                },
+                {
+                  "parameter": "v5ZbK9tPmTg"
+                },
+                {
+                  "parameter": "faM_NsXPA-E"
+                },
+                {
+                  "parameter": "poWotPL60cE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-30T09:30:00Z",
+          "blockName": "Regional Qualifier",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100894429",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Talon",
+                "code": "TLN",
+                "image": "http://static.lolesports.com/teams/1736161478996_Talon_BirdLogomark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "Fukuoka SoftBank HAWKS gaming",
+                "code": "SHG",
+                "image": "http://static.lolesports.com/teams/1725885083108_SHG_White_Main.png",
+                "result": {
+                  "gameWins": 0
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100894430",
+              "vods": [
+                {
+                  "parameter": "lUA3olpdzqQ"
+                },
+                {
+                  "parameter": "2472296458"
+                },
+                {
+                  "parameter": "NRE5LaHxrlw"
+                },
+                {
+                  "parameter": "2472296341"
+                },
+                {
+                  "parameter": "BYBnJBWtnFk"
+                },
+                {
+                  "parameter": "Gdb7OEvQAbs"
+                },
+                {
+                  "parameter": "2472291305"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894431",
+              "vods": [
+                {
+                  "parameter": "lUA3olpdzqQ"
+                },
+                {
+                  "parameter": "2472296458"
+                },
+                {
+                  "parameter": "NRE5LaHxrlw"
+                },
+                {
+                  "parameter": "2472296341"
+                },
+                {
+                  "parameter": "23KVOb_g2bk"
+                },
+                {
+                  "parameter": "Gdb7OEvQAbs"
+                },
+                {
+                  "parameter": "2472291305"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894432",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-30T12:00:00Z",
+          "blockName": "Regional Qualifier",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100894433",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "GAM Esports",
+                "code": "GAM",
+                "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "MGN Vikings Esports",
+                "code": "MVKE",
+                "image": "http://static.lolesports.com/teams/1704789745043_1280X1280color.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100894434",
+              "vods": [
+                {
+                  "parameter": "lUA3olpdzqQ"
+                },
+                {
+                  "parameter": "2472296458"
+                },
+                {
+                  "parameter": "NRE5LaHxrlw"
+                },
+                {
+                  "parameter": "2472296341"
+                },
+                {
+                  "parameter": "5MZ49u1HgaM"
+                },
+                {
+                  "parameter": "Gdb7OEvQAbs"
+                },
+                {
+                  "parameter": "2472291305"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894435",
+              "vods": [
+                {
+                  "parameter": "lUA3olpdzqQ"
+                },
+                {
+                  "parameter": "2472296458"
+                },
+                {
+                  "parameter": "NRE5LaHxrlw"
+                },
+                {
+                  "parameter": "2472296341"
+                },
+                {
+                  "parameter": "vh3Io6iFOLw"
+                },
+                {
+                  "parameter": "Gdb7OEvQAbs"
+                },
+                {
+                  "parameter": "2472291305"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894436",
+              "vods": [
+                {
+                  "parameter": "lUA3olpdzqQ"
+                },
+                {
+                  "parameter": "2472296458"
+                },
+                {
+                  "parameter": "NRE5LaHxrlw"
+                },
+                {
+                  "parameter": "2472296341"
+                },
+                {
+                  "parameter": "VN_Sd9FRKiQ"
+                },
+                {
+                  "parameter": "Gdb7OEvQAbs"
+                },
+                {
+                  "parameter": "2472291305"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-31T09:30:00Z",
+          "blockName": "Regional Qualifier",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100894437",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "CTBC Flying Oyster",
+                "code": "CFO",
+                "image": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png",
+                "result": {
+                  "gameWins": 2
+                }
+              },
+              {
+                "name": "GAM Esports",
+                "code": "GAM",
+                "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100894438",
+              "vods": [
+                {
+                  "parameter": "UO4yzP3IIkI"
+                },
+                {
+                  "parameter": "2473228590"
+                },
+                {
+                  "parameter": "RfAiFBnsCE0"
+                },
+                {
+                  "parameter": "2473228524"
+                },
+                {
+                  "parameter": "73X80w7MJgU"
+                },
+                {
+                  "parameter": "FEIPaJ1OcvE"
+                },
+                {
+                  "parameter": "2473223177"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894439",
+              "vods": [
+                {
+                  "parameter": "UO4yzP3IIkI"
+                },
+                {
+                  "parameter": "2473228590"
+                },
+                {
+                  "parameter": "RfAiFBnsCE0"
+                },
+                {
+                  "parameter": "2473228524"
+                },
+                {
+                  "parameter": "QxlMRkNsVfs"
+                },
+                {
+                  "parameter": "FEIPaJ1OcvE"
+                },
+                {
+                  "parameter": "2473223177"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894440",
+              "vods": [
+                {
+                  "parameter": "UO4yzP3IIkI"
+                },
+                {
+                  "parameter": "2473228590"
+                },
+                {
+                  "parameter": "RfAiFBnsCE0"
+                },
+                {
+                  "parameter": "2473228524"
+                },
+                {
+                  "parameter": "Vy7UzHODhHM"
+                },
+                {
+                  "parameter": "FEIPaJ1OcvE"
+                },
+                {
+                  "parameter": "2473223177"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-05-31T12:00:00Z",
+          "blockName": "Regional Qualifier",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100894441",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Team Secret Whales",
+                "code": "TSW",
+                "image": "http://static.lolesports.com/teams/1734342451643_SecretWhalesLogoLockupWhite.png",
+                "result": {
+                  "gameWins": 0
+                }
+              },
+              {
+                "name": "Talon",
+                "code": "TLN",
+                "image": "http://static.lolesports.com/teams/1736161478996_Talon_BirdLogomark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 3
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100894442",
+              "vods": [
+                {
+                  "parameter": "UO4yzP3IIkI"
+                },
+                {
+                  "parameter": "2473228590"
+                },
+                {
+                  "parameter": "RfAiFBnsCE0"
+                },
+                {
+                  "parameter": "2473228524"
+                },
+                {
+                  "parameter": "vhCxkwItGlQ"
+                },
+                {
+                  "parameter": "FEIPaJ1OcvE"
+                },
+                {
+                  "parameter": "2473223177"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894443",
+              "vods": [
+                {
+                  "parameter": "UO4yzP3IIkI"
+                },
+                {
+                  "parameter": "2473228590"
+                },
+                {
+                  "parameter": "RfAiFBnsCE0"
+                },
+                {
+                  "parameter": "2473228524"
+                },
+                {
+                  "parameter": "T90wmL3lFi8"
+                },
+                {
+                  "parameter": "FEIPaJ1OcvE"
+                },
+                {
+                  "parameter": "2473223177"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894444",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-01T09:30:00Z",
+          "blockName": "Regional Qualifier",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100894445",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "CTBC Flying Oyster",
+                "code": "CFO",
+                "image": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png",
+                "result": {
+                  "gameWins": 3
+                }
+              },
+              {
+                "name": "Talon",
+                "code": "TLN",
+                "image": "http://static.lolesports.com/teams/1736161478996_Talon_BirdLogomark.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100894446",
+              "vods": [
+                {
+                  "parameter": "e7z792VPFHk"
+                },
+                {
+                  "parameter": "YOw8qQmfzgA"
+                },
+                {
+                  "parameter": "J8iT06R98og"
+                },
+                {
+                  "parameter": "2ljvgctl-nA"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894447",
+              "vods": [
+                {
+                  "parameter": "e7z792VPFHk"
+                },
+                {
+                  "parameter": "YOw8qQmfzgA"
+                },
+                {
+                  "parameter": "nLuLhmmlw6M"
+                },
+                {
+                  "parameter": "2ljvgctl-nA"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894448",
+              "vods": [
+                {
+                  "parameter": "e7z792VPFHk"
+                },
+                {
+                  "parameter": "YOw8qQmfzgA"
+                },
+                {
+                  "parameter": "13F-lXUI0_0"
+                },
+                {
+                  "parameter": "2ljvgctl-nA"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894449",
+              "vods": [
+                {
+                  "parameter": "e7z792VPFHk"
+                },
+                {
+                  "parameter": "YOw8qQmfzgA"
+                },
+                {
+                  "parameter": "rLf176wg4FQ"
+                },
+                {
+                  "parameter": "DdtkaqfAz8M"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894450",
+              "vods": [
+                {
+                  "parameter": "e7z792VPFHk"
+                },
+                {
+                  "parameter": "YOw8qQmfzgA"
+                },
+                {
+                  "parameter": "jf02IYp9ETA"
+                },
+                {
+                  "parameter": "DdtkaqfAz8M"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-06T09:30:00Z",
+          "blockName": "Regional Qualifier",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100894451",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "GAM Esports",
+                "code": "GAM",
+                "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
+                "result": {
+                  "gameWins": 3
+                }
+              },
+              {
+                "name": "Team Secret Whales",
+                "code": "TSW",
+                "image": "http://static.lolesports.com/teams/1734342451643_SecretWhalesLogoLockupWhite.png",
+                "result": {
+                  "gameWins": 1
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100894452",
+              "vods": [
+                {
+                  "parameter": "-7DoBn1LiSE"
+                },
+                {
+                  "parameter": "wUz_mh6pZoM"
+                },
+                {
+                  "parameter": "-Gie6QWbwPM"
+                },
+                {
+                  "parameter": "S44mC3lfhBI"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894453",
+              "vods": [
+                {
+                  "parameter": "-7DoBn1LiSE"
+                },
+                {
+                  "parameter": "wUz_mh6pZoM"
+                },
+                {
+                  "parameter": "N1yf1l-Nuz4"
+                },
+                {
+                  "parameter": "S44mC3lfhBI"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894454",
+              "vods": [
+                {
+                  "parameter": "-7DoBn1LiSE"
+                },
+                {
+                  "parameter": "wUz_mh6pZoM"
+                },
+                {
+                  "parameter": "lDIaHplI5iY"
+                },
+                {
+                  "parameter": "S44mC3lfhBI"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894455",
+              "vods": [
+                {
+                  "parameter": "-7DoBn1LiSE"
+                },
+                {
+                  "parameter": "wUz_mh6pZoM"
+                },
+                {
+                  "parameter": "QMPPiNzbziQ"
+                },
+                {
+                  "parameter": "S44mC3lfhBI"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894456",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-07T09:30:00Z",
+          "blockName": "Regional Qualifier",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100894457",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "Talon",
+                "code": "TLN",
+                "image": "http://static.lolesports.com/teams/1736161478996_Talon_BirdLogomark.png",
+                "result": {
+                  "gameWins": 1
+                }
+              },
+              {
+                "name": "GAM Esports",
+                "code": "GAM",
+                "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
+                "result": {
+                  "gameWins": 3
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100894458",
+              "vods": [
+                {
+                  "parameter": "B0MHSCciLtU"
+                },
+                {
+                  "parameter": "2479407770"
+                },
+                {
+                  "parameter": "0APtVhjccDc"
+                },
+                {
+                  "parameter": "2479407516"
+                },
+                {
+                  "parameter": "b0oiS5wyhfY"
+                },
+                {
+                  "parameter": "xlIFl5VZOWA"
+                },
+                {
+                  "parameter": "2479401021"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894459",
+              "vods": [
+                {
+                  "parameter": "B0MHSCciLtU"
+                },
+                {
+                  "parameter": "2479407770"
+                },
+                {
+                  "parameter": "0APtVhjccDc"
+                },
+                {
+                  "parameter": "2479407516"
+                },
+                {
+                  "parameter": "tr2s6eya1-Y"
+                },
+                {
+                  "parameter": "xlIFl5VZOWA"
+                },
+                {
+                  "parameter": "2479401021"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894460",
+              "vods": [
+                {
+                  "parameter": "B0MHSCciLtU"
+                },
+                {
+                  "parameter": "2479407770"
+                },
+                {
+                  "parameter": "0APtVhjccDc"
+                },
+                {
+                  "parameter": "2479407516"
+                },
+                {
+                  "parameter": "9kdBcQOLRik"
+                },
+                {
+                  "parameter": "xlIFl5VZOWA"
+                },
+                {
+                  "parameter": "2479401021"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894461",
+              "vods": [
+                {
+                  "parameter": "B0MHSCciLtU"
+                },
+                {
+                  "parameter": "2479407770"
+                },
+                {
+                  "parameter": "0APtVhjccDc"
+                },
+                {
+                  "parameter": "2479407516"
+                },
+                {
+                  "parameter": "OI0Q2rop5sc"
+                },
+                {
+                  "parameter": "xlIFl5VZOWA"
+                },
+                {
+                  "parameter": "2479401021"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894462",
+              "vods": []
+            }
+          ]
+        },
+        {
+          "startTime": "2025-06-08T09:30:00Z",
+          "blockName": "Regional Qualifier",
+          "league": {
+            "name": "LCP"
+          },
+          "match": {
+            "id": "113503075100894463",
+            "type": "normal",
+            "teams": [
+              {
+                "name": "CTBC Flying Oyster",
+                "code": "CFO",
+                "image": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png",
+                "result": {
+                  "gameWins": 3
+                }
+              },
+              {
+                "name": "GAM Esports",
+                "code": "GAM",
+                "image": "http://static.lolesports.com/teams/1643263093448_GAMyellow.png",
+                "result": {
+                  "gameWins": 2
+                }
+              }
+            ],
+            "strategy": {
+              "type": "bestOf",
+              "count": 5
+            }
+          },
+          "games": [
+            {
+              "id": "113503075100894464",
+              "vods": [
+                {
+                  "parameter": "JnI9VtZ89CA"
+                },
+                {
+                  "parameter": "2480360143"
+                },
+                {
+                  "parameter": "gjLBap9zVOE"
+                },
+                {
+                  "parameter": "2480362308"
+                },
+                {
+                  "parameter": "zKFoBjv_n9U"
+                },
+                {
+                  "parameter": "9lE5fRocZkg"
+                },
+                {
+                  "parameter": "2480354540"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894465",
+              "vods": [
+                {
+                  "parameter": "JnI9VtZ89CA"
+                },
+                {
+                  "parameter": "2480360143"
+                },
+                {
+                  "parameter": "gjLBap9zVOE"
+                },
+                {
+                  "parameter": "2480362308"
+                },
+                {
+                  "parameter": "ec1XUvNogow"
+                },
+                {
+                  "parameter": "9lE5fRocZkg"
+                },
+                {
+                  "parameter": "2480354540"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894466",
+              "vods": [
+                {
+                  "parameter": "JnI9VtZ89CA"
+                },
+                {
+                  "parameter": "2480360143"
+                },
+                {
+                  "parameter": "gjLBap9zVOE"
+                },
+                {
+                  "parameter": "2480362308"
+                },
+                {
+                  "parameter": "qrLIsORK_28"
+                },
+                {
+                  "parameter": "9lE5fRocZkg"
+                },
+                {
+                  "parameter": "2480354540"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894467",
+              "vods": [
+                {
+                  "parameter": "JnI9VtZ89CA"
+                },
+                {
+                  "parameter": "2480360143"
+                },
+                {
+                  "parameter": "gjLBap9zVOE"
+                },
+                {
+                  "parameter": "2480362308"
+                },
+                {
+                  "parameter": "9G7yeW8zg_k"
+                },
+                {
+                  "parameter": "9lE5fRocZkg"
+                },
+                {
+                  "parameter": "2480354540"
+                }
+              ]
+            },
+            {
+              "id": "113503075100894468",
+              "vods": [
+                {
+                  "parameter": "JnI9VtZ89CA"
+                },
+                {
+                  "parameter": "2480360143"
+                },
+                {
+                  "parameter": "gjLBap9zVOE"
+                },
+                {
+                  "parameter": "2480362308"
+                },
+                {
+                  "parameter": "V8rWJV0pUZo"
+                },
+                {
+                  "parameter": "9lE5fRocZkg"
+                },
+                {
+                  "parameter": "2480354540"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

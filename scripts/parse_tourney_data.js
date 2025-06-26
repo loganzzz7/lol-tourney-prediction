@@ -36,7 +36,7 @@ async function mergeFeatureWorkbooks() {
 
 async function main() {
   const wb    = new Excel.Workbook();
-  const infile = path.join("xlsx_data", "lck_25S2_Tournaments.xlsx");
+  const infile = path.join("xlsx_data", "lcp_25S2_Tournaments.xlsx");
   await wb.xlsx.readFile(infile);
   const sheet = wb.getWorksheet(1);
 
@@ -54,7 +54,7 @@ async function main() {
     try {
       details = await client.games.getDetails(gameId.toString(), windowTs.toString());
     } catch (err) {
-      console.warn(`⚠️ Skipping ${gameId}: API error (${err.message})`);
+      console.warn(`!!!! Skipping ${gameId}: API error (${err.message})`);
       continue;
     }
 
@@ -98,7 +98,7 @@ async function main() {
         py.on("close", code => code === 0 ? res() : rej(code));
       });
     } catch (code) {
-      console.warn(`⚠️ Parsing failed for ${gameId} (exit code ${code}), skipping.`);
+      console.warn(`!!!! Parsing failed for ${gameId} (exit code ${code}), skipping.`);
     }
   }
 
